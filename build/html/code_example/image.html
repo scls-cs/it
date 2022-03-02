@@ -1,0 +1,175 @@
+<!DOCTYPE html>
+<html class="writer-html5" lang="en" >
+<head>
+  <meta charset="utf-8" /><meta name="generator" content="Docutils 0.17.1: http://docutils.sourceforge.net/" />
+
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>图像编码 &mdash; 宋庆龄学校信息技术  documentation</title>
+      <link rel="stylesheet" href="../_static/pygments.css" type="text/css" />
+      <link rel="stylesheet" href="../_static/css/theme.css" type="text/css" />
+  <!--[if lt IE 9]>
+    <script src="../_static/js/html5shiv.min.js"></script>
+  <![endif]-->
+  
+        <script data-url_root="../" id="documentation_options" src="../_static/documentation_options.js"></script>
+        <script src="../_static/jquery.js"></script>
+        <script src="../_static/underscore.js"></script>
+        <script src="../_static/doctools.js"></script>
+    <script src="../_static/js/theme.js"></script>
+    <link rel="index" title="Index" href="../genindex.html" />
+    <link rel="search" title="Search" href="../search.html" />
+    <link rel="next" title="声音编码" href="sound.html" />
+    <link rel="prev" title="字符编码" href="char.html" /> 
+</head>
+
+<body class="wy-body-for-nav"> 
+  <div class="wy-grid-for-nav">
+    <nav data-toggle="wy-nav-shift" class="wy-nav-side">
+      <div class="wy-side-scroll">
+        <div class="wy-side-nav-search" >
+            <a href="../index.html" class="icon icon-home"> 宋庆龄学校信息技术
+          </a>
+<div role="search">
+  <form id="rtd-search-form" class="wy-form" action="../search.html" method="get">
+    <input type="text" name="q" placeholder="Search docs" />
+    <input type="hidden" name="check_keywords" value="yes" />
+    <input type="hidden" name="area" value="default" />
+  </form>
+</div>
+        </div><div class="wy-menu wy-menu-vertical" data-spy="affix" role="navigation" aria-label="Navigation menu">
+              <p class="caption" role="heading"><span class="caption-text">信息编码</span></p>
+<ul>
+<li class="toctree-l1"><a class="reference internal" href="../information/digital.html">信息与数字化</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../information/positional_notation.html">进位计数制</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../information/number_convert.html">数制转换</a></li>
+</ul>
+<p class="caption" role="heading"><span class="caption-text">信息编码实例</span></p>
+<ul class="current">
+<li class="toctree-l1"><a class="reference internal" href="char.html">字符编码</a></li>
+<li class="toctree-l1 current"><a class="current reference internal" href="#">图像编码</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="#id2">位图</a><ul>
+<li class="toctree-l3"><a class="reference internal" href="#id3">像素</a></li>
+<li class="toctree-l3"><a class="reference internal" href="#id4">分辨率</a></li>
+<li class="toctree-l3"><a class="reference internal" href="#id5">像素编码</a></li>
+</ul>
+</li>
+<li class="toctree-l2"><a class="reference internal" href="#id6">矢量图</a></li>
+</ul>
+</li>
+<li class="toctree-l1"><a class="reference internal" href="sound.html">声音编码</a></li>
+<li class="toctree-l1"><a class="reference internal" href="compress.html">信息压缩</a></li>
+</ul>
+
+        </div>
+      </div>
+    </nav>
+
+    <section data-toggle="wy-nav-shift" class="wy-nav-content-wrap"><nav class="wy-nav-top" aria-label="Mobile navigation menu" >
+          <i data-toggle="wy-nav-top" class="fa fa-bars"></i>
+          <a href="../index.html">宋庆龄学校信息技术</a>
+      </nav>
+
+      <div class="wy-nav-content">
+        <div class="rst-content">
+          <div role="navigation" aria-label="Page navigation">
+  <ul class="wy-breadcrumbs">
+      <li><a href="../index.html" class="icon icon-home"></a> &raquo;</li>
+      <li>图像编码</li>
+      <li class="wy-breadcrumbs-aside">
+            <a href="../_sources/code_example/image.rst.txt" rel="nofollow"> View page source</a>
+      </li>
+  </ul>
+  <hr/>
+</div>
+          <div role="main" class="document" itemscope="itemscope" itemtype="http://schema.org/Article">
+           <div itemprop="articleBody">
+             
+  <section id="id1">
+<h1>图像编码<a class="headerlink" href="#id1" title="Permalink to this headline"></a></h1>
+<section id="id2">
+<h2>位图<a class="headerlink" href="#id2" title="Permalink to this headline"></a></h2>
+<p>位图又称为点阵图，是由像素组成。像素的不同排列和染色组成不同的图像。日常见到的大多数图像都是位图，格式包括BMP、GIF、TIF、JPG、PNG等。</p>
+<section id="id3">
+<h3>像素<a class="headerlink" href="#id3" title="Permalink to this headline"></a></h3>
+<p>像素是构成图像的最小单位。</p>
+</section>
+<section id="id4">
+<h3>分辨率<a class="headerlink" href="#id4" title="Permalink to this headline"></a></h3>
+<p>图像中像素的数量。</p>
+<a class="reference internal image-reference" href="../_images/teapot.png"><img alt="../_images/teapot.png" src="../_images/teapot.png" style="width: 325.0px; height: 262.0px;" /></a>
+<p>上图茶杯的图像横向方向有16个像素，纵向方向有12个像素。该图像的分辨率：16x12=192</p>
+</section>
+<section id="id5">
+<h3>像素编码<a class="headerlink" href="#id5" title="Permalink to this headline"></a></h3>
+<p>像素编码是指用二进制来表示像素的颜色。</p>
+<a class="reference internal image-reference" href="../_images/color_code.png"><img alt="../_images/color_code.png" src="../_images/color_code.png" style="width: 514.0px; height: 235.0px;" /></a>
+<ul class="simple">
+<li><p>位深度：像素编码的二进制位数。位深度决定了图像所包含的最大颜色数。</p></li>
+</ul>
+<div class="admonition note">
+<p class="admonition-title">Note</p>
+<p>像素为深度为N，则像素颜色最多可以有2^N种不同的可能性。</p>
+</div>
+</section>
+</section>
+<section id="id6">
+<h2>矢量图<a class="headerlink" href="#id6" title="Permalink to this headline"></a></h2>
+<p>矢量图使用直线和曲线等属性来描述图形，是通过数学公式获得的。矢量图经常用来做为商标Logo图像使用。</p>
+<div class="admonition note">
+<p class="admonition-title">Note</p>
+<p>位图优点是色彩丰富，缺点是位图放大之后会模糊失真。矢量图优点是无论放大、缩小或者旋转等都不会失真，缺点是难以表现色彩层次丰富的逼真图像效果。</p>
+</div>
+<div class="highlight-text notranslate"><div class="highlight"><pre><span></span>问题1: 16色位图，每个像素需要几位二进制来表示？
+
+答案：4
+</pre></div>
+</div>
+<div class="highlight-text notranslate"><div class="highlight"><pre><span></span>问题2: 一个分辨率为16*16的16位位图需要占用多少字节？
+
+解答：分辨率16*16表示有256个像素点，每个像素点用16位编码，所以总共需要用256*16（位）进行编码。
+
+所需字节：256*16/8 = 512字节
+</pre></div>
+</div>
+<div class="highlight-text notranslate"><div class="highlight"><pre><span></span>问题3: 一个分辨率为16*16的16色位图需要占用多少字节？
+
+解答：分辨率16*16表示有256个像素点，16色位图说明每个像素点用4位编码，所以总共需要用256*4（位）进行编码。
+
+所需字节：256*4/8 = 128字节
+</pre></div>
+</div>
+</section>
+</section>
+
+
+           </div>
+          </div>
+          <footer><div class="rst-footer-buttons" role="navigation" aria-label="Footer">
+        <a href="char.html" class="btn btn-neutral float-left" title="字符编码" accesskey="p" rel="prev"><span class="fa fa-arrow-circle-left" aria-hidden="true"></span> Previous</a>
+        <a href="sound.html" class="btn btn-neutral float-right" title="声音编码" accesskey="n" rel="next">Next <span class="fa fa-arrow-circle-right" aria-hidden="true"></span></a>
+    </div>
+
+  <hr/>
+
+  <div role="contentinfo">
+    <p>&#169; Copyright 2020, Derek.</p>
+  </div>
+
+  Built with <a href="https://www.sphinx-doc.org/">Sphinx</a> using a
+    <a href="https://github.com/readthedocs/sphinx_rtd_theme">theme</a>
+    provided by <a href="https://readthedocs.org">Read the Docs</a>.
+   
+
+</footer>
+        </div>
+      </div>
+    </section>
+  </div>
+  <script>
+      jQuery(function () {
+          SphinxRtdTheme.Navigation.enable(true);
+      });
+  </script> 
+
+</body>
+</html>

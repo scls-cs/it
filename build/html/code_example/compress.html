@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<html class="writer-html5" lang="en" >
+<head>
+  <meta charset="utf-8" /><meta name="generator" content="Docutils 0.17.1: http://docutils.sourceforge.net/" />
+
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>信息压缩 &mdash; 宋庆龄学校信息技术  documentation</title>
+      <link rel="stylesheet" href="../_static/pygments.css" type="text/css" />
+      <link rel="stylesheet" href="../_static/css/theme.css" type="text/css" />
+  <!--[if lt IE 9]>
+    <script src="../_static/js/html5shiv.min.js"></script>
+  <![endif]-->
+  
+        <script data-url_root="../" id="documentation_options" src="../_static/documentation_options.js"></script>
+        <script src="../_static/jquery.js"></script>
+        <script src="../_static/underscore.js"></script>
+        <script src="../_static/doctools.js"></script>
+    <script src="../_static/js/theme.js"></script>
+    <link rel="index" title="Index" href="../genindex.html" />
+    <link rel="search" title="Search" href="../search.html" />
+    <link rel="next" title="&lt;no title&gt;" href="../python_midterm/paper.html" />
+    <link rel="prev" title="声音编码" href="sound.html" /> 
+</head>
+
+<body class="wy-body-for-nav"> 
+  <div class="wy-grid-for-nav">
+    <nav data-toggle="wy-nav-shift" class="wy-nav-side">
+      <div class="wy-side-scroll">
+        <div class="wy-side-nav-search" >
+            <a href="../index.html" class="icon icon-home"> 宋庆龄学校信息技术
+          </a>
+<div role="search">
+  <form id="rtd-search-form" class="wy-form" action="../search.html" method="get">
+    <input type="text" name="q" placeholder="Search docs" />
+    <input type="hidden" name="check_keywords" value="yes" />
+    <input type="hidden" name="area" value="default" />
+  </form>
+</div>
+        </div><div class="wy-menu wy-menu-vertical" data-spy="affix" role="navigation" aria-label="Navigation menu">
+              <p class="caption" role="heading"><span class="caption-text">信息编码</span></p>
+<ul>
+<li class="toctree-l1"><a class="reference internal" href="../information/digital.html">信息与数字化</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../information/positional_notation.html">进位计数制</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../information/number_convert.html">数制转换</a></li>
+</ul>
+<p class="caption" role="heading"><span class="caption-text">信息编码实例</span></p>
+<ul class="current">
+<li class="toctree-l1"><a class="reference internal" href="char.html">字符编码</a></li>
+<li class="toctree-l1"><a class="reference internal" href="image.html">图像编码</a></li>
+<li class="toctree-l1"><a class="reference internal" href="sound.html">声音编码</a></li>
+<li class="toctree-l1 current"><a class="current reference internal" href="#">信息压缩</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="#id2">信息压缩举例</a><ul>
+<li class="toctree-l3"><a class="reference internal" href="#id3">图片压缩</a></li>
+</ul>
+</li>
+<li class="toctree-l2"><a class="reference internal" href="#id4">有损压缩和无损压缩</a><ul>
+<li class="toctree-l3"><a class="reference internal" href="#id5">无损压缩</a></li>
+<li class="toctree-l3"><a class="reference internal" href="#id6">有损压缩</a></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+
+        </div>
+      </div>
+    </nav>
+
+    <section data-toggle="wy-nav-shift" class="wy-nav-content-wrap"><nav class="wy-nav-top" aria-label="Mobile navigation menu" >
+          <i data-toggle="wy-nav-top" class="fa fa-bars"></i>
+          <a href="../index.html">宋庆龄学校信息技术</a>
+      </nav>
+
+      <div class="wy-nav-content">
+        <div class="rst-content">
+          <div role="navigation" aria-label="Page navigation">
+  <ul class="wy-breadcrumbs">
+      <li><a href="../index.html" class="icon icon-home"></a> &raquo;</li>
+      <li>信息压缩</li>
+      <li class="wy-breadcrumbs-aside">
+            <a href="../_sources/code_example/compress.rst.txt" rel="nofollow"> View page source</a>
+      </li>
+  </ul>
+  <hr/>
+</div>
+          <div role="main" class="document" itemscope="itemscope" itemtype="http://schema.org/Article">
+           <div itemprop="articleBody">
+             
+  <section id="id1">
+<h1>信息压缩<a class="headerlink" href="#id1" title="Permalink to this headline"></a></h1>
+<section id="id2">
+<h2>信息压缩举例<a class="headerlink" href="#id2" title="Permalink to this headline"></a></h2>
+<section id="id3">
+<h3>图片压缩<a class="headerlink" href="#id3" title="Permalink to this headline"></a></h3>
+<p>如图所示为分辨率为16x16，16色的位图。对其压缩的方法为：以“行”为单位，用“相同颜色连续出现的次数 + 颜色名称”来表示。当使用五位二进制表示颜色连续出现的次数，每种颜色用四位二进制表示，则第二行和第三行经过压缩之后占多少个二进制位？</p>
+<img alt="../_images/image.png" src="../_images/image.png" />
+<p>解析：</p>
+<p>第二行可以被描述成：“1灰14蓝1灰”，总共需要（5+4)*3 = 21位存储</p>
+<p>第三行可以被描述成：“1灰1蓝6黑6白1蓝1灰”，总共需要（5+4)*6 = 42位存储</p>
+</section>
+</section>
+<section id="id4">
+<h2>有损压缩和无损压缩<a class="headerlink" href="#id4" title="Permalink to this headline"></a></h2>
+<section id="id5">
+<h3>无损压缩<a class="headerlink" href="#id5" title="Permalink to this headline"></a></h3>
+<ul class="simple">
+<li><p>无损压缩：对压缩后的数据进行还原，还原后的数据和原来的数据完全相同。</p></li>
+<li><p>常用方法：WinZip, WinRAR</p></li>
+</ul>
+</section>
+<section id="id6">
+<h3>有损压缩<a class="headerlink" href="#id6" title="Permalink to this headline"></a></h3>
+<ul class="simple">
+<li><p>有损压缩：压缩过程中会损失一定的信息，压缩后的数据无法还原成原始数据。</p></li>
+<li><p>常见压缩格式：JPG、MP3、MPEG</p></li>
+</ul>
+<div class="admonition note">
+<p class="admonition-title">Note</p>
+<p>只能适用于无损压缩的格式：TXT, DOC, XLS, PPT, VB, JAVA…</p>
+<p>可以采用有损压缩的格式：BMP, WAV, AVI…</p>
+<p>总结：只有多媒体文件（图片、音频、视频）才能进行有损压缩！除多媒体文件之外的所有其它文件必须进行无损压缩！</p>
+</div>
+</section>
+</section>
+</section>
+
+
+           </div>
+          </div>
+          <footer><div class="rst-footer-buttons" role="navigation" aria-label="Footer">
+        <a href="sound.html" class="btn btn-neutral float-left" title="声音编码" accesskey="p" rel="prev"><span class="fa fa-arrow-circle-left" aria-hidden="true"></span> Previous</a>
+        <a href="../python_midterm/paper.html" class="btn btn-neutral float-right" title="&lt;no title&gt;" accesskey="n" rel="next">Next <span class="fa fa-arrow-circle-right" aria-hidden="true"></span></a>
+    </div>
+
+  <hr/>
+
+  <div role="contentinfo">
+    <p>&#169; Copyright 2020, Derek.</p>
+  </div>
+
+  Built with <a href="https://www.sphinx-doc.org/">Sphinx</a> using a
+    <a href="https://github.com/readthedocs/sphinx_rtd_theme">theme</a>
+    provided by <a href="https://readthedocs.org">Read the Docs</a>.
+   
+
+</footer>
+        </div>
+      </div>
+    </section>
+  </div>
+  <script>
+      jQuery(function () {
+          SphinxRtdTheme.Navigation.enable(true);
+      });
+  </script> 
+
+</body>
+</html>

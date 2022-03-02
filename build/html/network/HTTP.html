@@ -1,0 +1,198 @@
+<!DOCTYPE html>
+<html class="writer-html5" lang="en" >
+<head>
+  <meta charset="utf-8" /><meta name="generator" content="Docutils 0.17.1: http://docutils.sourceforge.net/" />
+
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>网络协议(上) &mdash; 宋庆龄学校信息技术  documentation</title>
+      <link rel="stylesheet" href="../_static/pygments.css" type="text/css" />
+      <link rel="stylesheet" href="../_static/css/theme.css" type="text/css" />
+  <!--[if lt IE 9]>
+    <script src="../_static/js/html5shiv.min.js"></script>
+  <![endif]-->
+  
+        <script data-url_root="../" id="documentation_options" src="../_static/documentation_options.js"></script>
+        <script src="../_static/jquery.js"></script>
+        <script src="../_static/underscore.js"></script>
+        <script src="../_static/doctools.js"></script>
+    <script src="../_static/js/theme.js"></script>
+    <link rel="index" title="Index" href="../genindex.html" />
+    <link rel="search" title="Search" href="../search.html" /> 
+</head>
+
+<body class="wy-body-for-nav"> 
+  <div class="wy-grid-for-nav">
+    <nav data-toggle="wy-nav-shift" class="wy-nav-side">
+      <div class="wy-side-scroll">
+        <div class="wy-side-nav-search" >
+            <a href="../index.html" class="icon icon-home"> 宋庆龄学校信息技术
+          </a>
+<div role="search">
+  <form id="rtd-search-form" class="wy-form" action="../search.html" method="get">
+    <input type="text" name="q" placeholder="Search docs" />
+    <input type="hidden" name="check_keywords" value="yes" />
+    <input type="hidden" name="area" value="default" />
+  </form>
+</div>
+        </div><div class="wy-menu wy-menu-vertical" data-spy="affix" role="navigation" aria-label="Navigation menu">
+              <p class="caption" role="heading"><span class="caption-text">信息编码</span></p>
+<ul>
+<li class="toctree-l1"><a class="reference internal" href="../information/digital.html">信息与数字化</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../information/positional_notation.html">进位计数制</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../information/number_convert.html">数制转换</a></li>
+</ul>
+<p class="caption" role="heading"><span class="caption-text">信息编码实例</span></p>
+<ul>
+<li class="toctree-l1"><a class="reference internal" href="../code_example/char.html">字符编码</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../code_example/image.html">图像编码</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../code_example/sound.html">声音编码</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../code_example/compress.html">信息压缩</a></li>
+</ul>
+
+        </div>
+      </div>
+    </nav>
+
+    <section data-toggle="wy-nav-shift" class="wy-nav-content-wrap"><nav class="wy-nav-top" aria-label="Mobile navigation menu" >
+          <i data-toggle="wy-nav-top" class="fa fa-bars"></i>
+          <a href="../index.html">宋庆龄学校信息技术</a>
+      </nav>
+
+      <div class="wy-nav-content">
+        <div class="rst-content">
+          <div role="navigation" aria-label="Page navigation">
+  <ul class="wy-breadcrumbs">
+      <li><a href="../index.html" class="icon icon-home"></a> &raquo;</li>
+      <li>网络协议(上)</li>
+      <li class="wy-breadcrumbs-aside">
+            <a href="../_sources/network/HTTP.rst.txt" rel="nofollow"> View page source</a>
+      </li>
+  </ul>
+  <hr/>
+</div>
+          <div role="main" class="document" itemscope="itemscope" itemtype="http://schema.org/Article">
+           <div itemprop="articleBody">
+             
+  <section id="id1">
+<h1>网络协议(上)<a class="headerlink" href="#id1" title="Permalink to this headline"></a></h1>
+<section id="id2">
+<h2>终端<a class="headerlink" href="#id2" title="Permalink to this headline"></a></h2>
+<ul class="simple">
+<li><p>终端和我们日常用的浏览器一样，本质也是一段程序。只不过这个程序可以对电脑做更多的事情。</p></li>
+<li><p>终端的界面对于某一类人群非常友好，比如工程师、科研工作者等。但对于我们普通用户来说，我们更习惯于用浏览器浏览网页。</p></li>
+<li><p>浏览器的本质也是一段程序。网络通信实际上是程序和程序之间的通信。</p></li>
+</ul>
+</section>
+<section id="id3">
+<h2>客户机-服务器模型<a class="headerlink" href="#id3" title="Permalink to this headline"></a></h2>
+<ul class="simple">
+<li><p>Google.com本质也是一段程序，这段程序在google的服务器上运行。</p></li>
+<li><p>访问google.com时，浏览器作为一个客户机（Client）向google的服务器发出一个请求。Google服务器（Server）响应请求并将搜索的结果返回给客户机。</p></li>
+</ul>
+<a class="reference internal image-reference" href="../_images/client-server.png"><img alt="../_images/client-server.png" src="../_images/client-server.png" style="width: 298.5px; height: 120.5px;" /></a>
+<ul class="simple">
+<li><p>可以类比我们平常去餐馆吃饭。我们点菜的时候，是作为客户在消费。我们作为消费者，角色相当于客户机，餐馆则作为服务器提供服务。一个餐馆同一时段可能要服务很多客户。同样，一台服务器同时也会处理很多客户机的请求。</p></li>
+<li><p>客户机-服务器模型是现代互联网的基本架构。客户机之间交流需要通过服务器进行。现代互联网是以服务器为中心来运行的。</p></li>
+</ul>
+<a class="reference internal image-reference" href="../_images/server.png"><img alt="../_images/server.png" src="../_images/server.png" style="width: 252.0px; height: 183.0px;" /></a>
+</section>
+<section id="id4">
+<h2>去中心化浪潮<a class="headerlink" href="#id4" title="Permalink to this headline"></a></h2>
+<ul class="simple">
+<li><p>我们每天都在使用互联网公司提供的服务，比如通过微信服务器聊天，通过钉钉服务器上网课，通过淘宝和京东服务器网购。</p></li>
+<li><p>中心化的服务器为我们的生活提供了很多便利，但也带来了很多问题，包括隐私、安全、成本昂贵、垄断等等。</p></li>
+<li><p>现在科技界兴起一波“去中心化”的浪潮，目的是打破大公司的服务器在互联网中的垄断地位。</p></li>
+<li><p>典型去中心化技术包括P2P和Blockchain。</p></li>
+</ul>
+</section>
+<section id="www">
+<h2>WWW<a class="headerlink" href="#www" title="Permalink to this headline"></a></h2>
+<ul class="simple">
+<li><p>www是world wide web的缩写，中文又称做万维网。在互联网刚刚兴起时网站很少，为了区别于其它网络服务（如邮箱服务），很多网站习惯在域名前面加上www。</p></li>
+<li><p>www.qq.com是qq.com的子域名。qq.com的其它子域名还包括mail.qq.com（qq邮箱）、live.qq.com（企鹅直播）、auto.qq.com（腾讯汽车）……</p></li>
+</ul>
+</section>
+<section id="http">
+<h2>HTTP<a class="headerlink" href="#http" title="Permalink to this headline"></a></h2>
+<ul class="simple">
+<li><p>HTTP：Hyper Text Transport Protocol，超文本传输协议。HTTP是一整套客户机和服务器之间的通信规范。</p></li>
+<li><p>我们访问google.com，可以类比浏览器向google服务器发了一封信。信封上面除了寄信和收信地址以外，还有如下两行：</p></li>
+</ul>
+<div class="highlight-text notranslate"><div class="highlight"><pre><span></span>GET /  HTTP/1.1
+HOST:  www.google.com
+</pre></div>
+</div>
+<ul class="simple">
+<li><p>GET表示浏览器希望从google服务器获取信息，HTTP/1.1表示浏览器访问google使用的是HTTP协议的1.1版本。HOST一行代表浏览器希望访问的服务器域名。</p></li>
+<li><p>google服务器回复了一封非常长的信。信封上面的前两行是：</p></li>
+</ul>
+<div class="highlight-text notranslate"><div class="highlight"><pre><span></span>HTTP/1.1      200 OK
+Content-Type: text/html
+</pre></div>
+</div>
+<ul class="simple">
+<li><p>信封上的信息（不管是寄信还是收信）称作HTTP header。它里面包含了寄信人和收信人的一些基本信息。日常生活中，我们寄快递需要填一个单子，收信人和寄信人是谁，里面是什么类型的物品，大概有多重，需要怎么运输，是陆运还是空运……</p></li>
+<li><p>200是HTTP的状态码，表示浏览器的请求进行顺利。</p></li>
+</ul>
+<div class="admonition note">
+<p class="admonition-title">Note</p>
+<p>HTTP的状态码还有很多，一些常用的状态码列举如下：</p>
+<ul class="simple">
+<li><p>200:  OK</p></li>
+<li><p>301:  Moved Permanently</p></li>
+<li><p>302:  Found</p></li>
+<li><p>307:  Temporary Redirect</p></li>
+<li><p>401:  Unauthorized</p></li>
+<li><p>403:  Forbidden</p></li>
+<li><p>404:  Not Found</p></li>
+<li><p>500:  Internal Server Error</p></li>
+</ul>
+</div>
+<ul class="simple">
+<li><p>301、302、307的含义是类似的，都意味域名资源已经改变了位置。服务器通常会发送HTTP Location来重新定向到新的位置。</p></li>
+<li><p>在Chrome浏览器中我们可以记录并观察每一条网络请求的相关信息。进入chrome之后，鼠标右键-&gt;inspect-&gt;Network，然后点击Preserve Log（记录所有网络请求）。</p></li>
+</ul>
+<a class="reference internal image-reference" href="../_images/chrome.png"><img alt="../_images/chrome.png" src="../_images/chrome.png" style="width: 528.8000000000001px; height: 240.8px;" /></a>
+<ul class="simple">
+<li><p>在浏览器地址栏中输入google.com，你会看到工具栏中出现了很多请求。其中第一个请求状态码是301，表示google.com对应的域名资源已经改变了位置，新的域名在Response Headers中的Location里面。</p></li>
+</ul>
+<a class="reference internal image-reference" href="../_images/301.jpeg"><img alt="../_images/301.jpeg" src="../_images/301.jpeg" style="width: 516.0px; height: 285.0px;" /></a>
+<ul class="simple">
+<li><p>浏览器又向新的域名发了一次请求。第二个请求的状态码是307。意味着第一个请求返回的新的域名资源依然不存在，服务器又返回一个新的地址。</p></li>
+</ul>
+<a class="reference internal image-reference" href="../_images/307.png"><img alt="../_images/307.png" src="../_images/307.png" style="width: 562.0px; height: 244.0px;" /></a>
+<ul class="simple">
+<li><p>浏览器又向新的域名发了一次请求。第三个请求的状态码是200。意味着新的域名资源是存在的，并且返回相应的网页。</p></li>
+</ul>
+</section>
+</section>
+
+
+           </div>
+          </div>
+          <footer>
+
+  <hr/>
+
+  <div role="contentinfo">
+    <p>&#169; Copyright 2020, Derek.</p>
+  </div>
+
+  Built with <a href="https://www.sphinx-doc.org/">Sphinx</a> using a
+    <a href="https://github.com/readthedocs/sphinx_rtd_theme">theme</a>
+    provided by <a href="https://readthedocs.org">Read the Docs</a>.
+   
+
+</footer>
+        </div>
+      </div>
+    </section>
+  </div>
+  <script>
+      jQuery(function () {
+          SphinxRtdTheme.Navigation.enable(true);
+      });
+  </script> 
+
+</body>
+</html>
