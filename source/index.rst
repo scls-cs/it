@@ -4,29 +4,10 @@
 .. title:: 信息技术
 
 .. toctree::
-   :caption: 信息编码
+   :caption: 计算机网络
    :hidden:
-   :maxdepth: 3
+   :maxdepth: 10
 
-   information/digital
-   information/positional_notation
-   information/number_convert
-
-.. toctree::
-   :caption: 信息编码实例
-   :hidden:
-   :maxdepth: 3
-
-   code_example/char
-   code_example/image
-   code_example/sound
-   code_example/compress
-
-.. toctree::
-   :caption: 期中模拟
-   :hidden:
-   :maxdepth: 3
-
-   python_midterm/paper
+   network/overview
 
 

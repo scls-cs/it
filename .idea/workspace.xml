@@ -1,7 +1,83 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4d60759e-34c0-42fc-8bf9-b0b86f2f8cd9" name="Default" comment="" />
+    <list default="true" id="4d60759e-34c0-42fc-8bf9-b0b86f2f8cd9" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/doctrees/prev.doctree" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_downloads/d189b5aaf22998f52db256abca8601e8/宋庆龄学校2021-2022第一学期期中信息技术模拟试卷.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_sources/prev.rst.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/prev.html" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/doctrees/algo/algo.doctree" afterPath="$PROJECT_DIR$/build/doctrees/algo/algo.doctree" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/doctrees/code_example/char.doctree" afterPath="$PROJECT_DIR$/build/doctrees/code_example/char.doctree" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/doctrees/code_example/compress.doctree" afterPath="$PROJECT_DIR$/build/doctrees/code_example/compress.doctree" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/doctrees/code_example/image.doctree" afterPath="$PROJECT_DIR$/build/doctrees/code_example/image.doctree" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/doctrees/code_example/sound.doctree" afterPath="$PROJECT_DIR$/build/doctrees/code_example/sound.doctree" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/doctrees/digital.doctree" afterPath="$PROJECT_DIR$/build/doctrees/digital.doctree" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/doctrees/environment.pickle" afterPath="$PROJECT_DIR$/build/doctrees/environment.pickle" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/doctrees/final/material.doctree" afterPath="$PROJECT_DIR$/build/doctrees/final/material.doctree" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/doctrees/final/prev.doctree" afterPath="$PROJECT_DIR$/build/doctrees/final/prev.doctree" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/doctrees/hardware/configuration.doctree" afterPath="$PROJECT_DIR$/build/doctrees/hardware/configuration.doctree" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/doctrees/hardware/homework.doctree" afterPath="$PROJECT_DIR$/build/doctrees/hardware/homework.doctree" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/doctrees/hardware/organization.doctree" afterPath="$PROJECT_DIR$/build/doctrees/hardware/organization.doctree" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/doctrees/hardware/principle.doctree" afterPath="$PROJECT_DIR$/build/doctrees/hardware/principle.doctree" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/doctrees/index.doctree" afterPath="$PROJECT_DIR$/build/doctrees/index.doctree" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/doctrees/information/digital.doctree" afterPath="$PROJECT_DIR$/build/doctrees/information/digital.doctree" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/doctrees/information/number_convert.doctree" afterPath="$PROJECT_DIR$/build/doctrees/information/number_convert.doctree" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/doctrees/information/positional_notation.doctree" afterPath="$PROJECT_DIR$/build/doctrees/information/positional_notation.doctree" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/doctrees/midterm/paper.doctree" afterPath="$PROJECT_DIR$/build/doctrees/midterm/paper.doctree" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/doctrees/network/HTTP.doctree" afterPath="$PROJECT_DIR$/build/doctrees/network/HTTP.doctree" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/doctrees/network/TCPIP.doctree" afterPath="$PROJECT_DIR$/build/doctrees/network/TCPIP.doctree" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/doctrees/network/connection.doctree" afterPath="$PROJECT_DIR$/build/doctrees/network/connection.doctree" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/doctrees/network/hw-1.doctree" afterPath="$PROJECT_DIR$/build/doctrees/network/hw-1.doctree" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/doctrees/network/hw-2.doctree" afterPath="$PROJECT_DIR$/build/doctrees/network/hw-2.doctree" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/doctrees/network/hw-3.doctree" afterPath="$PROJECT_DIR$/build/doctrees/network/hw-3.doctree" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/doctrees/network/introduction.doctree" afterPath="$PROJECT_DIR$/build/doctrees/network/introduction.doctree" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/doctrees/network/overview.doctree" afterPath="$PROJECT_DIR$/build/doctrees/network/overview.doctree" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/doctrees/network/protocol.doctree" afterPath="$PROJECT_DIR$/build/doctrees/network/protocol.doctree" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/doctrees/python_midterm/paper.doctree" afterPath="$PROJECT_DIR$/build/doctrees/python_midterm/paper.doctree" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/doctrees/software/classfication.doctree" afterPath="$PROJECT_DIR$/build/doctrees/software/classfication.doctree" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/doctrees/software/definition.doctree" afterPath="$PROJECT_DIR$/build/doctrees/software/definition.doctree" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/doctrees/software/instruction.doctree" afterPath="$PROJECT_DIR$/build/doctrees/software/instruction.doctree" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/doctrees/software/language.doctree" afterPath="$PROJECT_DIR$/build/doctrees/software/language.doctree" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/doctrees/term/term.doctree" afterPath="$PROJECT_DIR$/build/doctrees/term/term.doctree" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/html/_sources/index.rst.txt" afterPath="$PROJECT_DIR$/build/html/_sources/index.rst.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/html/algo/algo.html" afterPath="$PROJECT_DIR$/build/html/algo/algo.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/html/code_example/char.html" afterPath="$PROJECT_DIR$/build/html/code_example/char.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/html/code_example/compress.html" afterPath="$PROJECT_DIR$/build/html/code_example/compress.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/html/code_example/image.html" afterPath="$PROJECT_DIR$/build/html/code_example/image.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/html/code_example/sound.html" afterPath="$PROJECT_DIR$/build/html/code_example/sound.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/html/digital.html" afterPath="$PROJECT_DIR$/build/html/digital.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/html/final/material.html" afterPath="$PROJECT_DIR$/build/html/final/material.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/html/final/prev.html" afterPath="$PROJECT_DIR$/build/html/final/prev.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/html/genindex.html" afterPath="$PROJECT_DIR$/build/html/genindex.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/html/hardware/configuration.html" afterPath="$PROJECT_DIR$/build/html/hardware/configuration.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/html/hardware/homework.html" afterPath="$PROJECT_DIR$/build/html/hardware/homework.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/html/hardware/organization.html" afterPath="$PROJECT_DIR$/build/html/hardware/organization.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/html/hardware/principle.html" afterPath="$PROJECT_DIR$/build/html/hardware/principle.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/html/index.html" afterPath="$PROJECT_DIR$/build/html/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/html/information/digital.html" afterPath="$PROJECT_DIR$/build/html/information/digital.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/html/information/number_convert.html" afterPath="$PROJECT_DIR$/build/html/information/number_convert.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/html/information/positional_notation.html" afterPath="$PROJECT_DIR$/build/html/information/positional_notation.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/html/midterm/paper.html" afterPath="$PROJECT_DIR$/build/html/midterm/paper.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/html/network/HTTP.html" afterPath="$PROJECT_DIR$/build/html/network/HTTP.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/html/network/TCPIP.html" afterPath="$PROJECT_DIR$/build/html/network/TCPIP.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/html/network/connection.html" afterPath="$PROJECT_DIR$/build/html/network/connection.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/html/network/hw-1.html" afterPath="$PROJECT_DIR$/build/html/network/hw-1.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/html/network/hw-2.html" afterPath="$PROJECT_DIR$/build/html/network/hw-2.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/html/network/hw-3.html" afterPath="$PROJECT_DIR$/build/html/network/hw-3.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/html/network/introduction.html" afterPath="$PROJECT_DIR$/build/html/network/introduction.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/html/network/overview.html" afterPath="$PROJECT_DIR$/build/html/network/overview.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/html/network/protocol.html" afterPath="$PROJECT_DIR$/build/html/network/protocol.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/html/python_midterm/paper.html" afterPath="$PROJECT_DIR$/build/html/python_midterm/paper.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/html/search.html" afterPath="$PROJECT_DIR$/build/html/search.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/html/software/classfication.html" afterPath="$PROJECT_DIR$/build/html/software/classfication.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/html/software/definition.html" afterPath="$PROJECT_DIR$/build/html/software/definition.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/html/software/instruction.html" afterPath="$PROJECT_DIR$/build/html/software/instruction.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/html/software/language.html" afterPath="$PROJECT_DIR$/build/html/software/language.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/html/term/term.html" afterPath="$PROJECT_DIR$/build/html/term/term.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/conf.py" afterPath="$PROJECT_DIR$/source/conf.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/index.rst" afterPath="$PROJECT_DIR$/source/index.rst" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,8 +90,8 @@
       <file leaf-file-name="index.rst" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/source/index.rst">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="800">
-              <caret line="25" column="17" lean-forward="false" selection-start-line="25" selection-start-column="17" selection-end-line="25" selection-end-column="17" />
+            <state relative-caret-position="320">
+              <caret line="10" column="13" lean-forward="true" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
               <folding />
             </state>
           </provider>
@@ -41,11 +117,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="conf.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="conf.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/source/conf.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="389">
+              <caret line="54" column="23" lean-forward="true" selection-start-line="54" selection-start-column="23" selection-end-line="54" selection-end-column="23" />
               <folding />
             </state>
           </provider>
@@ -54,14 +130,52 @@
       <file leaf-file-name="prev.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/build/html/final/prev.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2592">
-              <caret line="81" column="11" lean-forward="false" selection-start-line="81" selection-start-column="11" selection-end-line="81" selection-end-column="11" />
-              <folding />
+            <state relative-caret-position="2304">
+              <caret line="72" column="11" lean-forward="false" selection-start-line="72" selection-start-column="11" selection-end-line="72" selection-end-column="11" />
+              <folding>
+                <marker date="1646183187461" expanded="true" signature="1917:1931" ph="..." />
+                <marker date="1646183187461" expanded="true" signature="2041:4444" ph="..." />
+                <marker date="1646183187461" expanded="true" signature="2101:2225" ph="..." />
+                <marker date="1646183187461" expanded="true" signature="2295:4416" ph="..." />
+                <marker date="1646183187461" expanded="true" signature="2358:2649" ph="..." />
+                <marker date="1646183187461" expanded="true" signature="2388:2634" ph="..." />
+                <marker date="1646183187461" expanded="false" signature="2452:2459" ph="»" />
+                <marker date="1646183187461" expanded="true" signature="2524:2626" ph="..." />
+                <marker date="1646183187461" expanded="true" signature="2753:4068" ph="..." />
+                <marker date="1646183187461" expanded="true" signature="2793:4051" ph="..." />
+                <marker date="1646183187461" expanded="true" signature="2828:4031" ph="..." />
+                <marker date="1646183187461" expanded="true" signature="2941:2988" ph="..." />
+                <marker date="1646183187461" expanded="false" signature="2942:2946" ph="&lt;" />
+                <marker date="1646183187461" expanded="false" signature="2946:2950" ph="&lt;" />
+                <marker date="1646183187461" expanded="false" signature="2950:2954" ph="&lt;" />
+                <marker date="1646183187461" expanded="false" signature="2954:2958" ph="&lt;" />
+                <marker date="1646183187461" expanded="false" signature="2958:2962" ph="&lt;" />
+                <marker date="1646183187461" expanded="false" signature="2962:2966" ph="&lt;" />
+                <marker date="1646183187461" expanded="false" signature="2966:2970" ph="&lt;" />
+                <marker date="1646183187461" expanded="true" signature="3008:3315" ph="..." />
+                <marker date="1646183187461" expanded="true" signature="3353:3453" ph="..." />
+                <marker date="1646183187461" expanded="true" signature="3492:3499" ph="..." />
+                <marker date="1646183187461" expanded="true" signature="3538:3545" ph="..." />
+                <marker date="1646183187461" expanded="true" signature="3584:3591" ph="..." />
+                <marker date="1646183187461" expanded="true" signature="3630:3637" ph="..." />
+                <marker date="1646183187461" expanded="true" signature="3722:3729" ph="..." />
+                <marker date="1646183187461" expanded="true" signature="3768:3775" ph="..." />
+                <marker date="1646183187461" expanded="true" signature="3814:3821" ph="..." />
+                <marker date="1646183187461" expanded="true" signature="3860:3867" ph="..." />
+                <marker date="1646183187461" expanded="true" signature="3921:3928" ph="..." />
+                <marker date="1646183187461" expanded="true" signature="3967:3974" ph="..." />
+                <marker date="1646183187461" expanded="true" signature="4013:4020" ph="..." />
+                <marker date="1646183187461" expanded="true" signature="4087:4401" ph="..." />
+                <marker date="1646183187461" expanded="true" signature="4124:4174" ph="..." />
+                <marker date="1646183187461" expanded="true" signature="4133:4139" ph="..." />
+                <marker date="1646183187461" expanded="true" signature="4464:4563" ph="..." />
+                <marker date="1646183187461" expanded="true" signature="4491:4550" ph="{...}" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="prev.rst" pinned="false" current-in-tab="true">
+      <file leaf-file-name="prev.rst" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/source/final/prev.rst">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="128">
@@ -147,11 +261,12 @@
         <option value="$PROJECT_DIR$/source/algo/algo.py" />
         <option value="$PROJECT_DIR$/source/algo/algo.rst" />
         <option value="$PROJECT_DIR$/source/python_midterm/midterm.rst" />
-        <option value="$PROJECT_DIR$/source/index.rst" />
         <option value="$PROJECT_DIR$/.readthedocs.yml" />
         <option value="$PROJECT_DIR$/docs/requirements.txt" />
         <option value="$PROJECT_DIR$/source/python_midterm/paper.rst" />
         <option value="$PROJECT_DIR$/source/prev.rst" />
+        <option value="$PROJECT_DIR$/source/index.rst" />
+        <option value="$PROJECT_DIR$/source/conf.py" />
       </list>
     </option>
   </component>
@@ -161,7 +276,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="229" />
     <option name="y" value="25" />
     <option name="width" value="1440" />
@@ -198,7 +313,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -233,13 +348,19 @@
               <item name="cs-intro" type="b2602c69:ProjectViewProjectNode" />
               <item name="cs-intro" type="462c0819:PsiDirectoryNode" />
               <item name="source" type="462c0819:PsiDirectoryNode" />
+              <item name="network" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cs-intro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cs-intro" type="462c0819:PsiDirectoryNode" />
+              <item name="source" type="462c0819:PsiDirectoryNode" />
               <item name="python_midterm" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -287,10 +408,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="229" y="25" width="1440" height="875" extended-state="0" />
+    <frame x="0" y="25" width="1440" height="875" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20958512" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21244635" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -627,25 +748,47 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/build/html/final/prev.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2592">
-          <caret line="81" column="11" lean-forward="false" selection-start-line="81" selection-start-column="11" selection-end-line="81" selection-end-column="11" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/conf.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/index.rst">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="800">
-          <caret line="25" column="17" lean-forward="false" selection-start-line="25" selection-start-column="17" selection-end-line="25" selection-end-column="17" />
-          <folding />
+        <state relative-caret-position="2304">
+          <caret line="72" column="11" lean-forward="false" selection-start-line="72" selection-start-column="11" selection-end-line="72" selection-end-column="11" />
+          <folding>
+            <marker date="1646183187461" expanded="true" signature="1917:1931" ph="..." />
+            <marker date="1646183187461" expanded="true" signature="2041:4444" ph="..." />
+            <marker date="1646183187461" expanded="true" signature="2101:2225" ph="..." />
+            <marker date="1646183187461" expanded="true" signature="2295:4416" ph="..." />
+            <marker date="1646183187461" expanded="true" signature="2358:2649" ph="..." />
+            <marker date="1646183187461" expanded="true" signature="2388:2634" ph="..." />
+            <marker date="1646183187461" expanded="false" signature="2452:2459" ph="»" />
+            <marker date="1646183187461" expanded="true" signature="2524:2626" ph="..." />
+            <marker date="1646183187461" expanded="true" signature="2753:4068" ph="..." />
+            <marker date="1646183187461" expanded="true" signature="2793:4051" ph="..." />
+            <marker date="1646183187461" expanded="true" signature="2828:4031" ph="..." />
+            <marker date="1646183187461" expanded="true" signature="2941:2988" ph="..." />
+            <marker date="1646183187461" expanded="false" signature="2942:2946" ph="&lt;" />
+            <marker date="1646183187461" expanded="false" signature="2946:2950" ph="&lt;" />
+            <marker date="1646183187461" expanded="false" signature="2950:2954" ph="&lt;" />
+            <marker date="1646183187461" expanded="false" signature="2954:2958" ph="&lt;" />
+            <marker date="1646183187461" expanded="false" signature="2958:2962" ph="&lt;" />
+            <marker date="1646183187461" expanded="false" signature="2962:2966" ph="&lt;" />
+            <marker date="1646183187461" expanded="false" signature="2966:2970" ph="&lt;" />
+            <marker date="1646183187461" expanded="true" signature="3008:3315" ph="..." />
+            <marker date="1646183187461" expanded="true" signature="3353:3453" ph="..." />
+            <marker date="1646183187461" expanded="true" signature="3492:3499" ph="..." />
+            <marker date="1646183187461" expanded="true" signature="3538:3545" ph="..." />
+            <marker date="1646183187461" expanded="true" signature="3584:3591" ph="..." />
+            <marker date="1646183187461" expanded="true" signature="3630:3637" ph="..." />
+            <marker date="1646183187461" expanded="true" signature="3722:3729" ph="..." />
+            <marker date="1646183187461" expanded="true" signature="3768:3775" ph="..." />
+            <marker date="1646183187461" expanded="true" signature="3814:3821" ph="..." />
+            <marker date="1646183187461" expanded="true" signature="3860:3867" ph="..." />
+            <marker date="1646183187461" expanded="true" signature="3921:3928" ph="..." />
+            <marker date="1646183187461" expanded="true" signature="3967:3974" ph="..." />
+            <marker date="1646183187461" expanded="true" signature="4013:4020" ph="..." />
+            <marker date="1646183187461" expanded="true" signature="4087:4401" ph="..." />
+            <marker date="1646183187461" expanded="true" signature="4124:4174" ph="..." />
+            <marker date="1646183187461" expanded="true" signature="4133:4139" ph="..." />
+            <marker date="1646183187461" expanded="true" signature="4464:4563" ph="..." />
+            <marker date="1646183187461" expanded="true" signature="4491:4550" ph="{...}" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -653,6 +796,22 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="128">
           <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/index.rst">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="10" column="13" lean-forward="true" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/conf.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="389">
+          <caret line="54" column="23" lean-forward="true" selection-start-line="54" selection-start-column="23" selection-end-line="54" selection-end-column="23" />
           <folding />
         </state>
       </provider>
