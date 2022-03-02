@@ -2,176 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4d60759e-34c0-42fc-8bf9-b0b86f2f8cd9" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/doctrees/algo/algo.doctree" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/doctrees/code_example/char.doctree" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/doctrees/code_example/compress.doctree" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/doctrees/code_example/image.doctree" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/doctrees/code_example/sound.doctree" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/doctrees/digital.doctree" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/doctrees/environment.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/doctrees/final/material.doctree" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/doctrees/final/prev.doctree" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/doctrees/hardware/configuration.doctree" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/doctrees/hardware/homework.doctree" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/doctrees/hardware/organization.doctree" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/doctrees/hardware/principle.doctree" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/doctrees/index.doctree" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/doctrees/information/digital.doctree" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/doctrees/information/number_convert.doctree" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/doctrees/information/positional_notation.doctree" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/doctrees/midterm/paper.doctree" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/doctrees/network/HTTP.doctree" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/doctrees/network/TCPIP.doctree" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/doctrees/network/connection.doctree" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/doctrees/network/hw-1.doctree" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/doctrees/network/hw-2.doctree" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/doctrees/network/hw-3.doctree" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/doctrees/network/introduction.doctree" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/doctrees/network/overview.doctree" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/doctrees/network/protocol.doctree" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/doctrees/python_midterm/paper.doctree" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/doctrees/software/classfication.doctree" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/doctrees/software/definition.doctree" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/doctrees/software/instruction.doctree" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/doctrees/software/language.doctree" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/doctrees/term/term.doctree" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/.buildinfo" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/.nojekyll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_downloads/05f99d844c77ae1f90df88d116472df6/network-hw3.pdf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_downloads/151899559837d3616a57aaa8d5c64313/algorithm.pptx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_downloads/29455f771142f044c436557f10acd860/期末复习.pptx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_downloads/31a48d964b02bf746fa98bc3e7284031/hw-network2.docx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_downloads/8c5977e776572fcead851bbf97600869/hw-hardware.pdf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_downloads/ae8b796d4c77f00ba4c897757d0bf8a8/hw-network1.docx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_downloads/d512a68c4312f170fda5e8bf11a87046/Week16-Exam.pptx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_downloads/ffec55682bbdf88cc3cea6f62a276c1c/宋庆龄学校第一学期信息技术考点汇总.pdf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_images/301.jpeg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_images/307.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_images/ascii.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_images/ascii_0.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_images/cam.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_images/chinese_char.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_images/chrome.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_images/client-server.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_images/color_code.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_images/cornell.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_images/dec_to_binary.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_images/dec_to_hex.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_images/fudan.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_images/harvard.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_images/hw-3.jpeg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_images/image.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_images/memory.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_images/qrcode.jpeg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_images/server.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_images/teapot.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_sources/algo/algo.rst.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_sources/code_example/char.rst.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_sources/code_example/compress.rst.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_sources/code_example/image.rst.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_sources/code_example/sound.rst.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_sources/digital.rst.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_sources/final/material.rst.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_sources/final/prev.rst.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_sources/hardware/configuration.rst.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_sources/hardware/homework.rst.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_sources/hardware/organization.rst.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_sources/hardware/principle.rst.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_sources/index.rst.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_sources/information/digital.rst.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_sources/information/number_convert.rst.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_sources/information/positional_notation.rst.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_sources/midterm/paper.rst.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_sources/network/HTTP.rst.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_sources/network/TCPIP.rst.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_sources/network/connection.rst.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_sources/network/hw-1.rst.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_sources/network/hw-2.rst.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_sources/network/hw-3.rst.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_sources/network/introduction.rst.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_sources/network/overview.rst.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_sources/network/protocol.rst.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_sources/python_midterm/paper.rst.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_sources/software/classfication.rst.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_sources/software/definition.rst.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_sources/software/instruction.rst.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_sources/software/language.rst.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_sources/term/term.rst.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_static/basic.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_static/css/badge_only.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_static/css/fonts/Roboto-Slab-Bold.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_static/css/fonts/Roboto-Slab-Bold.woff2" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_static/css/fonts/Roboto-Slab-Regular.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_static/css/fonts/Roboto-Slab-Regular.woff2" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_static/css/fonts/fontawesome-webfont.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_static/css/fonts/fontawesome-webfont.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_static/css/fonts/fontawesome-webfont.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_static/css/fonts/fontawesome-webfont.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_static/css/fonts/fontawesome-webfont.woff2" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_static/css/fonts/lato-bold-italic.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_static/css/fonts/lato-bold-italic.woff2" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_static/css/fonts/lato-bold.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_static/css/fonts/lato-bold.woff2" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_static/css/fonts/lato-normal-italic.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_static/css/fonts/lato-normal-italic.woff2" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_static/css/fonts/lato-normal.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_static/css/fonts/lato-normal.woff2" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_static/css/theme.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_static/doctools.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_static/documentation_options.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_static/file.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_static/jquery-3.5.1.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_static/jquery.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_static/js/badge_only.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_static/js/html5shiv-printshiv.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_static/js/html5shiv.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_static/js/theme.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_static/language_data.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_static/minus.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_static/plus.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_static/pygments.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_static/searchtools.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_static/underscore-1.13.1.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_static/underscore.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/algo/algo.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/code_example/char.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/code_example/compress.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/code_example/image.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/code_example/sound.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/digital.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/final/material.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/final/prev.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/genindex.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/hardware/configuration.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/hardware/homework.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/hardware/organization.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/hardware/principle.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/information/digital.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/information/number_convert.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/information/positional_notation.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/midterm/paper.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/network/HTTP.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/network/TCPIP.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/network/connection.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/network/hw-1.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/network/hw-2.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/network/hw-3.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/network/introduction.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/network/overview.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/network/protocol.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/objects.inv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/python_midterm/paper.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/search.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/searchindex.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/software/classfication.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/software/definition.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/software/instruction.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/software/language.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/term/term.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source/digital.rst" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/index.rst" afterPath="$PROJECT_DIR$/source/index.rst" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/network/hw-network1.docx" afterPath="$PROJECT_DIR$/source/network/hw-network1.docx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/network/overview.rst" afterPath="$PROJECT_DIR$/source/network/overview.rst" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -182,11 +14,31 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.rst" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.rst" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/source/index.rst">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="416">
               <caret line="13" column="0" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="hw-1.rst" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/source/network/hw-1.rst">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="96">
+              <caret line="3" column="24" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="overview.rst" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/source/network/overview.rst">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="375">
+              <caret line="54" column="25" lean-forward="true" selection-start-line="54" selection-start-column="25" selection-end-line="54" selection-end-column="25" />
               <folding />
             </state>
           </provider>
@@ -278,6 +130,7 @@
       <find>时间</find>
       <find>prev</find>
       <find>final/prev</find>
+      <find>作业</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -287,7 +140,6 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/source/network/connection.rst" />
-        <option value="$PROJECT_DIR$/source/network/overview.rst" />
         <option value="$PROJECT_DIR$/source/network/HTTP.rst" />
         <option value="$PROJECT_DIR$/source/network/TCPIP.rst" />
         <option value="$PROJECT_DIR$/source/network/introduction.rst" />
@@ -304,6 +156,7 @@
         <option value="$PROJECT_DIR$/source/prev.rst" />
         <option value="$PROJECT_DIR$/source/conf.py" />
         <option value="$PROJECT_DIR$/source/index.rst" />
+        <option value="$PROJECT_DIR$/source/network/overview.rst" />
       </list>
     </option>
   </component>
@@ -406,17 +259,17 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/source/python_midterm" />
-      <recent name="$PROJECT_DIR$/source/midterm" />
-      <recent name="$PROJECT_DIR$/source/final" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/source/network" />
       <recent name="$PROJECT_DIR$/source" />
       <recent name="$PROJECT_DIR$/source/final" />
       <recent name="$PROJECT_DIR$/source/python_midterm" />
       <recent name="$PROJECT_DIR$/source/algo" />
-      <recent name="$PROJECT_DIR$/source/network" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/source/python_midterm" />
+      <recent name="$PROJECT_DIR$/source/midterm" />
+      <recent name="$PROJECT_DIR$/source/final" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -446,6 +299,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="25" width="1440" height="875" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -453,7 +307,7 @@
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21244635" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21244635" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32945737" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25347987" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -656,13 +510,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/source/network/overview.rst">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="7" lean-forward="false" selection-start-line="0" selection-start-column="7" selection-end-line="0" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/source/network/protocol.rst">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -708,13 +555,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1152">
           <caret line="36" column="16" lean-forward="false" selection-start-line="36" selection-start-column="16" selection-end-line="36" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/network/hw-1.rst">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="9" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="24" selection-end-column="14" />
         </state>
       </provider>
     </entry>
@@ -810,6 +650,22 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="416">
           <caret line="13" column="0" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/network/hw-1.rst">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="3" column="24" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/network/overview.rst">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="54" column="25" lean-forward="true" selection-start-line="54" selection-start-column="25" selection-end-line="54" selection-end-column="25" />
           <folding />
         </state>
       </provider>
