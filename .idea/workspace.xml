@@ -2,13 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4d60759e-34c0-42fc-8bf9-b0b86f2f8cd9" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/network/HTTP.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/network/homework.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/network/homework.rst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/index.rst" beforeDir="false" afterPath="$PROJECT_DIR$/source/index.rst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/network/TCPIP.rst" beforeDir="false" afterPath="$PROJECT_DIR$/source/network/TCPIP.rst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/network/homework.rst" beforeDir="false" afterPath="$PROJECT_DIR$/source/network/homework.rst" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
