@@ -19,3 +19,10 @@ ENIAC
 * 存储器：存放数据或程序
 * 输入设备：程序或者数据输入
 * 输出设备：输出运算结果
+
+
+本次作业需要观看哈佛大学的CS50课程中硬件部分（可以从16分20秒开始）：`CS50 Hardware <https://www.bilibili.com/video/BV1X5411H7mV?spm_id_from=333.337.search-card.all.click>`_
+
+请完成作业并提交：:download:`计算机系统作业 <system_homework.docx>`
+
+附上课程PPT :download:`计算机硬件系统 <hardware.pptx>`

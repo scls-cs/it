@@ -13,6 +13,14 @@
    network/TCPIP
    network/homework
 
+.. toctree::
+   :caption: 计算机系统
+   :hidden:
+   :maxdepth: 10
+
+   hardware/organization
+
+
 
 
 
