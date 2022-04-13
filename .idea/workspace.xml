@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4d60759e-34c0-42fc-8bf9-b0b86f2f8cd9" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/hardware/hardware ii.pptx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/midterm_review/review.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/midterm_review/mid.rst" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/hardware/configuration.rst" afterPath="$PROJECT_DIR$/source/hardware/configuration.rst" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/index.rst" afterPath="$PROJECT_DIR$/source/index.rst" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/information/number_convert.rst" afterPath="$PROJECT_DIR$/source/information/number_convert.rst" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -18,11 +13,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.rst" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.rst" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/source/index.rst">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="247">
-              <caret line="17" column="29" lean-forward="true" selection-start-line="17" selection-start-column="29" selection-end-line="17" selection-end-column="29" />
+              <caret line="17" column="29" lean-forward="false" selection-start-line="17" selection-start-column="29" selection-end-line="17" selection-end-column="29" />
               <folding />
             </state>
           </provider>
@@ -78,11 +73,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="number_convert.rst" pinned="false" current-in-tab="false">
+      <file leaf-file-name="number_convert.rst" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/source/information/number_convert.rst">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="736">
-              <caret line="23" column="8" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="23" selection-end-column="8" />
+            <state relative-caret-position="266">
+              <caret line="39" column="16" lean-forward="false" selection-start-line="39" selection-start-column="16" selection-end-line="39" selection-end-column="16" />
               <folding />
             </state>
           </provider>
@@ -163,6 +158,7 @@
         <option value="$PROJECT_DIR$/source/midterm_review/mid.rst" />
         <option value="$PROJECT_DIR$/source/hardware/configuration.rst" />
         <option value="$PROJECT_DIR$/source/index.rst" />
+        <option value="$PROJECT_DIR$/source/information/number_convert.rst" />
       </list>
     </option>
   </component>
@@ -173,8 +169,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="70" />
-    <option name="y" value="187" />
+    <option name="x" value="-23" />
+    <option name="y" value="265" />
     <option name="width" value="1440" />
     <option name="height" value="875" />
   </component>
@@ -335,7 +331,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="70" y="187" width="1440" height="875" extended-state="0" />
+    <frame x="-23" y="265" width="1440" height="875" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21816881" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -678,6 +674,14 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/source/index.rst">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="17" column="29" lean-forward="false" selection-start-line="17" selection-start-column="29" selection-end-line="17" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/source/information/digital.rst">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-689">
@@ -688,16 +692,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/source/information/number_convert.rst">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="736">
-          <caret line="23" column="8" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="23" selection-end-column="8" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/index.rst">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="17" column="29" lean-forward="true" selection-start-line="17" selection-start-column="29" selection-end-line="17" selection-end-column="29" />
+        <state relative-caret-position="266">
+          <caret line="39" column="16" lean-forward="false" selection-start-line="39" selection-start-column="16" selection-end-line="39" selection-end-column="16" />
           <folding />
         </state>
       </provider>
