@@ -42,6 +42,14 @@
 
    midterm_review/mid
 
+.. toctree::
+   :caption: 人工智能
+   :hidden:
+   :maxdepth: 10
+
+   ai/image
+   ai/pycharm
+
 
 
 
