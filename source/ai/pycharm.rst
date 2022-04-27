@@ -6,7 +6,7 @@ PyCharm入门
 
 上学期我们主要通过网站来编写和运行Python程序。通过网站编程的好处是无需安装额外软件，可以随时随地进行程序编写。但也有不好的地方。由于网站提供的函数和工具有限，我们只能进行简单的操作。所以网站编程只适合初学者入门学习。
 
-如果我们要编写更复杂的程序，例如读取和处理图像，我们就需要更为专业的编程工具。目前世界最流行的Python编程工具是PyCharm，它是由JetBrains打造的编译工具。作为高中生，我们可以免费使用这款工具。下面是基于Mac的PyCharm安装步骤。基于Windows的安装步骤非常类似，有一些不同的地方我会指出。
+如果我们要编写更复杂的程序，例如读取和处理图像，我们就需要更为专业的编程工具。目前世界最流行的Python编程工具是PyCharm，它是由JetBrains打造的编译工具。作为高中生，我们可以免费使用这款工具。下面是基于Mac的PyCharm安装步骤。基于Windows的安装步骤非常类似，这份操作步骤也适用于你。
 
 1. 下载PyCharm
 ----
@@ -64,7 +64,7 @@ PyCharm是由JetBrains打造的编译工具。
 点击Create，到这里我们成功了90%了。
 
 
-5. 编写程序
+5. 新建文件
 ----------
 
 右键hw1 -> New -> Python File，取一个名字（比如loop)，按下回车。你会发现hw1项目下出现了一个文件：loop.py。
@@ -73,5 +73,38 @@ PyCharm是由JetBrains打造的编译工具。
   :scale: 50%
 
 .. image:: loop.png
-  :scale: 50%
+  :scale: 80%
+
+右上角Add configuration -> 点击左上角'+' -> 选择Python
+
+.. image:: conf.png
+  :scale: 20%
+
+.. image:: choose.png
+  :scale: 20%
+
+接下来Script path这个地方，选择我们刚刚创建的文件（比如我是loop.py)
+
+.. image:: path.png
+  :scale: 20%
+
+.. image:: py.png
+  :scale: 20%
+
+到这里，我们就完成了所有的配置，是不是觉得也不是那么难呢？那还剩最后一步，就是程序的编写与运行。
+
+
+6. 编写并运行程序
+----------
+
+在窗口中输入一行程序：
+
+.. code-block:: text
+
+    print("hello")
+
+输入完毕之后，点击右上角的三角形（运行按钮）。如果你可以在下方看到一行"hello"的输出，说明你刚刚在自己电脑上运行了一个Python程序！Hooray!!
+
+.. image:: result.png
+  :scale: 20%
 
