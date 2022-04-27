@@ -38,19 +38,37 @@ PyCharm是由JetBrains打造的编译工具。
 .. image:: import.png
    :scale: 50%
 
-3. 安装Python
+3. 下载并安装Python
 ------------
-到了这一步我们已经成功一半了！Python是一门编程语言，想要运行Python我们需要安装这门语言的解释器（也叫Python)。
-
-我们已经安装好了Python的编程工具（PyCharm)，接下来我们要安装Python解释器。
+到了这一步我们已经成功一半了！Python是一门编程语言，下一步我们需要安装它的**解释器**（巧了，它也叫Python)。
 
 下载地址：`Python Download <https://www.python.org/downloads/>`_
 
 点击有Download的黄色按钮下载最新版本的Python。
 
 .. image:: python.png
+  :scale: 20%
+
+下载完毕之后安装Python。在点击若干continue和agree之后，Python解释器就成功安装在我们的电脑里了。从现在开始，我们的计算机也可以读懂Python程序了（哦还差一点）。
+
+
+
+4. 在PyCharm中配置Python
+-----------------------
+打开PyCharm，点击New Project。
+
+.. image:: new.png
   :scale: 50%
 
+接下来关注两个红框的地方：
 
+1. Location这一栏是给你的项目进行命名的位置，你可以将最后的文件名改为你想要的任意文件名，例如hw1。
+
+2. 选择Previously configured interpreter, 在下拉栏中选择Python 3.10（希望它已经出现在那里了）。
+
+.. image:: config.png
+  :scale: 50%
+
+点击Create，到这里我们成功了90%了。
 
 
