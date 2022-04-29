@@ -123,7 +123,7 @@ Q&A
 
     Answer: 当然可以。PyCharm是支持所有操作系统的，而且这份安装教程也基本适用与你。当然你也可以参考网上的其它安装教程。
 
-    记住: Google is your best friend.
+    在学习计算机的时候，要记住：Google is your best friend. 当你遇到什么困难的时候，你永远可以向它寻求帮助。
 
     Q3: 我进行到第5步了，但是并没有在下拉栏中找到Python 3.10，我是不是全部做错了？
 
