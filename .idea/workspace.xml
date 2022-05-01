@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4d60759e-34c0-42fc-8bf9-b0b86f2f8cd9" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/ai/pycharm.rst" afterPath="$PROJECT_DIR$/source/ai/pycharm.rst" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -37,8 +36,8 @@
       <file leaf-file-name="pycharm.rst" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/source/ai/pycharm.rst">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="256">
-              <caret line="8" column="289" lean-forward="false" selection-start-line="8" selection-start-column="289" selection-end-line="8" selection-end-column="289" />
+            <state relative-caret-position="73">
+              <caret line="117" column="48" lean-forward="true" selection-start-line="117" selection-start-column="48" selection-end-line="117" selection-end-column="48" />
               <folding />
             </state>
           </provider>
@@ -644,8 +643,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/source/ai/pycharm.rst">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="256">
-          <caret line="8" column="289" lean-forward="false" selection-start-line="8" selection-start-column="289" selection-end-line="8" selection-end-column="289" />
+        <state relative-caret-position="73">
+          <caret line="117" column="48" lean-forward="true" selection-start-line="117" selection-start-column="48" selection-end-line="117" selection-end-column="48" />
           <folding />
         </state>
       </provider>
