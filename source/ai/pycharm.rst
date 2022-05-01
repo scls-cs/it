@@ -6,7 +6,7 @@ PyCharm入门
 
 上学期我们主要通过网站来编写和运行Python程序。通过网站编程的好处是无需安装额外软件，可以随时随地进行程序编写。但也有不好的地方。由于网站提供的函数和工具有限，我们只能进行简单的操作。所以网站编程只适合初学者入门学习。
 
-如果我们要编写更复杂的程序，例如读取和处理图像，我们就需要更为专业的编程工具。目前世界最流行的Python编程工具是PyCharm，它是由JetBrains打造的编译工具。作为高中生，我们可以免费使用这款工具。下面是基于Mac的PyCharm安装步骤。基于Windows的安装步骤非常类似，这份操作步骤也适用于你。这里有一份Windows的详细安装教程：`Windows版PyCharm安装 <http://c.biancheng.net/view/5804.html>`_ ,你也可以参考。另外你也可以咨询已经安装成功的小伙伴，比如Windows的安装过程你可以咨询张天宇同学。
+如果我们要编写更复杂的程序，例如读取和处理图像，我们就需要更为专业的编程工具。目前世界最流行的Python编程工具是PyCharm，它是由JetBrains打造的编译工具。作为高中生，我们可以免费使用这款工具。下面是基于Mac的PyCharm安装步骤。基于Windows的安装步骤非常类似，所以以下操作步骤也适用于你。除此之外你也可以参考这个教程：`Windows版PyCharm安装 <http://c.biancheng.net/view/5804.html>`_ 。当然，你也可以咨询已经安装成功的小伙伴，比如Windows的安装过程你可以咨询张天宇同学。
 
 1. 下载PyCharm
 ----
@@ -32,7 +32,7 @@ PyCharm是由JetBrains打造的编译工具。
 
 3. 下载并安装Python
 ------------
-到了这一步我们已经成功一半了！Python是一门编程语言，下一步我们需要安装它的**解释器**（巧了，它也叫Python)。
+到了这一步我们已经成功一半了！Python是一门编程语言，下一步我们需要安装它的**Interperter(解释器）**（巧了，Python的解释器也叫Python)。
 
 下载地址：`Python Download <https://www.python.org/downloads/>`_
 
