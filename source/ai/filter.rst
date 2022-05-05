@@ -55,7 +55,7 @@ OpenCV是一个跨平台计算机视觉库，可以运行在Linux, Windows和Mac
    :scale: 30%
 
 
-3. 新建一个文件
+4. 新建一个文件
 --------------
 
 我们已经成功安装好OpenCV函数库，接下来我们要开始完成图像滤镜的实验了。运行PyCharm，打开上周的Project（也可以新建一个Project)，新建一个python文件，取名image.py。
@@ -65,7 +65,7 @@ OpenCV是一个跨平台计算机视觉库，可以运行在Linux, Windows和Mac
 
 现在我们的工程中有两个python文件。第一个loop.py是上周我们创建的，image.py是我们刚刚新建的，也是我们这周要提交的文件。所以接下来我们需要让PyCharm知道我们要运行image.py，而不是loop.py。到这一步你其实应该知道怎么做了。
 
-4. 配置运行的python文件
+5. 配置运行的python文件
 --------------
 
 点击左上角edit configuration, 在script path中选择image.py，点击open，然后apply。现在我们已经让PyCharm知道，接下来运行的都是image.py这个程序，而不是其它的文件。
@@ -73,12 +73,12 @@ OpenCV是一个跨平台计算机视觉库，可以运行在Linux, Windows和Mac
 .. image:: script.png
    :scale: 30%
 
-5. 开始编写程序
+6. 开始编写程序
 -------------
 
 在image.py中的第一行输入：import cv2。这一行的作用是导入OpenCV的函数包。到这一步，我们就完成了所有的配置工作。我们接下来就可以开始完成作业了。在打开作业要求之前，我强烈建议大家先回顾一下上节课的步骤，自己按照步骤操作一遍。
 
-6. 图像处理步骤
+7. 图像处理步骤
 ------------
 首先将要处理的图片放入项目中。这个步骤非常简单，你可以直接将图片文件用鼠标拖到项目中。图片需要和python文件在同一个目录下。
 
@@ -170,7 +170,7 @@ g. 保存处理后的图片
 
         cv2.imwrite('1.png', img)  #将图片保存为1.png，新的图片会保存在项目下面
 
-7. 作业及资料
+8. 作业及资料
 ------------
 
 作业要求: :download:`图像处理作业 <image processing project.pdf>`
