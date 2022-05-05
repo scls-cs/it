@@ -39,14 +39,14 @@
 .. image:: pip.jpeg
    :scale: 30%
 
-如果是如下界面，说明未安装成功，原因是python get-pip.py这个命令需要下载一个文件（只有2M)，但由于下载速度过慢导致延时(timeout)。大家可以多试着运行几次这个命令，或者试试用手机热点（下载文件只有2MB，不会占用太多流量）。
+如果是如下界面，说明未安装成功，原因是python get-pip.py这个命令需要下载一个文件（只有2M)，但由于下载速度过慢导致延时(timeout)。请用下面这个命令：
+
+python3 get-pip.py -i https://pypi.tuna.tsinghua.edu.cn/simple/  --trusted-host pypi.tuna.tsinghua.edu.cn
+
+(Windows的同学将python3换成python即可）
 
 .. image:: timeout.png
    :scale: 30%
-
-(如果你知道怎么使用Google，使用同样的方法可以解决下载的问题。)
-
-
 
 3. 下载并安装OpenCV函数库
 ---------
