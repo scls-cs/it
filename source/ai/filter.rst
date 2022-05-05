@@ -54,9 +54,13 @@ python3 get-pip.py -i https://pypi.tuna.tsinghua.edu.cn/simple/  --trusted-host 
 OpenCV是一个跨平台计算机视觉库，可以运行在Linux, Windows和MacOS操作系统上。它实现了图像处理和计算机视觉方面的很多通用算法，例如图像特征提取、人脸识别、手势识别、人机交互等。我们在这次作业中，需要用到OpenCV的部分函数来进行实验。
 
 
-输入第一个命令：pip install numpy，点击回车。
+输入第一个命令：pip install numpy，点击回车。如果也出现time-out的问题，可以输入下面命令：
 
-输入第二个命令：pip install opencv-python，点击回车。
+pip install -i https://pypi.tuna.tsinghua.edu.cn/simple/ numpy
+
+输入第二个命令：pip install opencv-python，点击回车。或者输入下面命令：
+
+pip install -i https://pypi.tuna.tsinghua.edu.cn/simple/ opencv-python
 
 安装成功后，你会看到如下界面：
 
