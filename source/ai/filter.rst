@@ -21,6 +21,7 @@
 **For Windows User**: 打开cmd，输入
 
 .. code-block:: text
+
         python --V
 
 按下回车。如果显示python版本，说明python命令安装成功。
@@ -54,7 +55,6 @@
 
 
 .. code-block:: text
-
 
         python3 get-pip.py -i https://pypi.tuna.tsinghua.edu.cn/simple/  --trusted-host pypi.tuna.tsinghua.edu.cn
 
