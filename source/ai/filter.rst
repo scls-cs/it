@@ -22,7 +22,7 @@
 
 .. code-block:: text
 
-        python --V
+        python -V
 
 按下回车。如果显示python版本，说明python命令安装成功。
 
