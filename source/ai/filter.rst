@@ -81,7 +81,7 @@ pip install -i https://pypi.tuna.tsinghua.edu.cn/simple/ opencv-python
 5. 配置运行的python文件
 --------------
 
-点击左上角edit configuration, 在script path中选择image.py，点击open，然后apply。现在我们已经让PyCharm知道，接下来运行的都是image.py这个程序，而不是其它的文件。
+点击右上角edit configuration（现在可能显示的是loop), 在script path中选择image.py，点击open，然后apply。现在我们已经让PyCharm知道，接下来运行的都是image.py这个程序，而不是其它的文件。
 
 .. image:: script.png
    :scale: 30%
