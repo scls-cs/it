@@ -6,13 +6,24 @@
 还记得在网络原理那堂课上，我们使用命令行终端（Terminal)完成路由器追踪的实验吗？还记得我们使用的命令吗?当时我们使用了traceroute/tracert命令（取决于你使用的操作系统）。这两个命令都是操作系统自带的，现在我们需要在终端上安装python这个命令。这样我们不仅可以在PyCharm上运行Python程序（我们上周已经做到了），我们还可以在终端上执行Python语句。这对于我们接下来要安装的函数库至关重要。
 
 
-**For Mac User**: 打开Terminal，输入python3 --version，回车。这个命令可以用来判断Terminal所使用的python版本，也经常用来判断Terminal是否已经安装了python命令。如果你看到的是Python 3.10.4（如下图所示），那么说明你已经安装成功。如果出现的是python command not found，或者其它的版本（如2.x.x)，那么说明你上周的Python没有安装成功，请重新回顾上次作业的步骤。
+**For Mac User**: 打开Terminal，输入
+
+.. code-block:: text
+
+        python3 --version
+
+按下回车。这个命令可以用来判断Terminal所使用的python版本，也经常用来判断Terminal是否已经安装了python命令。如果你看到的是Python 3.10.4（如下图所示），那么说明你已经安装成功。如果出现的是python command not found，或者其它的版本（如2.x.x)，那么说明你上周的Python没有安装成功，请重新回顾上次作业的步骤。
 
 .. image:: version.jpeg
    :scale: 30%
 
 
-**For Windows User**: 打开cmd，输入python --V，回车。如果显示python版本，说明python命令安装成功。
+**For Windows User**: 打开cmd，输入
+
+.. code-block:: text
+        python --V
+
+按下回车。如果显示python版本，说明python命令安装成功。
 
 .. image:: win.jpeg
    :scale: 30%
@@ -41,7 +52,11 @@
 
 如果是如下界面，说明未安装成功，原因是python get-pip.py这个命令需要下载一个文件（只有2M)，但由于下载速度过慢导致延时(timeout)。请用下面这个命令：
 
-python3 get-pip.py -i https://pypi.tuna.tsinghua.edu.cn/simple/  --trusted-host pypi.tuna.tsinghua.edu.cn
+
+.. code-block:: text
+
+
+        python3 get-pip.py -i https://pypi.tuna.tsinghua.edu.cn/simple/  --trusted-host pypi.tuna.tsinghua.edu.cn
 
 (Windows的同学将python3换成python即可）
 
@@ -56,11 +71,15 @@ OpenCV是一个跨平台计算机视觉库，可以运行在Linux, Windows和Mac
 
 输入第一个命令：pip install numpy，点击回车。如果也出现time-out的问题，可以输入下面命令：
 
-pip install -i https://pypi.tuna.tsinghua.edu.cn/simple/ numpy
+.. code-block:: text
+
+        pip install -i https://pypi.tuna.tsinghua.edu.cn/simple/ numpy
 
 输入第二个命令：pip install opencv-python，点击回车。或者输入下面命令：
 
-pip install -i https://pypi.tuna.tsinghua.edu.cn/simple/ opencv-python
+.. code-block:: text
+
+        pip install -i https://pypi.tuna.tsinghua.edu.cn/simple/ opencv-python
 
 安装成功后，你会看到如下界面：
 
