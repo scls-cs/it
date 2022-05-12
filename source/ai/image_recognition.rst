@@ -162,7 +162,6 @@
 
             for eachNum in numbersWeHave:
                 for eachVer in versionsWeHave:
-                    #print(str(eachNum) + '.' + str(eachVer))
                     imgFilePath = 'images/numbers/' + str(eachNum) + '.' + str(eachVer) + '.png'
                     print(imgFilePath)
 
