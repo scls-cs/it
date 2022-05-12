@@ -48,7 +48,7 @@
 4. 准备编程
 ----------------
 
-将训练图片解压缩后，放入project中。新建一个python文件，取名为imagerec.py。前三行输入
+将训练图片解压缩后，放入project中。新建一个python文件，取名为imagerec.py。前三行输入：
 
 .. code-block:: text
 
@@ -57,7 +57,7 @@
         import matplotlib.pyplot as plt
 
 
-现在project的窗口类似下图(images文件夹和imagerec.py平行放置）：
+你也可以直接使用本节最后提供的template code。现在project的窗口类似下图(images文件夹和imagerec.py平行放置）：
 
 .. image:: pil.png
    :scale: 30%
