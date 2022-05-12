@@ -58,6 +58,8 @@
    ai/image
    ai/pycharm
    ai/filter
+   ai/image_recognition
+
 
 
 
