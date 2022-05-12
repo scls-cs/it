@@ -177,4 +177,8 @@
 
 作业要求：:download:`图像识别作业I <Image Recognition I.pdf>`
 
+示例代码：:download:`Template Code <example.py>`
+
+
+
 课堂PPT: :download:`深度学习 <deep learning.pptx>`
