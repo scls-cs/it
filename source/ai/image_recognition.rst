@@ -37,12 +37,14 @@
 
 .. code-block:: text
 
-        python3 -m pip install --upgrade pip (windows用户将python3替换成python)
+        python3 -m pip install -i https://pypi.tuna.tsinghua.edu.cn/simple/ --upgrade pip (windows用户将python3替换成python)
 
-        python3 -m pip install --upgrade Pillow（同上）
+        python3 -m pip install -i https://pypi.tuna.tsinghua.edu.cn/simple/ --upgrade Pillow（同上）
 
-        python3 -m pip install -U matplotlib（同上）
+        python3 -m pip install -i https://pypi.tuna.tsinghua.edu.cn/simple/ -U matplotlib
+（同上）
 
+（注：上周配置不顺利的同学，请在PyCharm的终端上运行这些指令。）
 
 4. 准备编程
 ----------------
