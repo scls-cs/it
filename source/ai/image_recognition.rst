@@ -150,3 +150,27 @@
 
 
         plt.show()
+
+7. 将文件名输出
+------------
+
+.. code-block:: text
+
+        def createExamples():
+            numbersWeHave = range(0,10)    #create array from 0-9
+            versionsWeHave = range(1,10)   #create array from 1-9
+
+            for eachNum in numbersWeHave:
+                for eachVer in versionsWeHave:
+                    #print(str(eachNum) + '.' + str(eachVer))
+                    imgFilePath = 'images/numbers/' + str(eachNum) + '.' + str(eachVer) + '.png'
+                    print(imgFilePath)
+
+
+
+8. 作业
+---------
+
+作业要求：:download:`图像识别作业I <Image Recognition I.pdf>`
+
+课堂PPT: :download:`深度学习 <deep learning.pptx>`
