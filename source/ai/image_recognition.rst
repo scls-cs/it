@@ -41,8 +41,7 @@
 
         python3 -m pip install -i https://pypi.tuna.tsinghua.edu.cn/simple/ --upgrade Pillow（同上）
 
-        python3 -m pip install -i https://pypi.tuna.tsinghua.edu.cn/simple/ -U matplotlib
-（同上）
+        python3 -m pip install -i https://pypi.tuna.tsinghua.edu.cn/simple/ -U matplotlib（同上）
 
 （注：上周配置不顺利的同学，请在PyCharm的终端上运行这些指令。）
 
