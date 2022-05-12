@@ -2,15 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4d60759e-34c0-42fc-8bf9-b0b86f2f8cd9" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/ai/binary.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/ai/dot.jpeg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/ai/images.zip" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/ai/matrix.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/ai/pil.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/network/pip.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/ai/image_recognition.rst" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/index.rst" afterPath="$PROJECT_DIR$/source/index.rst" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/ai/image_recognition.rst" afterPath="$PROJECT_DIR$/source/ai/image_recognition.rst" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -54,8 +46,8 @@
       <file leaf-file-name="image_recognition.rst" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/source/ai/image_recognition.rst">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="436">
-              <caret line="54" column="43" lean-forward="false" selection-start-line="54" selection-start-column="43" selection-end-line="54" selection-end-column="43" />
+            <state relative-caret-position="528">
+              <caret line="151" column="18" lean-forward="true" selection-start-line="151" selection-start-column="18" selection-end-line="151" selection-end-column="18" />
               <folding />
             </state>
           </provider>
@@ -666,8 +658,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/source/ai/image_recognition.rst">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="436">
-          <caret line="54" column="43" lean-forward="false" selection-start-line="54" selection-start-column="43" selection-end-line="54" selection-end-column="43" />
+        <state relative-caret-position="528">
+          <caret line="151" column="18" lean-forward="true" selection-start-line="151" selection-start-column="18" selection-end-line="151" selection-end-column="18" />
           <folding />
         </state>
       </provider>

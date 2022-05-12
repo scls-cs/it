@@ -134,19 +134,19 @@
 
         i1 = Image.open('images/numbers/y0.4.png')
 
-        iar1 = np.array(i1)    #将图片转为数组
+        iar1 = np.array(i1)    #将图片转化为数组1
 
-        iar2 = np.array(i1)
+        iar2 = np.array(i1)    #将图片转化为数组2
 
         threshold(iar1)        #对iar1数组进行二值化处理
 
-        ax1 = plt.subplot2grid((8,6), (0,0), rowspan=4, colspan=3)    #在画布上显示处理后的图片
+        ax1 = plt.subplot2grid((8,6), (0,0), rowspan=4, colspan=3)    #在画布上开辟一块区域
 
-        ax2= plt.subplot2grid((8,6), (0,3), rowspan=4, colspan=3)    #在画布上显示原图
+        ax2= plt.subplot2grid((8,6), (0,3), rowspan=4, colspan=3)     #在画布上开辟另一块对比区域
 
 
-        ax1.imshow(iar1)    #显示图1
-        ax2.imshow(iar2)    #显示图2
+        ax1.imshow(iar1)    #显示图1（也就是处理后的图片）
+        ax2.imshow(iar2)    #显示图2（也就是原图）
 
 
         plt.show()
