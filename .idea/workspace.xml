@@ -2,13 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4d60759e-34c0-42fc-8bf9-b0b86f2f8cd9" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/ai/add.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/ai/install1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/ai/install2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/ai/interpreter.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/ai/uninstall.jpeg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/ai/image_recognition.rst" afterPath="$PROJECT_DIR$/source/ai/image_recognition.rst" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/index.rst" afterPath="$PROJECT_DIR$/source/index.rst" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -22,8 +17,18 @@
       <file leaf-file-name="index.rst" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/source/index.rst">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="181">
-              <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+            <state relative-caret-position="257">
+              <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="mid.rst" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/source/midterm_review/mid.rst">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="13" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -52,8 +57,8 @@
       <file leaf-file-name="image_recognition.rst" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/source/ai/image_recognition.rst">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="277">
-              <caret line="208" column="112" lean-forward="false" selection-start-line="208" selection-start-column="112" selection-end-line="208" selection-end-column="112" />
+            <state relative-caret-position="375">
+              <caret line="193" column="16" lean-forward="false" selection-start-line="193" selection-start-column="16" selection-end-line="193" selection-end-column="16" />
               <folding />
             </state>
           </provider>
@@ -78,16 +83,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="1024">
               <caret line="32" column="0" lean-forward="false" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="introduction.rst" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/source/network/introduction.rst">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1760">
-              <caret line="55" column="0" lean-forward="false" selection-start-line="55" selection-start-column="0" selection-end-line="56" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -247,6 +242,12 @@
               <item name="cs-intro" type="462c0819:PsiDirectoryNode" />
               <item name="source" type="462c0819:PsiDirectoryNode" />
               <item name="midterm" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cs-intro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cs-intro" type="462c0819:PsiDirectoryNode" />
+              <item name="source" type="462c0819:PsiDirectoryNode" />
+              <item name="midterm_review" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="cs-intro" type="b2602c69:ProjectViewProjectNode" />
@@ -449,13 +450,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/source/midterm_review/mid.rst">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="256">
-          <caret line="8" column="9" lean-forward="false" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/source/code_example/image.rst">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-823">
@@ -644,14 +638,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/source/index.rst">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="181">
-          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/source/ai/pycharm.rst">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-3301">
@@ -673,10 +659,26 @@
         <state />
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/source/midterm_review/mid.rst">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="13" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/index.rst">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="257">
+          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/source/ai/image_recognition.rst">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="277">
-          <caret line="208" column="112" lean-forward="false" selection-start-line="208" selection-start-column="112" selection-end-line="208" selection-end-column="112" />
+        <state relative-caret-position="375">
+          <caret line="193" column="16" lean-forward="false" selection-start-line="193" selection-start-column="16" selection-end-line="193" selection-end-column="16" />
           <folding />
         </state>
       </provider>

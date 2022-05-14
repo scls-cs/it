@@ -184,12 +184,14 @@
 课堂PPT: :download:`深度学习 <deep learning.pptx>`
 
 
+.. _q&a:
+
 9. 常见问题
 --------
 
 Q. 我已经按照步骤安装了模块，但运行后还是出现import error。
 
-A. 这种情况常出现与PyCharm使用的Python版本与系统不一致的情况。你可以尝试以下几个步骤：
+A. 这种问题常出现于PyCharm使用的Python版本与系统不一致的情况。你可以尝试以下几个步骤：
 
 1. PyCharm - Preferences（或者File - Default Settings)，点击左边Project(一般是倒数第五行），再点击Python interpreter.
 
