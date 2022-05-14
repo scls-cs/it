@@ -182,3 +182,38 @@
 
 
 课堂PPT: :download:`深度学习 <deep learning.pptx>`
+
+
+9. 常见问题
+--------
+
+Q. 我已经按照步骤安装了模块，但运行后还是出现import error。
+
+A. 这种情况常出现与PyCharm使用的Python版本与系统不一致的情况。你可以尝试以下几个步骤：
+
+1. PyCharm - Preferences（或者File - Default Settings)，点击左边Project(一般是倒数第五行），再点击Python interpreter.
+
+.. image:: interpreter.png
+   :scale: 50%
+
+2. 点击add，选择system interpreter, 重新添加python3.10解释器。
+
+.. image:: add.png
+   :scale: 50%
+
+3. 将出现错误的模块卸载掉。例如如果numpy模块出现import错误，则选择numpy，然后点击"-"号，完成模块卸载。
+
+.. image:: uninstall.jpeg
+   :scale: 30%
+
+4. 回到PyCharm主界面。你会发现之前import的那行变为红色。如果你有VPN，你可以将鼠标放在红线上，会出现一个红色小灯泡。PyCharm会根据程序自动推荐你需要安装的模块(下图应该选择opencv-python)，点击即可完成安装。
+
+.. image:: install1.png
+   :scale: 50%
+
+如果你没有VPN，你可以点击软件下方Terminal（是PyCharm自带的Terminal，而不是Mac或者Windows的Terminal)。重新按照课程网站上的指令安装一遍模块。安装完成之后程序即可运行。
+
+.. image:: install2.png
+   :scale: 30%
+
+
