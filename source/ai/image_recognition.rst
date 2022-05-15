@@ -179,8 +179,6 @@
 
 示例代码：:download:`Template Code <example.py>`
 
-
-
 课堂PPT: :download:`深度学习 <deep learning.pptx>`
 
 
@@ -217,5 +215,19 @@ A. 这种问题常出现于PyCharm使用的Python版本与系统不一致的情�
 
 .. image:: install2.png
    :scale: 30%
+
+
+
+Q. 运行程序之后，窗口会出现如下错误：
+
+.. image:: filenotfound.png
+   :scale: 30%
+
+
+A. 这说明PyCharm没有找到图像文件。你需要做两件事情：
+
+1. 将图片文件和python文件拖到项目文件夹的下方（第一层）
+
+2. 在脚本路径中确认是否选择是当前的python文件。
 
 
