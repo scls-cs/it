@@ -80,6 +80,7 @@
    ai/pycharm
    ai/filter
    ai/image_recognition
+   ai/digit_recognition
 
 
 

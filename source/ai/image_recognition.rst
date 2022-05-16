@@ -216,6 +216,16 @@ A. 这种问题常出现于PyCharm使用的Python版本与系统不一致的情�
 .. image:: install2.png
    :scale: 30%
 
+这个方法需要你能通过运行错误判断是是哪个模块出现了问题。例如下图：
+
+.. image:: kiwi.png
+   :scale: 30%
+
+你可以通过运行信息，知道是kiwisolver这个模块出现了问题。你只需要将该模块卸载后，在PyCharm的终端里面运行：
+
+.. code-block:: text
+
+    pip install kiwisolver
 
 
 Q. 运行程序之后，窗口会出现如下错误：
