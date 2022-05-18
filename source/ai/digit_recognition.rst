@@ -117,7 +117,7 @@
                         x+=1
 
 
-            x = Counter(matchedAr)  #统计不同标签值的数量
+            x = Counter(matchedAr)  #统计标签数量
             print(x)
 
 5. 测试算法

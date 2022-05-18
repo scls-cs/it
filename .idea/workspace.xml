@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4d60759e-34c0-42fc-8bf9-b0b86f2f8cd9" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/ai/Image Recognition II.pdf" afterPath="$PROJECT_DIR$/source/ai/Image Recognition II.pdf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/ai/digit_recognition.rst" afterPath="$PROJECT_DIR$/source/ai/digit_recognition.rst" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -66,8 +66,8 @@
       <file leaf-file-name="digit_recognition.rst" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/source/ai/digit_recognition.rst">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="488">
-              <caret line="152" column="0" lean-forward="true" selection-start-line="152" selection-start-column="0" selection-end-line="152" selection-end-column="0" />
+            <state relative-caret-position="525">
+              <caret line="120" column="20" lean-forward="true" selection-start-line="120" selection-start-column="20" selection-end-line="120" selection-end-column="20" />
               <folding />
             </state>
           </provider>
@@ -640,8 +640,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/source/ai/digit_recognition.rst">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="488">
-          <caret line="152" column="0" lean-forward="true" selection-start-line="152" selection-start-column="0" selection-end-line="152" selection-end-column="0" />
+        <state relative-caret-position="525">
+          <caret line="120" column="20" lean-forward="true" selection-start-line="120" selection-start-column="20" selection-end-line="120" selection-end-column="20" />
           <folding />
         </state>
       </provider>
