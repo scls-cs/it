@@ -3,7 +3,7 @@
 
 这次实验课的任务是识别手写的数字。
 
-1.图像识别原理
+1.图像编码
 ------------
 
 通过前面几节课的学习，我们知道一幅图像是由像素点矩阵组成的。每一个像素点由红、绿、蓝以及Alpha通道组成。Alpha通道表示像素的透明度，255表示完全不透明，0表示完全透明。
@@ -54,6 +54,112 @@
    :scale: 20%
 
 绿色部分表示第一张图片的信息，红色部分是训练数据的标签，也就是对应的数码。
+
+
+.. note::
+    由于createExamples()函数是用来生成训练图片的像素数据的，所以**只需要执行一次**。如果执行多次，则会重复扩充numArEx.txt，没有意义。所以该函数执行一次后，可以将调用函数的代码注释掉（前面加上#）。
+
+3. 图像识别
+---------
+
+图像识别的算法有很多种，业界常用的算法包括SVM(support vector machine)、卷积神经网络（CNN)等。本次实验我们采用一种相对简单的算法来识别数字。关于SVM和CNN的介绍，可以参考本节最下方的链接，感兴趣的同学可以自己尝试。
+
+本次实验课采用的基本原理是：将手写数字（预测图片）与所有的训练图片（放在images文件夹）的每一个像素点进行比较。
+
+.. image:: ex_5.png
+   :scale: 25%
+
+例如，上图左边是预测图片（嗯就是我写的），右边是训练图片中的5.1.png。不难发现，左边和右边图片的像素重合度是很高的。更具体一点说，在64个像素点中，同一个位置上像素点的值相同的概率会比较大。也就是说64个像素点中，像素点值相同的个数会比较多。
+
+
+再举个反例，我们直观上能感受到，预测图片（左图）和训练图片（右图）的像素重合度会比较低。
+
+这样我们就可以设计一个图像识别算法：将预测图片与每一张训练图片做像素级的比较。像素重合度越高，预测图片与训练图片越相似。这样通过训练图片的标签就可以预测预测图片对应的数码。
+
+.. image:: example_52.png
+   :scale: 25%
+
+我们来实际操作一下。
+
+4. 设计算法
+--------
+
+设计函数whatNumIsThis()来预测图片。大家可以看代码注释来理解函数原理：
+
+.. code-block:: text
+
+        def whatNumIsThis(filePath):
+            matchedAr = []
+            loadExamps = open('numArEx.txt', 'r').read()  #加载'numArEx.txt'文件
+            loadExamps = loadExamps.split('\n')  #将文件每行分开，并作为元素存入loadExamps数组中
+
+            i = Image.open(filePath)  #加载预测图片
+            iar = np.array(i)  #将图片转换为数组
+            print(iar)
+            iarl = iar.tolist()
+
+            inQuestion = str(iarl)  #以上两行将像素数组转化为一行字符串，例如[[1,2], [3,4]] -> "1,2,3,4"
+
+            for eachExample in loadExamps:  #遍历训练图片
+                if len(eachExample) > 3:
+                    splitEx = eachExample.split("::")  #将每一个图片用::分割开，并放入splitEx数组中。
+                    currentNum = splitEx[0]  #训练图片标签
+                    currentAr = splitEx[1]  #训练图片像素数据
+
+                    eachPixEx = currentAr.split('],')  #将训练图片的像素数据再分割成一个个单独的像素，存入eachPixEx数组中
+                    eachPixInQ = inQuestion.split('],')  #将预测图片的像素数据再分割成一个个单独的像素，存入eachPixInQ数组中
+
+                    x = 0
+
+                    while x < len(eachPixEx):  #比较训练图片与预测图片的每一个像素点
+                        if eachPixEx[x] == eachPixInQ[x]:
+                            matchedAr.append(int(currentNum))  #如果像素点的值相等，在matchedAr数组中添加训练图片的标签值（想想为什么？）
+                        x+=1
+
+
+            x = Counter(matchedAr)  #统计不同标签值的数量
+            print(x)
+
+5. 测试算法
+----------
+
+在blank.png中手写一个数码（需要占满图片并且在中间）。将图片保存在项目文件夹下。
+
+.. image:: test_2.png
+   :scale: 25%
+
+再调用whatNumIsThis()函数即可。
+
+例如当我调用该函数预测下图时，会显示如下结果：
+
+.. code-block:: text
+
+    whatNumIsThis('test_6.png')
+
+.. image:: test_6.png
+   :scale: 40%
+
+.. image:: result_6.png
+   :scale: 26%
+
+第一个数字对应的是训练图片的标签，第二个数字表示预测图片与该标签的10张训练图片比较，像素点值相同的数量。
+
+结果显示，预测图片与90张训练图片进行比较，其中与标签为6的训练图片有435个像素点的值是相同的，说明预测图片与标签为6的图片相似度最大，也就说明预测图片很有可能是手写数字6。
+
+（想一想，第二个数字理论的最大值是多少？）
+
+6. 作业
+-----
+
+数码识别实验：:download:`Digit Recognition <Image Recognition II.pdf>`
+
+
+
+
+
+
+
+
 
 
 
