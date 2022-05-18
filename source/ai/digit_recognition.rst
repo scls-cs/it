@@ -120,6 +120,12 @@
             x = Counter(matchedAr)  #统计标签数量
             print(x)
 
+为了可以用Counter()函数来统计结果，我们需要导入Counter模块：
+
+.. code-block:: text
+
+    from collections import Counter
+
 5. 测试算法
 ----------
 
