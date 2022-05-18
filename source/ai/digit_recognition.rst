@@ -151,7 +151,7 @@
 6. 作业
 -----
 
-数码识别实验：:download:`Digit Recognition <Image Recognition II.pdf>`
+数码识别实验要求：:download:`Digit Recognition <Image Recognition II.pdf>`
 
 
 
