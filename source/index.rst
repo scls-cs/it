@@ -84,6 +84,13 @@
    ai/image_recognition
    ai/digit_recognition
 
+.. toctree::
+   :caption: 数据库
+   :hidden:
+   :maxdepth: 10
+
+   database/intro.rst
+
 
 
 
