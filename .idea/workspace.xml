@@ -26,8 +26,8 @@
       <file leaf-file-name="pycharm.rst" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/source/ai/pycharm.rst">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-608">
-              <caret line="119" column="5" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="133" selection-end-column="0" />
+            <state relative-caret-position="228">
+              <caret line="113" column="0" lean-forward="false" selection-start-line="113" selection-start-column="0" selection-end-line="113" selection-end-column="9" />
               <folding />
             </state>
           </provider>
@@ -46,7 +46,7 @@
       <file leaf-file-name="image_recognition.rst" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/source/ai/image_recognition.rst">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-414">
+            <state relative-caret-position="-1478">
               <caret line="177" column="50" lean-forward="false" selection-start-line="177" selection-start-column="5" selection-end-line="177" selection-end-column="50" />
               <folding />
             </state>
@@ -66,8 +66,8 @@
       <file leaf-file-name="intro.rst" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/source/database/intro.rst">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="496">
-              <caret line="128" column="36" lean-forward="false" selection-start-line="128" selection-start-column="36" selection-end-line="128" selection-end-column="36" />
+            <state relative-caret-position="624">
+              <caret line="132" column="7" lean-forward="false" selection-start-line="132" selection-start-column="7" selection-end-line="132" selection-end-column="7" />
               <folding />
             </state>
           </provider>
@@ -219,6 +219,12 @@
               <item name="cs-intro" type="b2602c69:ProjectViewProjectNode" />
               <item name="cs-intro" type="462c0819:PsiDirectoryNode" />
               <item name="source" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cs-intro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cs-intro" type="462c0819:PsiDirectoryNode" />
+              <item name="source" type="462c0819:PsiDirectoryNode" />
+              <item name="ai" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="cs-intro" type="b2602c69:ProjectViewProjectNode" />
@@ -582,14 +588,6 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/source/ai/pycharm.rst">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-608">
-          <caret line="119" column="5" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="133" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/source/ai/filter.rst">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-967">
@@ -624,14 +622,6 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/source/ai/image_recognition.rst">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-414">
-          <caret line="177" column="50" lean-forward="false" selection-start-line="177" selection-start-column="5" selection-end-line="177" selection-end-column="50" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/source/index.rst">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="160">
@@ -648,10 +638,26 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/source/ai/image_recognition.rst">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1478">
+          <caret line="177" column="50" lean-forward="false" selection-start-line="177" selection-start-column="5" selection-end-line="177" selection-end-column="50" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/ai/pycharm.rst">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="113" column="0" lean-forward="false" selection-start-line="113" selection-start-column="0" selection-end-line="113" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/source/database/intro.rst">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="496">
-          <caret line="128" column="36" lean-forward="false" selection-start-line="128" selection-start-column="36" selection-end-line="128" selection-end-column="36" />
+        <state relative-caret-position="624">
+          <caret line="132" column="7" lean-forward="false" selection-start-line="132" selection-start-column="7" selection-end-line="132" selection-end-column="7" />
           <folding />
         </state>
       </provider>
