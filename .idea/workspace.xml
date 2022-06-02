@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4d60759e-34c0-42fc-8bf9-b0b86f2f8cd9" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/web/HTML.pptx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/web/HTML作业.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/web/html.rst" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/web/HTML作业.pdf" afterPath="$PROJECT_DIR$/source/web/HTML作业.pdf" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/index.rst" afterPath="$PROJECT_DIR$/source/index.rst" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -17,11 +14,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.rst" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.rst" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/source/index.rst">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="160">
               <caret line="5" column="14" lean-forward="false" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/source/web/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -37,20 +44,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="image_recognition.rst" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/source/ai/image_recognition.rst">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="5664">
-              <caret line="177" column="50" lean-forward="false" selection-start-line="177" selection-start-column="5" selection-end-line="177" selection-end-column="50" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="digit_recognition.rst" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/source/ai/digit_recognition.rst">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-223">
+            <state relative-caret-position="1344">
               <caret line="42" column="51" lean-forward="false" selection-start-line="42" selection-start-column="51" selection-end-line="42" selection-end-column="51" />
               <folding />
             </state>
@@ -60,18 +57,18 @@
       <file leaf-file-name="intro.rst" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/source/database/intro.rst">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="28">
+            <state relative-caret-position="1408">
               <caret line="44" column="13" lean-forward="false" selection-start-line="44" selection-start-column="0" selection-end-line="45" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="html.rst" pinned="false" current-in-tab="false">
+      <file leaf-file-name="html.rst" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/source/web/html.rst">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="464">
-              <caret line="148" column="0" lean-forward="true" selection-start-line="148" selection-start-column="0" selection-end-line="148" selection-end-column="0" />
+            <state relative-caret-position="528">
+              <caret line="150" column="34" lean-forward="false" selection-start-line="150" selection-start-column="34" selection-end-line="150" selection-end-column="34" />
               <folding />
             </state>
           </provider>
@@ -91,7 +88,7 @@
         <entry file="file://$PROJECT_DIR$/source/web/table.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="352">
-              <caret line="11" column="13" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+              <caret line="11" column="13" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -101,7 +98,7 @@
         <entry file="file://$PROJECT_DIR$/source/web/heading.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="320">
-              <caret line="10" column="7" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+              <caret line="10" column="7" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -171,8 +168,8 @@
         <option value="$PROJECT_DIR$/source/ai/digit_recognition.rst" />
         <option value="$PROJECT_DIR$/source/database/intro.rst" />
         <option value="$PROJECT_DIR$/source/web/table.html" />
-        <option value="$PROJECT_DIR$/source/web/html.rst" />
         <option value="$PROJECT_DIR$/source/index.rst" />
+        <option value="$PROJECT_DIR$/source/web/html.rst" />
       </list>
     </option>
   </component>
@@ -183,8 +180,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="51" />
-    <option name="y" value="154" />
+    <option name="x" value="190" />
+    <option name="y" value="392" />
     <option name="width" value="1440" />
     <option name="height" value="900" />
   </component>
@@ -221,7 +218,6 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -244,6 +240,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="ProjectViewState">
@@ -257,18 +254,18 @@
     <property name="settings.editor.selected.configurable" value="preferences.editor" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/source/ai" />
-      <recent name="$PROJECT_DIR$/source/python_midterm" />
-      <recent name="$PROJECT_DIR$/source/midterm" />
-      <recent name="$PROJECT_DIR$/source/final" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/source/web" />
       <recent name="$PROJECT_DIR$/source/database" />
       <recent name="$PROJECT_DIR$/source/ai" />
       <recent name="$PROJECT_DIR$/source/network" />
       <recent name="$PROJECT_DIR$/source/hardware" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/source/ai" />
+      <recent name="$PROJECT_DIR$/source/python_midterm" />
+      <recent name="$PROJECT_DIR$/source/midterm" />
+      <recent name="$PROJECT_DIR$/source/final" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -307,10 +304,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="51" y="154" width="1440" height="900" extended-state="0" />
+    <frame x="190" y="392" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2761087" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27968526" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32945737" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -342,13 +339,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/source/term/term.rst">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1760">
-          <caret line="55" column="7" lean-forward="false" selection-start-line="55" selection-start-column="7" selection-end-line="55" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/source/final/prev.rst">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="181">
@@ -584,7 +574,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -592,7 +581,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="736">
           <caret line="23" column="7" lean-forward="false" selection-start-line="23" selection-start-column="7" selection-end-line="23" selection-end-column="7" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -619,7 +607,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/source/ai/digit_recognition.rst">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-223">
+        <state relative-caret-position="1344">
           <caret line="42" column="51" lean-forward="false" selection-start-line="42" selection-start-column="51" selection-end-line="42" selection-end-column="51" />
           <folding />
         </state>
@@ -627,7 +615,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/source/database/intro.rst">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="28">
+        <state relative-caret-position="1408">
           <caret line="44" column="13" lean-forward="false" selection-start-line="44" selection-start-column="0" selection-end-line="45" selection-end-column="0" />
           <folding />
         </state>
@@ -644,7 +632,7 @@
     <entry file="file://$PROJECT_DIR$/source/web/heading.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="320">
-          <caret line="10" column="7" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <caret line="10" column="7" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -652,15 +640,7 @@
     <entry file="file://$PROJECT_DIR$/source/web/table.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="352">
-          <caret line="11" column="13" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/web/html.rst">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="464">
-          <caret line="148" column="0" lean-forward="true" selection-start-line="148" selection-start-column="0" selection-end-line="148" selection-end-column="0" />
+          <caret line="11" column="13" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -677,6 +657,22 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="160">
           <caret line="5" column="14" lean-forward="false" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/web/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/web/html.rst">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="150" column="34" lean-forward="false" selection-start-line="150" selection-start-column="34" selection-end-line="150" selection-end-column="34" />
           <folding />
         </state>
       </provider>
