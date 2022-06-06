@@ -21,3 +21,22 @@ Megan
        :scale: 15%
        :target: ../_static/Megan/top10_Megan.html
 
+Sunday
+-------------
+.. image:: sunday.jpg
+       :scale: 15%
+       :target: ../_static/Sunday/top10_snd.html
+
+Ray
+-------------
+.. image:: ray.jpg
+       :scale: 15%
+       :target: ../_static/Ray/Website.html
+
+Jenny
+-------------
+.. image:: jing.png
+       :scale: 15%
+       :target: ../_static/top10_Yangjing/jenny.html
+
+
