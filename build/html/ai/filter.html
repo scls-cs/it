@@ -1,0 +1,315 @@
+<!DOCTYPE html>
+<html class="writer-html5" lang="en" >
+<head>
+  <meta charset="utf-8" /><meta name="generator" content="Docutils 0.17.1: http://docutils.sourceforge.net/" />
+
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>图像滤镜实验 &mdash; 宋庆龄学校信息技术  documentation</title>
+      <link rel="stylesheet" href="../_static/pygments.css" type="text/css" />
+      <link rel="stylesheet" href="../_static/css/theme.css" type="text/css" />
+  <!--[if lt IE 9]>
+    <script src="../_static/js/html5shiv.min.js"></script>
+  <![endif]-->
+  
+        <script data-url_root="../" id="documentation_options" src="../_static/documentation_options.js"></script>
+        <script src="../_static/jquery.js"></script>
+        <script src="../_static/underscore.js"></script>
+        <script src="../_static/doctools.js"></script>
+    <script src="../_static/js/theme.js"></script>
+    <link rel="index" title="Index" href="../genindex.html" />
+    <link rel="search" title="Search" href="../search.html" />
+    <link rel="next" title="图像识别实验（上）" href="image_recognition.html" />
+    <link rel="prev" title="PyCharm入门" href="pycharm.html" /> 
+</head>
+
+<body class="wy-body-for-nav"> 
+  <div class="wy-grid-for-nav">
+    <nav data-toggle="wy-nav-shift" class="wy-nav-side">
+      <div class="wy-side-scroll">
+        <div class="wy-side-nav-search" >
+            <a href="../index.html" class="icon icon-home"> 宋庆龄学校信息技术
+          </a>
+<div role="search">
+  <form id="rtd-search-form" class="wy-form" action="../search.html" method="get">
+    <input type="text" name="q" placeholder="Search docs" />
+    <input type="hidden" name="check_keywords" value="yes" />
+    <input type="hidden" name="area" value="default" />
+  </form>
+</div>
+        </div><div class="wy-menu wy-menu-vertical" data-spy="affix" role="navigation" aria-label="Navigation menu">
+              <p class="caption" role="heading"><span class="caption-text">信息数字化</span></p>
+<ul>
+<li class="toctree-l1"><a class="reference internal" href="../information/digital.html">信息与数字化</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../information/number_convert.html">数制转换</a></li>
+</ul>
+<p class="caption" role="heading"><span class="caption-text">计算机网络</span></p>
+<ul>
+<li class="toctree-l1"><a class="reference internal" href="../network/overview.html">计算机网络概论</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../network/HTTP.html">网络协议(上)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../network/TCPIP.html">网络协议(下)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../network/homework.html">网络协议作业</a></li>
+</ul>
+<p class="caption" role="heading"><span class="caption-text">计算机系统</span></p>
+<ul>
+<li class="toctree-l1"><a class="reference internal" href="../hardware/organization.html">计算机组成</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../hardware/configuration.html">计算机配置</a></li>
+</ul>
+<p class="caption" role="heading"><span class="caption-text">期中复习</span></p>
+<ul>
+<li class="toctree-l1"><a class="reference internal" href="../midterm_review/mid.html">期中复习</a></li>
+</ul>
+<p class="caption" role="heading"><span class="caption-text">人工智能</span></p>
+<ul class="current">
+<li class="toctree-l1"><a class="reference internal" href="image.html">图像编码</a></li>
+<li class="toctree-l1"><a class="reference internal" href="pycharm.html">PyCharm入门</a></li>
+<li class="toctree-l1 current"><a class="current reference internal" href="#">图像滤镜实验</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="#python">1. 在命令行配置python</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#pip">2. 下载并安装pip命令</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#opencv">3. 下载并安装OpenCV函数库</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#id2">4. 新建一个文件</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#id3">5. 配置运行的python文件</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#id4">6. 开始编写程序</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#id5">7. 图像处理步骤</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#id6">8. 作业及资料</a></li>
+</ul>
+</li>
+<li class="toctree-l1"><a class="reference internal" href="image_recognition.html">图像识别实验（上）</a></li>
+<li class="toctree-l1"><a class="reference internal" href="digit_recognition.html">图像识别实验（下）</a></li>
+</ul>
+<p class="caption" role="heading"><span class="caption-text">数据库</span></p>
+<ul>
+<li class="toctree-l1"><a class="reference internal" href="../database/intro.html">SQL</a></li>
+</ul>
+<p class="caption" role="heading"><span class="caption-text">网页设计</span></p>
+<ul>
+<li class="toctree-l1"><a class="reference internal" href="../web/html.html">HTML</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../web/work.html">优秀作业展示（点击图片可以浏览网页）</a></li>
+</ul>
+
+        </div>
+      </div>
+    </nav>
+
+    <section data-toggle="wy-nav-shift" class="wy-nav-content-wrap"><nav class="wy-nav-top" aria-label="Mobile navigation menu" >
+          <i data-toggle="wy-nav-top" class="fa fa-bars"></i>
+          <a href="../index.html">宋庆龄学校信息技术</a>
+      </nav>
+
+      <div class="wy-nav-content">
+        <div class="rst-content">
+          <div role="navigation" aria-label="Page navigation">
+  <ul class="wy-breadcrumbs">
+      <li><a href="../index.html" class="icon icon-home"></a> &raquo;</li>
+      <li>图像滤镜实验</li>
+      <li class="wy-breadcrumbs-aside">
+            <a href="../_sources/ai/filter.rst.txt" rel="nofollow"> View page source</a>
+      </li>
+  </ul>
+  <hr/>
+</div>
+          <div role="main" class="document" itemscope="itemscope" itemtype="http://schema.org/Article">
+           <div itemprop="articleBody">
+             
+  <section id="id1">
+<h1>图像滤镜实验<a class="headerlink" href="#id1" title="Permalink to this headline"></a></h1>
+<section id="python">
+<h2>1. 在命令行配置python<a class="headerlink" href="#python" title="Permalink to this headline"></a></h2>
+<p>还记得在网络原理那堂课上，我们使用命令行终端（Terminal)完成路由器追踪的实验吗？还记得我们使用的命令吗?当时我们使用了traceroute/tracert命令（取决于你使用的操作系统）。这两个命令都是操作系统自带的，现在我们需要在终端上安装python这个命令。这样我们不仅可以在PyCharm上运行Python程序（我们上周已经做到了），我们还可以在终端上执行Python语句。这对于我们接下来要安装的函数库至关重要。</p>
+<p><strong>For Mac User</strong>: 打开Terminal，输入</p>
+<div class="highlight-text notranslate"><div class="highlight"><pre><span></span>python3 --version
+</pre></div>
+</div>
+<p>按下回车。这个命令可以用来判断Terminal所使用的python版本，也经常用来判断Terminal是否已经安装了python命令。如果你看到的是Python 3.10.4（如下图所示），那么说明你已经安装成功。如果出现的是python command not found，或者其它的版本（如2.x.x)，那么说明你上周的Python没有安装成功，请重新回顾上次作业的步骤。</p>
+<a class="reference internal image-reference" href="../_images/version.jpeg"><img alt="../_images/version.jpeg" src="../_images/version.jpeg" style="width: 409.2px; height: 289.8px;" /></a>
+<p><strong>For Windows User</strong>: 打开cmd，输入</p>
+<div class="highlight-text notranslate"><div class="highlight"><pre><span></span>python -V
+</pre></div>
+</div>
+<p>按下回车。如果显示python版本，说明python命令安装成功。</p>
+<a class="reference internal image-reference" href="../_images/win.jpeg"><img alt="../_images/win.jpeg" src="../_images/win.jpeg" style="width: 339.9px; height: 156.9px;" /></a>
+<p>如果没有任何结果，说明终端没有安装python命令。你需要重新安装一遍python。注意要将Add Python 3.10 to PATH勾选上（如下图所示）。</p>
+<a class="reference internal image-reference" href="../_images/path.jpeg"><img alt="../_images/path.jpeg" src="../_images/path.jpeg" style="width: 306.3px; height: 189.9px;" /></a>
+<p>安装完毕之后，在命令行中再次输入python -V，则会出现python的版本。</p>
+</section>
+<section id="pip">
+<h2>2. 下载并安装pip命令<a class="headerlink" href="#pip" title="Permalink to this headline"></a></h2>
+<p>下载并安装pip命令。pip是Python的包管理工具，可以通过pip方便的下载并安装Python的函数包。</p>
+<p>输入curl <a class="reference external" href="https://bootstrap.pypa.io/get-pip.py">https://bootstrap.pypa.io/get-pip.py</a> -o get-pip.py，按下回车并等待下载pip脚本（可能会持续2-10分钟左右）。</p>
+<p>输入python3 get-pip.py命令(Windows用户是python get-pip.py)，按下回车并等待安装pip（可能会持续2-10分钟左右）。</p>
+<p>安装成功之后你会看到如下界面：</p>
+<a class="reference internal image-reference" href="../_images/pip.jpeg"><img alt="../_images/pip.jpeg" src="../_images/pip.jpeg" style="width: 409.2px; height: 289.8px;" /></a>
+<p>如果是如下界面，说明未安装成功，原因是python get-pip.py这个命令需要下载一个文件（只有2M)，但由于下载速度过慢导致延时(timeout)。请用下面这个命令：</p>
+<div class="highlight-text notranslate"><div class="highlight"><pre><span></span>python3 get-pip.py -i https://pypi.tuna.tsinghua.edu.cn/simple/  --trusted-host pypi.tuna.tsinghua.edu.cn
+</pre></div>
+</div>
+<p>(Windows的同学将python3换成python即可）</p>
+<a class="reference internal image-reference" href="../_images/timeout.png"><img alt="../_images/timeout.png" src="../_images/timeout.png" style="width: 751.1999999999999px; height: 420.59999999999997px;" /></a>
+</section>
+<section id="opencv">
+<h2>3. 下载并安装OpenCV函数库<a class="headerlink" href="#opencv" title="Permalink to this headline"></a></h2>
+<p>OpenCV是一个跨平台计算机视觉库，可以运行在Linux, Windows和MacOS操作系统上。它实现了图像处理和计算机视觉方面的很多通用算法，例如图像特征提取、人脸识别、手势识别、人机交互等。我们在这次作业中，需要用到OpenCV的部分函数来进行实验。</p>
+<p>输入第一个命令：pip install numpy，点击回车。如果也出现time-out的问题，可以输入下面命令：</p>
+<div class="highlight-text notranslate"><div class="highlight"><pre><span></span>pip install -i https://pypi.tuna.tsinghua.edu.cn/simple/ numpy
+</pre></div>
+</div>
+<p>输入第二个命令：pip install opencv-python，点击回车。或者输入下面命令：</p>
+<div class="highlight-text notranslate"><div class="highlight"><pre><span></span>pip install -i https://pypi.tuna.tsinghua.edu.cn/simple/ opencv-python
+</pre></div>
+</div>
+<p>安装成功后，你会看到如下界面：</p>
+<a class="reference internal image-reference" href="../_images/opencv.jpeg"><img alt="../_images/opencv.jpeg" src="../_images/opencv.jpeg" style="width: 409.2px; height: 289.8px;" /></a>
+</section>
+<section id="id2">
+<h2>4. 新建一个文件<a class="headerlink" href="#id2" title="Permalink to this headline"></a></h2>
+<p>我们已经成功安装好OpenCV函数库，接下来我们要开始完成图像滤镜的实验了。运行PyCharm，打开上周的Project（也可以新建一个Project)，新建一个python文件，取名image.py。</p>
+<a class="reference internal image-reference" href="../_images/new_file.png"><img alt="../_images/new_file.png" src="../_images/new_file.png" style="width: 838.8px; height: 501.0px;" /></a>
+<p>现在我们的工程中有两个python文件。第一个loop.py是上周我们创建的，image.py是我们刚刚新建的，也是我们这周要提交的文件。所以接下来我们需要让PyCharm知道我们要运行image.py，而不是loop.py。到这一步你其实应该知道怎么做了。</p>
+</section>
+<section id="id3">
+<h2>5. 配置运行的python文件<a class="headerlink" href="#id3" title="Permalink to this headline"></a></h2>
+<p>点击右上角edit configuration（现在可能显示的是loop), 在script path中选择image.py，点击open，然后apply。现在我们已经让PyCharm知道，接下来运行的都是image.py这个程序，而不是其它的文件。</p>
+<a class="reference internal image-reference" href="../_images/script.png"><img alt="../_images/script.png" src="../_images/script.png" style="width: 619.8px; height: 418.8px;" /></a>
+</section>
+<section id="id4">
+<h2>6. 开始编写程序<a class="headerlink" href="#id4" title="Permalink to this headline"></a></h2>
+<p>在image.py中的第一行输入：</p>
+<div class="highlight-text notranslate"><div class="highlight"><pre><span></span>import cv2
+</pre></div>
+</div>
+<p>这一行的作用是导入OpenCV的函数包。如果你发现这一行的下面出现了一根红线，将鼠标移到这一行上，旁边会出现一个”install opencv-python”的提示，点击它，等待它安装好就可以了。安装过程可能会持续1，2分钟的时间。安装完毕之后，红线会自动消失，说明我们已经成功将OpenCV函数包导入进PyCharm了。</p>
+<p>到这一步，我们就完成了所有的配置工作。我们接下来就可以开始完成作业了。在打开作业要求之前，我强烈建议大家先回顾一下上节课的步骤，自己按照第7步的步骤操作一遍。</p>
+</section>
+<section id="id5">
+<h2>7. 图像处理步骤<a class="headerlink" href="#id5" title="Permalink to this headline"></a></h2>
+<p>首先将要处理的图片放入项目中。这个步骤非常简单，你可以直接将图片文件用鼠标拖到项目中。<strong>图片需要和python文件在同一个目录下。</strong></p>
+<a class="reference internal image-reference" href="../_images/img.png"><img alt="../_images/img.png" src="../_images/img.png" style="width: 345.6px; height: 372.8px;" /></a>
+<div class="admonition note">
+<p class="admonition-title">Note</p>
+<p>图片一定要与python文件放在同一个文件下（也就是hw1)，否则会无法加载图片。不要把图片放在一个单独的文件夹中。</p>
+</div>
+<p>接下来就是常见的操作，大家可以按照操作来编写代码，也可以直接打开网站下方的示例代码。示例代码只是一个模版而已，供大家理解使用。</p>
+<ol class="loweralpha simple">
+<li><p>读取、打开、并关闭图像</p></li>
+</ol>
+<div class="highlight-text notranslate"><div class="highlight"><pre><span></span>import cv2
+
+img = cv2.imread(&#39;bridge.jpeg&#39;) #读取金门大桥的图片，并将图片保存在img这个变量中
+
+cv2.imshow(&quot;Demo&quot;, img) #显示图片，并将图片暂时命名为Demo
+
+k=cv2.waitKey(0)  #等待键盘输入，并将键盘按键信息赋给k
+
+if k==27:
+    cv2.destroyAllWindows()  #如果发现按下的是Esc，则关闭图片并结束程序
+</pre></div>
+</div>
+<ol class="loweralpha simple" start="2">
+<li><p>读取图像的分辨率、</p></li>
+</ol>
+<div class="highlight-text notranslate"><div class="highlight"><pre><span></span>import cv2
+
+img = cv2.imread(&#39;bridge.jpeg&#39;) #read the beautiful image of golden gate bridge
+
+img_width= img.shape[1]  #image width
+img_height= img.shape[0] #image height
+
+print(img_width, img_height) #print image width and height
+</pre></div>
+</div>
+<ol class="loweralpha simple" start="3">
+<li><p>读取图像某一个像素点的RGB值</p></li>
+</ol>
+<div class="highlight-text notranslate"><div class="highlight"><pre><span></span>blue = img[100, 200, 0] #get the value of blue channel of pixel at row 100, column 200
+green = img[100, 200, 1] # get the value of green channel of the same pixel
+red = img[100, 200, 2]  #get the value of red channel of the same pixel
+
+print(blue, green, red) #print the pixel&#39;s RGB value
+</pre></div>
+</div>
+<ol class="loweralpha simple" start="4">
+<li><p>将某一个像素点改为全白色</p></li>
+</ol>
+<div class="highlight-text notranslate"><div class="highlight"><pre><span></span>img[100, 200] = [255, 255, 255]
+</pre></div>
+</div>
+<ol class="loweralpha simple" start="5">
+<li><p>将某一个区域的像素点改为全白色</p></li>
+</ol>
+<div class="highlight-text notranslate"><div class="highlight"><pre><span></span>img[100:200, 200:300] = [255, 255, 255]
+</pre></div>
+</div>
+<ol class="loweralpha simple" start="6">
+<li><p>将某一个像素点的R和B值进行交换</p></li>
+</ol>
+<div class="highlight-text notranslate"><div class="highlight"><pre><span></span>blue = img[100, 200, 0]
+green = img[100, 200, 1]
+red = img[100, 200, 2]
+
+temp = blue
+blue = red
+red = temp   #交换Red和Blue的值
+
+image[100, 200] = [blue, green, red] #将新的RGB值赋给该像素点
+</pre></div>
+</div>
+<ol class="loweralpha simple" start="6">
+<li><p>将图片变为灰度图</p></li>
+</ol>
+<div class="highlight-text notranslate"><div class="highlight"><pre><span></span>for row in range(img_height):
+    for col in range(img_width):  #循环遍历图片所有像素点
+        blue = img[row, col, 0]
+        green = img[row, col, 1]
+        red = img[row, col, 2]
+
+        color = (blue+green+red)/3 #参考ppt灰度算法
+        img[row, col] = [r, g, b]  #将新的RGB值赋给像素点
+</pre></div>
+</div>
+<ol class="loweralpha simple" start="7">
+<li><p>保存处理后的图片</p></li>
+</ol>
+<div class="highlight-text notranslate"><div class="highlight"><pre><span></span>cv2.imwrite(&#39;1.png&#39;, img)  #将图片保存为1.png，新的图片会保存在项目下面
+</pre></div>
+</div>
+</section>
+<section id="id6">
+<h2>8. 作业及资料<a class="headerlink" href="#id6" title="Permalink to this headline"></a></h2>
+<p>作业要求: <a class="reference download internal" download="" href="../_downloads/ae6f5ae019cb429503758a22cd1f2ce1/image processing project.pdf"><code class="xref download docutils literal notranslate"><span class="pre">图像处理作业</span></code></a></p>
+<p>图片：<a class="reference download internal" download="" href="../_downloads/04dde50c0b589b9cedb51c0be4432b6d/bridge.jpeg"><code class="xref download docutils literal notranslate"><span class="pre">金门大桥</span></code></a></p>
+<p>示例程序：<a class="reference download internal" download="" href="../_downloads/e6d6c6a9e89c0a6aa4d72357709ffaac/template.py"><code class="xref download docutils literal notranslate"><span class="pre">Example</span> <span class="pre">Code</span></code></a></p>
+<p>PPT: <a class="reference download internal" download="" href="../_downloads/04f1ca0fc123d91290b40ee72f176d82/image filtering.pptx"><code class="xref download docutils literal notranslate"><span class="pre">图像滤镜</span></code></a></p>
+</section>
+</section>
+
+
+           </div>
+          </div>
+          <footer><div class="rst-footer-buttons" role="navigation" aria-label="Footer">
+        <a href="pycharm.html" class="btn btn-neutral float-left" title="PyCharm入门" accesskey="p" rel="prev"><span class="fa fa-arrow-circle-left" aria-hidden="true"></span> Previous</a>
+        <a href="image_recognition.html" class="btn btn-neutral float-right" title="图像识别实验（上）" accesskey="n" rel="next">Next <span class="fa fa-arrow-circle-right" aria-hidden="true"></span></a>
+    </div>
+
+  <hr/>
+
+  <div role="contentinfo">
+    <p>&#169; Copyright 2022, Derek.</p>
+  </div>
+
+  Built with <a href="https://www.sphinx-doc.org/">Sphinx</a> using a
+    <a href="https://github.com/readthedocs/sphinx_rtd_theme">theme</a>
+    provided by <a href="https://readthedocs.org">Read the Docs</a>.
+   
+
+</footer>
+        </div>
+      </div>
+    </section>
+  </div>
+  <script>
+      jQuery(function () {
+          SphinxRtdTheme.Navigation.enable(true);
+      });
+  </script> 
+
+</body>
+</html>

@@ -1,0 +1,255 @@
+<!DOCTYPE html>
+<html class="writer-html5" lang="en" >
+<head>
+  <meta charset="utf-8" /><meta name="generator" content="Docutils 0.17.1: http://docutils.sourceforge.net/" />
+
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>SQL &mdash; 宋庆龄学校信息技术  documentation</title>
+      <link rel="stylesheet" href="../_static/pygments.css" type="text/css" />
+      <link rel="stylesheet" href="../_static/css/theme.css" type="text/css" />
+  <!--[if lt IE 9]>
+    <script src="../_static/js/html5shiv.min.js"></script>
+  <![endif]-->
+  
+        <script data-url_root="../" id="documentation_options" src="../_static/documentation_options.js"></script>
+        <script src="../_static/jquery.js"></script>
+        <script src="../_static/underscore.js"></script>
+        <script src="../_static/doctools.js"></script>
+    <script src="../_static/js/theme.js"></script>
+    <link rel="index" title="Index" href="../genindex.html" />
+    <link rel="search" title="Search" href="../search.html" />
+    <link rel="next" title="HTML" href="../web/html.html" />
+    <link rel="prev" title="图像识别实验（下）" href="../ai/digit_recognition.html" /> 
+</head>
+
+<body class="wy-body-for-nav"> 
+  <div class="wy-grid-for-nav">
+    <nav data-toggle="wy-nav-shift" class="wy-nav-side">
+      <div class="wy-side-scroll">
+        <div class="wy-side-nav-search" >
+            <a href="../index.html" class="icon icon-home"> 宋庆龄学校信息技术
+          </a>
+<div role="search">
+  <form id="rtd-search-form" class="wy-form" action="../search.html" method="get">
+    <input type="text" name="q" placeholder="Search docs" />
+    <input type="hidden" name="check_keywords" value="yes" />
+    <input type="hidden" name="area" value="default" />
+  </form>
+</div>
+        </div><div class="wy-menu wy-menu-vertical" data-spy="affix" role="navigation" aria-label="Navigation menu">
+              <p class="caption" role="heading"><span class="caption-text">信息数字化</span></p>
+<ul>
+<li class="toctree-l1"><a class="reference internal" href="../information/digital.html">信息与数字化</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../information/number_convert.html">数制转换</a></li>
+</ul>
+<p class="caption" role="heading"><span class="caption-text">计算机网络</span></p>
+<ul>
+<li class="toctree-l1"><a class="reference internal" href="../network/overview.html">计算机网络概论</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../network/HTTP.html">网络协议(上)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../network/TCPIP.html">网络协议(下)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../network/homework.html">网络协议作业</a></li>
+</ul>
+<p class="caption" role="heading"><span class="caption-text">计算机系统</span></p>
+<ul>
+<li class="toctree-l1"><a class="reference internal" href="../hardware/organization.html">计算机组成</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../hardware/configuration.html">计算机配置</a></li>
+</ul>
+<p class="caption" role="heading"><span class="caption-text">期中复习</span></p>
+<ul>
+<li class="toctree-l1"><a class="reference internal" href="../midterm_review/mid.html">期中复习</a></li>
+</ul>
+<p class="caption" role="heading"><span class="caption-text">人工智能</span></p>
+<ul>
+<li class="toctree-l1"><a class="reference internal" href="../ai/image.html">图像编码</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../ai/pycharm.html">PyCharm入门</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../ai/filter.html">图像滤镜实验</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../ai/image_recognition.html">图像识别实验（上）</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../ai/digit_recognition.html">图像识别实验（下）</a></li>
+</ul>
+<p class="caption" role="heading"><span class="caption-text">数据库</span></p>
+<ul class="current">
+<li class="toctree-l1 current"><a class="current reference internal" href="#">SQL</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="#id1">数据处理</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#database">数据库（Database)</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#id2">SQL</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#id3">作业与资料</a></li>
+</ul>
+</li>
+</ul>
+<p class="caption" role="heading"><span class="caption-text">网页设计</span></p>
+<ul>
+<li class="toctree-l1"><a class="reference internal" href="../web/html.html">HTML</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../web/work.html">优秀作业展示（点击图片可以浏览网页）</a></li>
+</ul>
+
+        </div>
+      </div>
+    </nav>
+
+    <section data-toggle="wy-nav-shift" class="wy-nav-content-wrap"><nav class="wy-nav-top" aria-label="Mobile navigation menu" >
+          <i data-toggle="wy-nav-top" class="fa fa-bars"></i>
+          <a href="../index.html">宋庆龄学校信息技术</a>
+      </nav>
+
+      <div class="wy-nav-content">
+        <div class="rst-content">
+          <div role="navigation" aria-label="Page navigation">
+  <ul class="wy-breadcrumbs">
+      <li><a href="../index.html" class="icon icon-home"></a> &raquo;</li>
+      <li>SQL</li>
+      <li class="wy-breadcrumbs-aside">
+            <a href="../_sources/database/intro.rst.txt" rel="nofollow"> View page source</a>
+      </li>
+  </ul>
+  <hr/>
+</div>
+          <div role="main" class="document" itemscope="itemscope" itemtype="http://schema.org/Article">
+           <div itemprop="articleBody">
+             
+  <section id="sql">
+<h1>SQL<a class="headerlink" href="#sql" title="Permalink to this headline"></a></h1>
+<section id="id1">
+<h2>数据处理<a class="headerlink" href="#id1" title="Permalink to this headline"></a></h2>
+<ul class="simple">
+<li><p>数据处理包括数据记录、计算、分析等方面。</p></li>
+<li><p>Excel是我们目前最熟悉的数据处理软件。上节课我们用Excel展示了IMDB的评分前500名的电影。</p></li>
+</ul>
+<a class="reference internal image-reference" href="../_images/imdb.png"><img alt="../_images/imdb.png" src="../_images/imdb.png" style="width: 498.0px; height: 312.0px;" /></a>
+<ul class="simple">
+<li><p>Excel的好处在于：</p>
+<ul>
+<li><p>数据查找</p></li>
+<li><p>数据排序</p></li>
+<li><p>将数据以行和列的方式存储，每一行表示一条新的电影记录，而每一列代表电影的某种属性，如风格，或者导演。</p></li>
+</ul>
+</li>
+<li><p>Excel的不足在于：</p>
+<ul>
+<li><p>不能存储大量数据。</p></li>
+<li><p>数据查询效率不高。</p></li>
+</ul>
+</li>
+<li><p>CSV文件（Comma-Separated Values File)是一种以纯文本形式存储表格数据的文件格式。</p></li>
+<li><p>我们不仅可以用Excel打开CSV文件，也可以用Python打开CSV文件。请下载 <a class="reference download internal" download="" href="../_downloads/34a348a06b46b2c4126771fd87115f36/imdb_top_500.csv"><code class="xref download docutils literal notranslate"><span class="pre">imdb_top_500.csv</span></code></a>。在PyCharm中输入以下指令：</p></li>
+</ul>
+<div class="highlight-text notranslate"><div class="highlight"><pre><span></span>import csv
+
+with open(&quot;imdb_top_500.csv&quot;, &quot;r&quot;) as file:
+    reader = csv.reader(file)
+    next(reader)
+    for row in reader:
+        print(&quot;Movie &quot; + row[1] + &quot; is directed by &quot; + row[5])
+</pre></div>
+</div>
+<p>运行以后你会看到如下结果：</p>
+<div class="highlight-text notranslate"><div class="highlight"><pre><span></span>Movie The Shawshank Redemption is directed by Frank Darabont
+Movie The Godfather is directed by Francis Ford Coppola
+Movie The Dark Knight is directed by Christopher Nolan
+Movie The Godfather: Part II is directed by Francis Ford Coppola
+Movie 12 Angry Men is directed by Sidney Lumet
+Movie The Lord of the Rings:The Return of the King is directed by Peter Jackson
+Movie Pulp Fiction is directed by Quentin Tarantino
+Movie Schindler&#39;s List is directed by Steven Spielberg
+Movie Inception is directed by Christopher Nolan
+Movie Fight Club is directed by David Fincher
+......
+</pre></div>
+</div>
+</section>
+<section id="database">
+<h2>数据库（Database)<a class="headerlink" href="#database" title="Permalink to this headline"></a></h2>
+<ul class="simple">
+<li><p>数据库是结构化信息或数据（一般以电子形式存储在计算机系统中）的有组织的集合。</p></li>
+<li><p>数据库一般由数据库管理系统（DBMS）来控制。</p></li>
+<li><p>绝大部分的数据库都使用SQL语言（Structured Query Language)。</p></li>
+</ul>
+</section>
+<section id="id2">
+<h2>SQL<a class="headerlink" href="#id2" title="Permalink to this headline"></a></h2>
+<ul class="simple">
+<li><p>数据库的主要操作简称C.R.U.D</p></li>
+</ul>
+<p><span class="guilabel">CREATE</span>: 创建数据</p>
+<p><span class="guilabel">RETRIEVE</span>: 查询数据</p>
+<p><span class="guilabel">UPDATE</span>: 更新数据</p>
+<p><span class="guilabel">DELETE</span>: 删除数据</p>
+<ul class="simple">
+<li><p>SQL语法</p></li>
+</ul>
+<p><span class="guilabel">CREATE</span></p>
+<p>如果我们想要创建一个数据表，我们可以用</p>
+<div class="highlight-text notranslate"><div class="highlight"><pre><span></span>CREATE TABLE table_name(
+  column1   type,
+  column2   type,
+  ……
+  columnN   type);
+</pre></div>
+</div>
+<p><span class="guilabel">INSERT</span></p>
+<p>如果我们想要添加一行新的数据，我们可以用</p>
+<div class="highlight-text notranslate"><div class="highlight"><pre><span></span>INSERT INTO table_name VALUES(value1, value2, … , valueN);
+</pre></div>
+</div>
+<p><span class="guilabel">SELECT</span></p>
+<p>如果我们想要读取数据，我们可以用</p>
+<div class="highlight-text notranslate"><div class="highlight"><pre><span></span>SELECT column1, column2, columnN FROM table_name; /*获取指定列的数据*/
+
+SELECT * FROM table_name; /*获取表格所有数据*/
+</pre></div>
+</div>
+<p><span class="guilabel">WHERE</span></p>
+<p>如果我们想要指定数据的筛选条件，我们可以用WHERE Clause</p>
+<div class="highlight-text notranslate"><div class="highlight"><pre><span></span>SELECT column1, column2, columnN FROM table_name WHERE condition; /*获取满足condition的指定列的数据*/
+</pre></div>
+</div>
+</section>
+<section id="id3">
+<h2>作业与资料<a class="headerlink" href="#id3" title="Permalink to this headline"></a></h2>
+<ul class="simple">
+<li><p>课堂PPT：  <a class="reference download internal" download="" href="../_downloads/5b94a6590bcf362a8374f4a9c4e05ea2/SQL.pptx"><code class="xref download docutils literal notranslate"><span class="pre">数据库</span></code></a></p></li>
+<li><p>作业：  <a class="reference download internal" download="" href="../_downloads/057c95ac3701bd6c3a951357851884ce/SQL作业.pdf"><code class="xref download docutils literal notranslate"><span class="pre">SQL作业</span></code></a></p></li>
+</ul>
+<div class="admonition note">
+<p class="admonition-title">Note</p>
+<p>友情提示：</p>
+<ul class="simple">
+<li><p>Python在读取CSV文件的时候，是将数据作为文本，也就是字符串的形式来存储的。所以如果你需要比较CSV中数字的大小，你需要用int()函数将字符串转化为对应的整数。</p></li>
+<li><p>Python和SQL是两种不同的语言。在本次作业的任务一中，你只需要编写Python语句。当然两种语言是可以结合起来一起使用的，但这是我们之后的任务。</p></li>
+<li><p>作业任务一添加的代码不会超过3行。</p></li>
+</ul>
+</div>
+</section>
+</section>
+
+
+           </div>
+          </div>
+          <footer><div class="rst-footer-buttons" role="navigation" aria-label="Footer">
+        <a href="../ai/digit_recognition.html" class="btn btn-neutral float-left" title="图像识别实验（下）" accesskey="p" rel="prev"><span class="fa fa-arrow-circle-left" aria-hidden="true"></span> Previous</a>
+        <a href="../web/html.html" class="btn btn-neutral float-right" title="HTML" accesskey="n" rel="next">Next <span class="fa fa-arrow-circle-right" aria-hidden="true"></span></a>
+    </div>
+
+  <hr/>
+
+  <div role="contentinfo">
+    <p>&#169; Copyright 2022, Derek.</p>
+  </div>
+
+  Built with <a href="https://www.sphinx-doc.org/">Sphinx</a> using a
+    <a href="https://github.com/readthedocs/sphinx_rtd_theme">theme</a>
+    provided by <a href="https://readthedocs.org">Read the Docs</a>.
+   
+
+</footer>
+        </div>
+      </div>
+    </section>
+  </div>
+  <script>
+      jQuery(function () {
+          SphinxRtdTheme.Navigation.enable(true);
+      });
+  </script> 
+
+</body>
+</html>

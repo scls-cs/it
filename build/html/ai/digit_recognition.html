@@ -1,0 +1,259 @@
+<!DOCTYPE html>
+<html class="writer-html5" lang="en" >
+<head>
+  <meta charset="utf-8" /><meta name="generator" content="Docutils 0.17.1: http://docutils.sourceforge.net/" />
+
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>图像识别实验（下） &mdash; 宋庆龄学校信息技术  documentation</title>
+      <link rel="stylesheet" href="../_static/pygments.css" type="text/css" />
+      <link rel="stylesheet" href="../_static/css/theme.css" type="text/css" />
+  <!--[if lt IE 9]>
+    <script src="../_static/js/html5shiv.min.js"></script>
+  <![endif]-->
+  
+        <script data-url_root="../" id="documentation_options" src="../_static/documentation_options.js"></script>
+        <script src="../_static/jquery.js"></script>
+        <script src="../_static/underscore.js"></script>
+        <script src="../_static/doctools.js"></script>
+    <script src="../_static/js/theme.js"></script>
+    <link rel="index" title="Index" href="../genindex.html" />
+    <link rel="search" title="Search" href="../search.html" />
+    <link rel="next" title="SQL" href="../database/intro.html" />
+    <link rel="prev" title="图像识别实验（上）" href="image_recognition.html" /> 
+</head>
+
+<body class="wy-body-for-nav"> 
+  <div class="wy-grid-for-nav">
+    <nav data-toggle="wy-nav-shift" class="wy-nav-side">
+      <div class="wy-side-scroll">
+        <div class="wy-side-nav-search" >
+            <a href="../index.html" class="icon icon-home"> 宋庆龄学校信息技术
+          </a>
+<div role="search">
+  <form id="rtd-search-form" class="wy-form" action="../search.html" method="get">
+    <input type="text" name="q" placeholder="Search docs" />
+    <input type="hidden" name="check_keywords" value="yes" />
+    <input type="hidden" name="area" value="default" />
+  </form>
+</div>
+        </div><div class="wy-menu wy-menu-vertical" data-spy="affix" role="navigation" aria-label="Navigation menu">
+              <p class="caption" role="heading"><span class="caption-text">信息数字化</span></p>
+<ul>
+<li class="toctree-l1"><a class="reference internal" href="../information/digital.html">信息与数字化</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../information/number_convert.html">数制转换</a></li>
+</ul>
+<p class="caption" role="heading"><span class="caption-text">计算机网络</span></p>
+<ul>
+<li class="toctree-l1"><a class="reference internal" href="../network/overview.html">计算机网络概论</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../network/HTTP.html">网络协议(上)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../network/TCPIP.html">网络协议(下)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../network/homework.html">网络协议作业</a></li>
+</ul>
+<p class="caption" role="heading"><span class="caption-text">计算机系统</span></p>
+<ul>
+<li class="toctree-l1"><a class="reference internal" href="../hardware/organization.html">计算机组成</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../hardware/configuration.html">计算机配置</a></li>
+</ul>
+<p class="caption" role="heading"><span class="caption-text">期中复习</span></p>
+<ul>
+<li class="toctree-l1"><a class="reference internal" href="../midterm_review/mid.html">期中复习</a></li>
+</ul>
+<p class="caption" role="heading"><span class="caption-text">人工智能</span></p>
+<ul class="current">
+<li class="toctree-l1"><a class="reference internal" href="image.html">图像编码</a></li>
+<li class="toctree-l1"><a class="reference internal" href="pycharm.html">PyCharm入门</a></li>
+<li class="toctree-l1"><a class="reference internal" href="filter.html">图像滤镜实验</a></li>
+<li class="toctree-l1"><a class="reference internal" href="image_recognition.html">图像识别实验（上）</a></li>
+<li class="toctree-l1 current"><a class="current reference internal" href="#">图像识别实验（下）</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="#id2">1.图像编码</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#id3">2. 处理训练图像</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#id4">3. 图像识别</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#id5">4. 设计算法</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#id6">5. 测试算法</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#id7">6. 作业</a></li>
+</ul>
+</li>
+</ul>
+<p class="caption" role="heading"><span class="caption-text">数据库</span></p>
+<ul>
+<li class="toctree-l1"><a class="reference internal" href="../database/intro.html">SQL</a></li>
+</ul>
+<p class="caption" role="heading"><span class="caption-text">网页设计</span></p>
+<ul>
+<li class="toctree-l1"><a class="reference internal" href="../web/html.html">HTML</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../web/work.html">优秀作业展示（点击图片可以浏览网页）</a></li>
+</ul>
+
+        </div>
+      </div>
+    </nav>
+
+    <section data-toggle="wy-nav-shift" class="wy-nav-content-wrap"><nav class="wy-nav-top" aria-label="Mobile navigation menu" >
+          <i data-toggle="wy-nav-top" class="fa fa-bars"></i>
+          <a href="../index.html">宋庆龄学校信息技术</a>
+      </nav>
+
+      <div class="wy-nav-content">
+        <div class="rst-content">
+          <div role="navigation" aria-label="Page navigation">
+  <ul class="wy-breadcrumbs">
+      <li><a href="../index.html" class="icon icon-home"></a> &raquo;</li>
+      <li>图像识别实验（下）</li>
+      <li class="wy-breadcrumbs-aside">
+            <a href="../_sources/ai/digit_recognition.rst.txt" rel="nofollow"> View page source</a>
+      </li>
+  </ul>
+  <hr/>
+</div>
+          <div role="main" class="document" itemscope="itemscope" itemtype="http://schema.org/Article">
+           <div itemprop="articleBody">
+             
+  <section id="id1">
+<h1>图像识别实验（下）<a class="headerlink" href="#id1" title="Permalink to this headline"></a></h1>
+<p>这次实验课的任务是识别手写的数字。</p>
+<section id="id2">
+<h2>1.图像编码<a class="headerlink" href="#id2" title="Permalink to this headline"></a></h2>
+<p>通过前面几节课的学习，我们知道一幅图像是由像素点矩阵组成的。每一个像素点由红、绿、蓝以及Alpha通道组成。Alpha通道表示像素的透明度，255表示完全不透明，0表示完全透明。</p>
+<p>例如，PNG图像是一种典型的4通道图像。</p>
+<a class="reference internal image-reference" href="../_images/channel.png"><img alt="../_images/channel.png" src="../_images/channel.png" style="width: 361.8px; height: 167.4px;" /></a>
+<p>这是一个表示图像的三位数组，按照行（row），列（column），像素通道来排列。绿色部分表示第一行的8个像素值，红色部分表示第一行第一列的像素值。</p>
+<p>下图是数字1的图像，以及它图像矩阵的前两行。可以看出来数字1是从第一行的第几个像素点开始写的么？如果你能回答出来，那么说明你已经理解了图像编码的方式。</p>
+<a class="reference internal image-reference" href="../_images/one.png"><img alt="../_images/one.png" src="../_images/one.png" style="width: 315.90000000000003px; height: 206.1px;" /></a>
+<p>如果你现在在8x8的图像上，手写一个数码1，怎么让计算机可以识别出这个数码呢？简单来说，我们需要训练计算机，让它可以找到数码1这幅图像的模式（Pattern)，再将这种模式应用到新的图像上。找到图像模式的方式有很多，甚至是学术界和工业界的研究热点，我们这堂课上，我们通过对像素点的值进行匹配。</p>
+</section>
+<section id="id3">
+<h2>2. 处理训练图像<a class="headerlink" href="#id3" title="Permalink to this headline"></a></h2>
+<p>我们为0-9十个数字分别准备了10张手写图像，这些图像构成了程序的学习资料。我们第一步是将每一副图像都转化为像素矩阵（数据），并且给矩阵贴上一个标签（tag）。标签表示该矩阵对应的数字。</p>
+<div class="highlight-text notranslate"><div class="highlight"><pre><span></span>def createExamples():
+    numberArrayExample = open(&#39;numArEx.txt&#39;, &#39;a&#39;) #append
+    numbersWeHave = range(0,10)
+    versionsWeHave = range(1,10)
+
+    for eachNum in numbersWeHave:
+        for eachVer in versionsWeHave:
+            #print(str(eachNum) + &#39;.&#39; + str(eachVer))
+            imgFilePath = &#39;images/numbers/&#39; + str(eachNum) + &#39;.&#39; + str(eachVer) + &#39;.png&#39;
+            print(imgFilePath)
+
+            ei = Image.open(imgFilePath)  #通过路径加载对应图像
+            eiar = np.array(ei)  #将图像转化为像素矩阵
+            eiar1 = str(eiar.tolist())  #将像素矩阵转换为字符串，这便于我们后续对图像进行比较
+
+            lineToWrite = str(eachNum)+&#39;::&#39;+eiar1+&#39;\n&#39;  #将图像矩阵转变为一行，格式是标签::图像像素数据
+
+            numberArrayExample.write(lineToWrite)  #将这一行写到numArEx.txt这个文件中
+</pre></div>
+</div>
+<p>你可以打开numArEx.txt这个文件，应该共有90行，每一行代表一张图片的像素信息。</p>
+<a class="reference internal image-reference" href="../_images/numArEx.png"><img alt="../_images/numArEx.png" src="../_images/numArEx.png" style="width: 510.8px; height: 324.8px;" /></a>
+<p>绿色部分表示第一张图片的信息，红色部分是训练数据的标签，也就是对应的数码。</p>
+<div class="admonition note">
+<p class="admonition-title">Note</p>
+<p>由于createExamples()函数是用来生成训练图片的像素数据的，所以**只需要执行一次**。如果执行多次，则会重复扩充numArEx.txt，没有意义。所以该函数执行一次后，可以将调用函数的代码注释掉（前面加上#）。</p>
+</div>
+</section>
+<section id="id4">
+<h2>3. 图像识别<a class="headerlink" href="#id4" title="Permalink to this headline"></a></h2>
+<p>图像识别的算法有很多种，业界常用的算法包括SVM(support vector machine)、卷积神经网络（CNN)等。本次实验我们采用一种相对简单的算法来识别数字。关于SVM和CNN的介绍，可以参考本节最下方的链接，感兴趣的同学可以自己尝试。</p>
+<p>本次实验课采用的基本原理是：将手写数字（预测图片）与所有的训练图片（放在images文件夹）的每一个像素点进行比较。</p>
+<a class="reference internal image-reference" href="../_images/ex_5.png"><img alt="../_images/ex_5.png" src="../_images/ex_5.png" style="width: 319.0px; height: 271.0px;" /></a>
+<p>例如，上图左边是预测图片（嗯就是我写的），右边是训练图片中的5.1.png。不难发现，左边和右边图片的像素重合度是很高的。更具体一点说，在64个像素点中，同一个位置上像素点的值相同的概率会比较大。也就是说64个像素点中，像素点值相同的个数会比较多。</p>
+<p>再举个反例，我们直观上能感受到，预测图片（左图）和训练图片（右图）的像素重合度会比较低。</p>
+<p>这样我们就可以设计一个图像识别算法：将预测图片与每一张训练图片做像素级的比较。像素重合度越高，预测图片与训练图片越相似。这样通过训练图片的标签就可以预测预测图片对应的数码。</p>
+<a class="reference internal image-reference" href="../_images/example_52.png"><img alt="../_images/example_52.png" src="../_images/example_52.png" style="width: 318.5px; height: 271.0px;" /></a>
+<p>我们来实际操作一下。</p>
+</section>
+<section id="id5">
+<h2>4. 设计算法<a class="headerlink" href="#id5" title="Permalink to this headline"></a></h2>
+<p>设计函数whatNumIsThis()来预测图片。大家可以看代码注释来理解函数原理：</p>
+<div class="highlight-text notranslate"><div class="highlight"><pre><span></span>def whatNumIsThis(filePath):
+    matchedAr = []
+    loadExamps = open(&#39;numArEx.txt&#39;, &#39;r&#39;).read()  #加载&#39;numArEx.txt&#39;文件
+    loadExamps = loadExamps.split(&#39;\n&#39;)  #将文件每行分开，并作为元素存入loadExamps数组中
+
+    i = Image.open(filePath)  #加载预测图片
+    iar = np.array(i)  #将图片转换为数组
+    print(iar)
+    iarl = iar.tolist()
+
+    inQuestion = str(iarl)  #以上两行将像素数组转化为一行字符串，例如[[1,2], [3,4]] -&gt; &quot;1,2,3,4&quot;
+
+    for eachExample in loadExamps:  #遍历训练图片
+        if len(eachExample) &gt; 3:
+            splitEx = eachExample.split(&quot;::&quot;)  #将每一个图片用::分割开，并放入splitEx数组中。
+            currentNum = splitEx[0]  #训练图片标签
+            currentAr = splitEx[1]  #训练图片像素数据
+
+            eachPixEx = currentAr.split(&#39;],&#39;)  #将训练图片的像素数据再分割成一个个单独的像素，存入eachPixEx数组中
+            eachPixInQ = inQuestion.split(&#39;],&#39;)  #将预测图片的像素数据再分割成一个个单独的像素，存入eachPixInQ数组中
+
+            x = 0
+
+            while x &lt; len(eachPixEx):  #比较训练图片与预测图片的每一个像素点
+                if eachPixEx[x] == eachPixInQ[x]:
+                    matchedAr.append(int(currentNum))  #如果像素点的值相等，在matchedAr数组中添加训练图片的标签值（想想为什么？）
+                x+=1
+
+
+    x = Counter(matchedAr)  #统计标签数量
+    print(x)
+</pre></div>
+</div>
+<p>为了可以用Counter()函数来统计结果，我们需要导入Counter模块：</p>
+<div class="highlight-text notranslate"><div class="highlight"><pre><span></span>from collections import Counter
+</pre></div>
+</div>
+</section>
+<section id="id6">
+<h2>5. 测试算法<a class="headerlink" href="#id6" title="Permalink to this headline"></a></h2>
+<p>在blank.png中手写一个数码（需要占满图片并且在中间）。将图片保存在项目文件夹下。</p>
+<a class="reference internal image-reference" href="../_images/test_2.png"><img alt="../_images/test_2.png" src="../_images/test_2.png" style="width: 719.0px; height: 316.0px;" /></a>
+<p>再调用whatNumIsThis()函数即可。</p>
+<p>例如当我调用该函数预测下图时，会显示如下结果：</p>
+<div class="highlight-text notranslate"><div class="highlight"><pre><span></span>whatNumIsThis(&#39;test_6.png&#39;)
+</pre></div>
+</div>
+<a class="reference internal image-reference" href="../_images/test_6.png"><img alt="../_images/test_6.png" src="../_images/test_6.png" style="width: 101.60000000000001px; height: 102.4px;" /></a>
+<a class="reference internal image-reference" href="../_images/result_6.png"><img alt="../_images/result_6.png" src="../_images/result_6.png" style="width: 694.2px; height: 47.32px;" /></a>
+<p>第一个数字对应的是训练图片的标签，第二个数字表示预测图片与该标签的10张训练图片比较，像素点值相同的数量。</p>
+<p>结果显示，预测图片与90张训练图片进行比较，其中与标签为6的训练图片有435个像素点的值是相同的，说明预测图片与标签为6的图片相似度最大，也就说明预测图片很有可能是手写数字6。</p>
+<p>（想一想，第二个数字理论的最大值是多少？）</p>
+</section>
+<section id="id7">
+<h2>6. 作业<a class="headerlink" href="#id7" title="Permalink to this headline"></a></h2>
+<p>数码识别实验要求：<a class="reference download internal" download="" href="../_downloads/405fa2262f2eb9e07da3c4c0d720a85f/Image Recognition II.pdf"><code class="xref download docutils literal notranslate"><span class="pre">Digit</span> <span class="pre">Recognition</span></code></a></p>
+</section>
+</section>
+
+
+           </div>
+          </div>
+          <footer><div class="rst-footer-buttons" role="navigation" aria-label="Footer">
+        <a href="image_recognition.html" class="btn btn-neutral float-left" title="图像识别实验（上）" accesskey="p" rel="prev"><span class="fa fa-arrow-circle-left" aria-hidden="true"></span> Previous</a>
+        <a href="../database/intro.html" class="btn btn-neutral float-right" title="SQL" accesskey="n" rel="next">Next <span class="fa fa-arrow-circle-right" aria-hidden="true"></span></a>
+    </div>
+
+  <hr/>
+
+  <div role="contentinfo">
+    <p>&#169; Copyright 2022, Derek.</p>
+  </div>
+
+  Built with <a href="https://www.sphinx-doc.org/">Sphinx</a> using a
+    <a href="https://github.com/readthedocs/sphinx_rtd_theme">theme</a>
+    provided by <a href="https://readthedocs.org">Read the Docs</a>.
+   
+
+</footer>
+        </div>
+      </div>
+    </section>
+  </div>
+  <script>
+      jQuery(function () {
+          SphinxRtdTheme.Navigation.enable(true);
+      });
+  </script> 
+
+</body>
+</html>

@@ -1,0 +1,203 @@
+<!DOCTYPE html>
+<html class="writer-html5" lang="en" >
+<head>
+  <meta charset="utf-8" /><meta name="generator" content="Docutils 0.17.1: http://docutils.sourceforge.net/" />
+
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>声音编码 &mdash; 宋庆龄学校信息技术  documentation</title>
+      <link rel="stylesheet" href="../_static/pygments.css" type="text/css" />
+      <link rel="stylesheet" href="../_static/css/theme.css" type="text/css" />
+  <!--[if lt IE 9]>
+    <script src="../_static/js/html5shiv.min.js"></script>
+  <![endif]-->
+  
+        <script data-url_root="../" id="documentation_options" src="../_static/documentation_options.js"></script>
+        <script src="../_static/jquery.js"></script>
+        <script src="../_static/underscore.js"></script>
+        <script src="../_static/doctools.js"></script>
+    <script src="../_static/js/theme.js"></script>
+    <link rel="index" title="Index" href="../genindex.html" />
+    <link rel="search" title="Search" href="../search.html" /> 
+</head>
+
+<body class="wy-body-for-nav"> 
+  <div class="wy-grid-for-nav">
+    <nav data-toggle="wy-nav-shift" class="wy-nav-side">
+      <div class="wy-side-scroll">
+        <div class="wy-side-nav-search" >
+            <a href="../index.html" class="icon icon-home"> 宋庆龄学校信息技术
+          </a>
+<div role="search">
+  <form id="rtd-search-form" class="wy-form" action="../search.html" method="get">
+    <input type="text" name="q" placeholder="Search docs" />
+    <input type="hidden" name="check_keywords" value="yes" />
+    <input type="hidden" name="area" value="default" />
+  </form>
+</div>
+        </div><div class="wy-menu wy-menu-vertical" data-spy="affix" role="navigation" aria-label="Navigation menu">
+              <p class="caption" role="heading"><span class="caption-text">信息数字化</span></p>
+<ul>
+<li class="toctree-l1"><a class="reference internal" href="../information/digital.html">信息与数字化</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../information/number_convert.html">数制转换</a></li>
+</ul>
+<p class="caption" role="heading"><span class="caption-text">计算机网络</span></p>
+<ul>
+<li class="toctree-l1"><a class="reference internal" href="../network/overview.html">计算机网络概论</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../network/HTTP.html">网络协议(上)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../network/TCPIP.html">网络协议(下)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../network/homework.html">网络协议作业</a></li>
+</ul>
+<p class="caption" role="heading"><span class="caption-text">计算机系统</span></p>
+<ul>
+<li class="toctree-l1"><a class="reference internal" href="../hardware/organization.html">计算机组成</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../hardware/configuration.html">计算机配置</a></li>
+</ul>
+<p class="caption" role="heading"><span class="caption-text">期中复习</span></p>
+<ul>
+<li class="toctree-l1"><a class="reference internal" href="../midterm_review/mid.html">期中复习</a></li>
+</ul>
+<p class="caption" role="heading"><span class="caption-text">人工智能</span></p>
+<ul>
+<li class="toctree-l1"><a class="reference internal" href="../ai/image.html">图像编码</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../ai/pycharm.html">PyCharm入门</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../ai/filter.html">图像滤镜实验</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../ai/image_recognition.html">图像识别实验（上）</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../ai/digit_recognition.html">图像识别实验（下）</a></li>
+</ul>
+<p class="caption" role="heading"><span class="caption-text">数据库</span></p>
+<ul>
+<li class="toctree-l1"><a class="reference internal" href="../database/intro.html">SQL</a></li>
+</ul>
+<p class="caption" role="heading"><span class="caption-text">网页设计</span></p>
+<ul>
+<li class="toctree-l1"><a class="reference internal" href="../web/html.html">HTML</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../web/work.html">优秀作业展示（点击图片可以浏览网页）</a></li>
+</ul>
+
+        </div>
+      </div>
+    </nav>
+
+    <section data-toggle="wy-nav-shift" class="wy-nav-content-wrap"><nav class="wy-nav-top" aria-label="Mobile navigation menu" >
+          <i data-toggle="wy-nav-top" class="fa fa-bars"></i>
+          <a href="../index.html">宋庆龄学校信息技术</a>
+      </nav>
+
+      <div class="wy-nav-content">
+        <div class="rst-content">
+          <div role="navigation" aria-label="Page navigation">
+  <ul class="wy-breadcrumbs">
+      <li><a href="../index.html" class="icon icon-home"></a> &raquo;</li>
+      <li>声音编码</li>
+      <li class="wy-breadcrumbs-aside">
+            <a href="../_sources/code_example/sound.rst.txt" rel="nofollow"> View page source</a>
+      </li>
+  </ul>
+  <hr/>
+</div>
+          <div role="main" class="document" itemscope="itemscope" itemtype="http://schema.org/Article">
+           <div itemprop="articleBody">
+             
+  <section id="id1">
+<h1>声音编码<a class="headerlink" href="#id1" title="Permalink to this headline"></a></h1>
+<section id="id2">
+<h2>两种信号<a class="headerlink" href="#id2" title="Permalink to this headline"></a></h2>
+<section id="id3">
+<h3>模拟信号<a class="headerlink" href="#id3" title="Permalink to this headline"></a></h3>
+<p>模拟信号是指连续变化的信号，比如温度，声音，气压等。</p>
+</section>
+<section id="id4">
+<h3>数字信号<a class="headerlink" href="#id4" title="Permalink to this headline"></a></h3>
+<p>数字信号是指取值离散，不连续的信号。</p>
+</section>
+</section>
+<section id="id5">
+<h2>声音编码<a class="headerlink" href="#id5" title="Permalink to this headline"></a></h2>
+<p>声音编码就是将模拟的声音信号转化为数字信号的过程，其中主要环节是采样和量化。</p>
+<section id="id6">
+<h3>采样<a class="headerlink" href="#id6" title="Permalink to this headline"></a></h3>
+<p>采样就是每隔一定时间采集模拟声音信号的样本。每秒钟采集的样本数称为采样频率。</p>
+</section>
+<section id="id7">
+<h3>量化<a class="headerlink" href="#id7" title="Permalink to this headline"></a></h3>
+<p>量化是将采集到的模拟量值序列转换为二进制数序列的过程，这个二进制数序列就是对声音的编码。</p>
+<div class="admonition note">
+<p class="admonition-title">Note</p>
+<p>声音的采样频率越高，量化位数越大，声音的还原度越高。</p>
+</div>
+</section>
+<section id="id8">
+<h3>声音存储空间<a class="headerlink" href="#id8" title="Permalink to this headline"></a></h3>
+<div class="admonition note">
+<p class="admonition-title">Note</p>
+<p>采样频率f，量化位数x，双声道，录制t秒的声音需要多大空间进行存储？</p>
+<p>解析：存储的声音是由采样点组成，采样点个数为f*t。每个采样点由x位编码，所以存储声音需要f*t*x*2(位)的存储空间。</p>
+</div>
+<div class="highlight-text notranslate"><div class="highlight"><pre><span></span>问题1: 对电话音频信号进行数字化，若采样频率为9.4kHz，每个样本的值用16位二进制数量化，且为单声道录制，
+则每分钟的电话录音需要占用__________字节。
+
+A. 9400*16
+B. 9.4*1024*16*60/8
+C. 9400*16*60/8
+D. 以上答案均不对
+
+答案：C
+</pre></div>
+</div>
+<div class="highlight-text notranslate"><div class="highlight"><pre><span></span>问题2: 对录音机输出的音频信号进行数字化，若采样频率为47kHz，每个样本的值用16位二进制数量化，且为立体声双声道录制，
+则每秒录音需要占用__________字节。
+
+A. 47000*16/8
+B. 47000*16*2/8
+C. 47*1024*16*2/8
+D. 以上答案均不对
+
+答案：B
+</pre></div>
+</div>
+<div class="highlight-text notranslate"><div class="highlight"><pre><span></span>问题3: 对录音机输出的音频信号进行数字化，量化范围是0-1023，采样频率为47kHz，且为立体声双声道录制，
+则每秒录音需要占用__________字节。
+
+A. 47000*1024*2/8
+B. 47000*10*2/8
+C. 47*1024*10*2/8
+D. 以上答案均不对
+
+答案：B
+
+解析：0-1023的量化范围说明量化位数为10。
+</pre></div>
+</div>
+</section>
+</section>
+</section>
+
+
+           </div>
+          </div>
+          <footer>
+
+  <hr/>
+
+  <div role="contentinfo">
+    <p>&#169; Copyright 2022, Derek.</p>
+  </div>
+
+  Built with <a href="https://www.sphinx-doc.org/">Sphinx</a> using a
+    <a href="https://github.com/readthedocs/sphinx_rtd_theme">theme</a>
+    provided by <a href="https://readthedocs.org">Read the Docs</a>.
+   
+
+</footer>
+        </div>
+      </div>
+    </section>
+  </div>
+  <script>
+      jQuery(function () {
+          SphinxRtdTheme.Navigation.enable(true);
+      });
+  </script> 
+
+</body>
+</html>

@@ -1,0 +1,325 @@
+<!DOCTYPE html>
+<html class="writer-html5" lang="en" >
+<head>
+  <meta charset="utf-8" /><meta name="generator" content="Docutils 0.17.1: http://docutils.sourceforge.net/" />
+
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>图像识别实验（上） &mdash; 宋庆龄学校信息技术  documentation</title>
+      <link rel="stylesheet" href="../_static/pygments.css" type="text/css" />
+      <link rel="stylesheet" href="../_static/css/theme.css" type="text/css" />
+  <!--[if lt IE 9]>
+    <script src="../_static/js/html5shiv.min.js"></script>
+  <![endif]-->
+  
+        <script data-url_root="../" id="documentation_options" src="../_static/documentation_options.js"></script>
+        <script src="../_static/jquery.js"></script>
+        <script src="../_static/underscore.js"></script>
+        <script src="../_static/doctools.js"></script>
+    <script src="../_static/js/theme.js"></script>
+    <link rel="index" title="Index" href="../genindex.html" />
+    <link rel="search" title="Search" href="../search.html" />
+    <link rel="next" title="图像识别实验（下）" href="digit_recognition.html" />
+    <link rel="prev" title="图像滤镜实验" href="filter.html" /> 
+</head>
+
+<body class="wy-body-for-nav"> 
+  <div class="wy-grid-for-nav">
+    <nav data-toggle="wy-nav-shift" class="wy-nav-side">
+      <div class="wy-side-scroll">
+        <div class="wy-side-nav-search" >
+            <a href="../index.html" class="icon icon-home"> 宋庆龄学校信息技术
+          </a>
+<div role="search">
+  <form id="rtd-search-form" class="wy-form" action="../search.html" method="get">
+    <input type="text" name="q" placeholder="Search docs" />
+    <input type="hidden" name="check_keywords" value="yes" />
+    <input type="hidden" name="area" value="default" />
+  </form>
+</div>
+        </div><div class="wy-menu wy-menu-vertical" data-spy="affix" role="navigation" aria-label="Navigation menu">
+              <p class="caption" role="heading"><span class="caption-text">信息数字化</span></p>
+<ul>
+<li class="toctree-l1"><a class="reference internal" href="../information/digital.html">信息与数字化</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../information/number_convert.html">数制转换</a></li>
+</ul>
+<p class="caption" role="heading"><span class="caption-text">计算机网络</span></p>
+<ul>
+<li class="toctree-l1"><a class="reference internal" href="../network/overview.html">计算机网络概论</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../network/HTTP.html">网络协议(上)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../network/TCPIP.html">网络协议(下)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../network/homework.html">网络协议作业</a></li>
+</ul>
+<p class="caption" role="heading"><span class="caption-text">计算机系统</span></p>
+<ul>
+<li class="toctree-l1"><a class="reference internal" href="../hardware/organization.html">计算机组成</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../hardware/configuration.html">计算机配置</a></li>
+</ul>
+<p class="caption" role="heading"><span class="caption-text">期中复习</span></p>
+<ul>
+<li class="toctree-l1"><a class="reference internal" href="../midterm_review/mid.html">期中复习</a></li>
+</ul>
+<p class="caption" role="heading"><span class="caption-text">人工智能</span></p>
+<ul class="current">
+<li class="toctree-l1"><a class="reference internal" href="image.html">图像编码</a></li>
+<li class="toctree-l1"><a class="reference internal" href="pycharm.html">PyCharm入门</a></li>
+<li class="toctree-l1"><a class="reference internal" href="filter.html">图像滤镜实验</a></li>
+<li class="toctree-l1 current"><a class="current reference internal" href="#">图像识别实验（上）</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="#id2">1.人工智能介绍</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#id3">2. 下载训练所用图片</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#pilmatplotlib">3. 安装PIL和MatplotLib</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#id4">4. 准备编程</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#id5">5. 感受图像矩阵</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#id6">6. 将所有图像变为二值图像</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#id7">7. 将文件名输出</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#id8">8. 作业</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#q-a">9. 常见问题</a></li>
+</ul>
+</li>
+<li class="toctree-l1"><a class="reference internal" href="digit_recognition.html">图像识别实验（下）</a></li>
+</ul>
+<p class="caption" role="heading"><span class="caption-text">数据库</span></p>
+<ul>
+<li class="toctree-l1"><a class="reference internal" href="../database/intro.html">SQL</a></li>
+</ul>
+<p class="caption" role="heading"><span class="caption-text">网页设计</span></p>
+<ul>
+<li class="toctree-l1"><a class="reference internal" href="../web/html.html">HTML</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../web/work.html">优秀作业展示（点击图片可以浏览网页）</a></li>
+</ul>
+
+        </div>
+      </div>
+    </nav>
+
+    <section data-toggle="wy-nav-shift" class="wy-nav-content-wrap"><nav class="wy-nav-top" aria-label="Mobile navigation menu" >
+          <i data-toggle="wy-nav-top" class="fa fa-bars"></i>
+          <a href="../index.html">宋庆龄学校信息技术</a>
+      </nav>
+
+      <div class="wy-nav-content">
+        <div class="rst-content">
+          <div role="navigation" aria-label="Page navigation">
+  <ul class="wy-breadcrumbs">
+      <li><a href="../index.html" class="icon icon-home"></a> &raquo;</li>
+      <li>图像识别实验（上）</li>
+      <li class="wy-breadcrumbs-aside">
+            <a href="../_sources/ai/image_recognition.rst.txt" rel="nofollow"> View page source</a>
+      </li>
+  </ul>
+  <hr/>
+</div>
+          <div role="main" class="document" itemscope="itemscope" itemtype="http://schema.org/Article">
+           <div itemprop="articleBody">
+             
+  <section id="id1">
+<h1>图像识别实验（上）<a class="headerlink" href="#id1" title="Permalink to this headline"></a></h1>
+<p>这次实验课的任务是识别手写的数字。</p>
+<section id="id2">
+<h2>1.人工智能介绍<a class="headerlink" href="#id2" title="Permalink to this headline"></a></h2>
+<p>人工智能的第一步是训练。我们可以把它类比成在学校学习。人工智能和我们同学一样，为了完成一项工作，需要接受教育。</p>
+<p>具体来说，经过训练（training)的人工智能可以将其所学应用于数字世界的任务，例如识别图像、推荐商品等，这个过程被称为”推理”(inference)。</p>
+<p>没有训练，就不可能有推理。这很容易讲通。我们如果不默写古诗词（训练），就不可能培养对诗歌的鉴赏能力（推理）。我们如果不大量的做托福真题（训练），我们就不会在实际托福考试中取得好成绩（推理）。</p>
+<p>所以人工智能分为训练和推理两个步骤。我们这次需要识别手写的0-9十个数字。为了可以识别（推理），我们需要先进行训练，也就是让人工智能先看大量手写数字的图片。</p>
+</section>
+<section id="id3">
+<h2>2. 下载训练所用图片<a class="headerlink" href="#id3" title="Permalink to this headline"></a></h2>
+<p>我们所使用的数据集是由0到9的数字图像构成的。每个数字都由9张图片组成，总共包含了90张训练图像。</p>
+<p>每一张图片的命名规则是数字.序号.png，命名规则很重要。为了让人工智能做出正确的决定，我们需要提供带标签的数据。人工智能需要知道7.1.png对应数字7。所以这里每一张图片文件名的第一个数字，就是图片的标签。</p>
+<p>如果训练数据没有标签，就像我们平时做托福真题没有答案，背单词没有解释一样。</p>
+<p>（注：确实也有不带标签的人工智能训练方法，称为无监督式学习。但这不在我们这学期的范畴里。甚至你今后也不太会接触它。）</p>
+<p>下载图片: <a class="reference download internal" download="" href="../_downloads/9aa0267a7c8c0be7def966c012de88bd/images.zip"><code class="xref download docutils literal notranslate"><span class="pre">手写数字图片</span></code></a></p>
+</section>
+<section id="pilmatplotlib">
+<h2>3. 安装PIL和MatplotLib<a class="headerlink" href="#pilmatplotlib" title="Permalink to this headline"></a></h2>
+<p>与numpy和opencv-python一样，PIL和MatplotLib也是Python的模块，提供了很多有用的库函数。为了完成这项实验，我们需要安装这两个模块：</p>
+<p>打开terminal，运行如下命令：</p>
+<div class="highlight-text notranslate"><div class="highlight"><pre><span></span>python3 -m pip install -i https://pypi.tuna.tsinghua.edu.cn/simple/ --upgrade pip (windows用户将python3替换成python)
+
+python3 -m pip install -i https://pypi.tuna.tsinghua.edu.cn/simple/ --upgrade Pillow（同上）
+
+python3 -m pip install -i https://pypi.tuna.tsinghua.edu.cn/simple/ -U matplotlib（同上）
+</pre></div>
+</div>
+<p>（注：上周配置不顺利的同学，请在PyCharm的终端上运行这些指令。）</p>
+</section>
+<section id="id4">
+<h2>4. 准备编程<a class="headerlink" href="#id4" title="Permalink to this headline"></a></h2>
+<p>将训练图片解压缩后，放入project中。新建一个python文件，取名为imagerec.py。前三行输入：</p>
+<div class="highlight-text notranslate"><div class="highlight"><pre><span></span>from PIL import Image
+import numpy as np
+import matplotlib.pyplot as plt
+</pre></div>
+</div>
+<p>你也可以直接使用本节最后提供的template code。现在project的窗口类似下图(images文件夹和imagerec.py平行放置）：</p>
+<a class="reference internal image-reference" href="../_images/pil.png"><img alt="../_images/pil.png" src="../_images/pil.png" style="width: 532.8px; height: 108.0px;" /></a>
+<p>将script path设置为imagerec.py（这一步相信大家已经都会了）。试运行一下，如果没有出现任何的error（会有红色字体出现），就说明模块都安装成功了。</p>
+</section>
+<section id="id5">
+<h2>5. 感受图像矩阵<a class="headerlink" href="#id5" title="Permalink to this headline"></a></h2>
+<p>点击images文件夹，打开dot.png这幅图片。如果图片过小可以放大。这幅图片的分辨率是8x8，左上角的像素点是黑色，其余的像素点均为白色。</p>
+<p>接下来输入下面三行指令。</p>
+<div class="highlight-text notranslate"><div class="highlight"><pre><span></span>i = Image.open(&#39;images/dot.png&#39;) #加载dot.png图片
+
+iar = np.asarray(i)  #将图片转化为像素值数组
+
+print(iar)           #打印数组
+</pre></div>
+</div>
+<p>运行程序，你会看到如下结果：</p>
+<a class="reference internal image-reference" href="../_images/matrix.png"><img alt="../_images/matrix.png" src="../_images/matrix.png" style="width: 573.0px; height: 377.4px;" /></a>
+<p>打印结果总共有8部分，分别代表图片每行的像素信息。每行有8个像素，每个像素都有4个值。其中前三个值代表像素的三通道，也就是B、G、R值；</p>
+<p>第四个值是alpha值，是表征图片透明度的值，我们这次的实验不需要用到。</p>
+<p>例如下图中绿色方框的部分，就是第一行第一个像素的RGB值。是不是可以和图片对应起来？</p>
+<a class="reference internal image-reference" href="../_images/dot.jpeg"><img alt="../_images/dot.jpeg" src="../_images/dot.jpeg" style="width: 553.1999999999999px; height: 465.59999999999997px;" /></a>
+</section>
+<section id="id6">
+<h2>6. 将所有图像变为二值图像<a class="headerlink" href="#id6" title="Permalink to this headline"></a></h2>
+<p>识别物体最关键的信息是边缘特征，而不是颜色。例如下面两幅图像，右边图像是彩色图，左边图像只有黑白两色。两个图像都能够显示出数字0的边缘特征，而由于存储和处理左边图像的数据量要远远小于右图，从而可以大大缩短训练所用的时间。所以我们第一步，就是要将所有的彩色图像变为二值图像。</p>
+<p>（注：二值图像就是图像中只有2种颜色的图像，一般就是黑白图像，2个灰度值分别为0（表示黑色）和255（表示白色））</p>
+<a class="reference internal image-reference" href="../_images/binary.png"><img alt="../_images/binary.png" src="../_images/binary.png" style="width: 428.8px; height: 216.0px;" /></a>
+<p>我们首先构造一个threshold函数，来将彩色图像变为黑白图像。这个函数的原理非常简单，通过对图像编码的学习，大家已经具备了理解这段函数的能力。我们将图像数组作为函数参数，函数会返回一个只有0和1组成的数组，也就是我们想要的二值图像的数组。</p>
+<div class="highlight-text notranslate"><div class="highlight"><pre><span></span>def threshold(imageArray):
+      newArr = imageArray
+      numOfPixel = 0    #像素点个数
+      sum = 0
+      for eachRow in imageArray:
+          for eachPix in eachRow:
+              avgNum = (eachPix[0]+eachPix[1]+eachPix[2])/3   #将像素点的RGB求平均值
+              numOfPixel = numOfPixel+1
+              sum = sum+avgNum     #对平均值求和
+
+      avg = sum/numOfPixel        #图像的RGB均值，作为变黑或者变白的分界点
+
+      for eachRow in imageArray:
+          for eachPix in eachRow:
+              if (eachPix[0]+eachPix[1]+eachPix[2])/3 &gt; avg:
+                  eachPix[0] = 255    #如果像素点RGB平均值高于分界点，就变为白色
+                  eachPix[1] = 255
+                  eachPix[2] = 255
+              else:
+                  eachPix[0] = 0      #否则变为黑色
+                  eachPix[1] = 0
+                  eachPix[2] = 0
+
+      return newArr
+</pre></div>
+</div>
+<p>得到二值图像数组后，我们就可以显示新的图像了。</p>
+<div class="highlight-text notranslate"><div class="highlight"><pre><span></span>i1 = Image.open(&#39;images/numbers/y0.4.png&#39;)
+
+iar1 = np.array(i1)    #将图片转化为数组1
+
+iar2 = np.array(i1)    #将图片转化为数组2
+
+threshold(iar1)        #对iar1数组进行二值化处理
+
+ax1 = plt.subplot2grid((8,6), (0,0), rowspan=4, colspan=3)    #在画布上开辟一块区域
+
+ax2= plt.subplot2grid((8,6), (0,3), rowspan=4, colspan=3)     #在画布上开辟另一块对比区域
+
+
+ax1.imshow(iar1)    #显示图1（也就是处理后的图片）
+ax2.imshow(iar2)    #显示图2（也就是原图）
+
+
+plt.show()
+</pre></div>
+</div>
+</section>
+<section id="id7">
+<h2>7. 将文件名输出<a class="headerlink" href="#id7" title="Permalink to this headline"></a></h2>
+<div class="highlight-text notranslate"><div class="highlight"><pre><span></span>def createExamples():
+    numbersWeHave = range(0,10)    #create array from 0-9
+    versionsWeHave = range(1,10)   #create array from 1-9
+
+    for eachNum in numbersWeHave:
+        for eachVer in versionsWeHave:
+            imgFilePath = &#39;images/numbers/&#39; + str(eachNum) + &#39;.&#39; + str(eachVer) + &#39;.png&#39;
+            print(imgFilePath)
+</pre></div>
+</div>
+</section>
+<section id="id8">
+<h2>8. 作业<a class="headerlink" href="#id8" title="Permalink to this headline"></a></h2>
+<p>作业要求：<a class="reference download internal" download="" href="../_downloads/1dff02307a9b9499e3b506518ec7291d/Image Recognition I.pdf"><code class="xref download docutils literal notranslate"><span class="pre">图像识别作业I</span></code></a></p>
+<p>示例代码：<a class="reference download internal" download="" href="../_downloads/e7cd275993256606a390fc771f43869a/example.py"><code class="xref download docutils literal notranslate"><span class="pre">Template</span> <span class="pre">Code</span></code></a></p>
+<p>课堂PPT: <a class="reference download internal" download="" href="../_downloads/1f442e2784b4cc3d86f31f76490d0026/deep learning.pptx"><code class="xref download docutils literal notranslate"><span class="pre">深度学习</span></code></a></p>
+</section>
+<section id="q-a">
+<span id="id9"></span><h2>9. 常见问题<a class="headerlink" href="#q-a" title="Permalink to this headline"></a></h2>
+<ol class="upperalpha simple" start="17">
+<li><p>我已经按照步骤安装了模块，但运行后还是出现import error。</p></li>
+</ol>
+<ol class="upperalpha simple">
+<li><p>这种问题常出现于PyCharm使用的Python版本与系统不一致的情况。你可以尝试以下几个步骤：</p></li>
+</ol>
+<ol class="arabic simple">
+<li><p>PyCharm - Preferences（或者File - Default Settings)，点击左边Project(一般是倒数第五行），再点击Python interpreter.</p></li>
+</ol>
+<a class="reference internal image-reference" href="../_images/interpreter.png"><img alt="../_images/interpreter.png" src="../_images/interpreter.png" style="width: 629.0px; height: 445.0px;" /></a>
+<ol class="arabic simple" start="2">
+<li><p>点击add，选择system interpreter, 重新添加python3.10解释器。</p></li>
+</ol>
+<a class="reference internal image-reference" href="../_images/add.png"><img alt="../_images/add.png" src="../_images/add.png" style="width: 582.0px; height: 382.0px;" /></a>
+<ol class="arabic simple" start="3">
+<li><p>将出现错误的模块卸载掉。例如如果numpy模块出现import错误，则选择numpy，然后点击”-“号，完成模块卸载。</p></li>
+</ol>
+<a class="reference internal image-reference" href="../_images/uninstall.jpeg"><img alt="../_images/uninstall.jpeg" src="../_images/uninstall.jpeg" style="width: 842.4px; height: 252.6px;" /></a>
+<ol class="arabic simple" start="4">
+<li><p>回到PyCharm主界面。你会发现之前import的那行变为红色。如果你有VPN，你可以将鼠标放在红线上，会出现一个红色小灯泡。PyCharm会根据程序自动推荐你需要安装的模块(下图应该选择opencv-python)，点击即可完成安装。</p></li>
+</ol>
+<a class="reference internal image-reference" href="../_images/install1.png"><img alt="../_images/install1.png" src="../_images/install1.png" style="width: 502.0px; height: 289.0px;" /></a>
+<p>如果你没有VPN，你可以点击软件下方Terminal（是PyCharm自带的Terminal，而不是Mac或者Windows的Terminal)。重新按照课程网站上的指令安装一遍模块。安装完成之后程序即可运行。</p>
+<a class="reference internal image-reference" href="../_images/install2.png"><img alt="../_images/install2.png" src="../_images/install2.png" style="width: 860.4px; height: 207.0px;" /></a>
+<p>这个方法需要你能通过运行结果判断是是哪个模块出现了问题。例如下图：</p>
+<a class="reference internal image-reference" href="../_images/kiwi.png"><img alt="../_images/kiwi.png" src="../_images/kiwi.png" style="width: 608.4px; height: 123.0px;" /></a>
+<p>你可以通过运行信息，知道是kiwisolver这个模块出现了问题。你只需要将该模块卸载后，在PyCharm的终端里面运行：</p>
+<div class="highlight-text notranslate"><div class="highlight"><pre><span></span>pip install kiwisolver
+</pre></div>
+</div>
+<ol class="upperalpha simple" start="17">
+<li><p>运行程序之后，窗口会出现如下错误：</p></li>
+</ol>
+<a class="reference internal image-reference" href="../_images/filenotfound.png"><img alt="../_images/filenotfound.png" src="../_images/filenotfound.png" style="width: 581.4px; height: 101.39999999999999px;" /></a>
+<ol class="upperalpha simple">
+<li><p>这说明PyCharm没有找到图像文件。你需要做两件事情：</p></li>
+</ol>
+<ol class="arabic simple">
+<li><p>将图片文件和python文件拖到项目文件夹的下方（第一层）</p></li>
+<li><p>在脚本路径中确认是否选择是当前的python文件。</p></li>
+</ol>
+</section>
+</section>
+
+
+           </div>
+          </div>
+          <footer><div class="rst-footer-buttons" role="navigation" aria-label="Footer">
+        <a href="filter.html" class="btn btn-neutral float-left" title="图像滤镜实验" accesskey="p" rel="prev"><span class="fa fa-arrow-circle-left" aria-hidden="true"></span> Previous</a>
+        <a href="digit_recognition.html" class="btn btn-neutral float-right" title="图像识别实验（下）" accesskey="n" rel="next">Next <span class="fa fa-arrow-circle-right" aria-hidden="true"></span></a>
+    </div>
+
+  <hr/>
+
+  <div role="contentinfo">
+    <p>&#169; Copyright 2022, Derek.</p>
+  </div>
+
+  Built with <a href="https://www.sphinx-doc.org/">Sphinx</a> using a
+    <a href="https://github.com/readthedocs/sphinx_rtd_theme">theme</a>
+    provided by <a href="https://readthedocs.org">Read the Docs</a>.
+   
+
+</footer>
+        </div>
+      </div>
+    </section>
+  </div>
+  <script>
+      jQuery(function () {
+          SphinxRtdTheme.Navigation.enable(true);
+      });
+  </script> 
+
+</body>
+</html>
