@@ -39,4 +39,18 @@ Jenny
        :scale: 15%
        :target: ../_static/top10_Yangjing/jenny.html
 
+Rebecca
+-------------
+.. image:: rebecca.png
+       :scale: 15%
+       :target: ../_static/top10_rebecca/top10_rebecca.html
+
+Emily
+-------
+
+.. image:: emily.png
+       :scale: 15%
+       :target: ../_static/Emily/top10_Emily.html
+
+
 
