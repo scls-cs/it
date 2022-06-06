@@ -13,11 +13,11 @@ Julia
 -------------
 .. image:: Julia.jpg
        :scale: 15%
-       :target: ../../_static/Julia/top10_julia.html
+       :target: ../_static/Julia/top10_julia.html
 
 Megan
 -------------
 .. image:: megan.jpg
        :scale: 15%
-       :target: ../../_static/Megan/top10_Megan.html
+       :target: ../_static/Megan/top10_Megan.html
 
