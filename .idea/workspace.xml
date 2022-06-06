@@ -56,8 +56,8 @@
       <file leaf-file-name="work.rst" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/source/web/work.rst">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="62">
-              <caret line="8" column="25" lean-forward="true" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
+            <state relative-caret-position="560">
+              <caret line="23" column="0" lean-forward="true" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -238,6 +238,24 @@
             <path>
               <item name="cs-intro" type="b2602c69:ProjectViewProjectNode" />
               <item name="cs-intro" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cs-intro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cs-intro" type="462c0819:PsiDirectoryNode" />
+              <item name="build" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cs-intro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cs-intro" type="462c0819:PsiDirectoryNode" />
+              <item name="build" type="462c0819:PsiDirectoryNode" />
+              <item name="html" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cs-intro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cs-intro" type="462c0819:PsiDirectoryNode" />
+              <item name="build" type="462c0819:PsiDirectoryNode" />
+              <item name="html" type="462c0819:PsiDirectoryNode" />
+              <item name="_static" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="cs-intro" type="b2602c69:ProjectViewProjectNode" />
@@ -701,8 +719,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/source/web/work.rst">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="62">
-          <caret line="8" column="25" lean-forward="true" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
+        <state relative-caret-position="560">
+          <caret line="23" column="0" lean-forward="true" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
           <folding />
         </state>
       </provider>

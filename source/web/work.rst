@@ -6,18 +6,18 @@ Elina
 
 .. image:: elina.jpg
        :scale: 35%
-       :target: ../../../source/static/Elina/index.html
+       :target: ../../_static/Elina/index.html
 
 
 Julia
 -------------
 .. image:: Julia.jpg
        :scale: 15%
-       :target: ../../../source/static/Julia/top10_julia.html
+       :target: ../../_static/Julia/top10_julia.html
 
 Megan
 -------------
 .. image:: megan.jpg
        :scale: 15%
-       :target: ../../../source/static/Megan/top10_Megan.html
+       :target: ../../_static/Megan/top10_Megan.html
 
