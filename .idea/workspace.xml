@@ -72,7 +72,7 @@
         </entry>
       </file>
       <file leaf-file-name="top10_Megan.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/source/static/Megan/top10_Megan.html">
+        <entry file="file://$PROJECT_DIR$/source/_static/Megan/top10_Megan.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="-124">
               <caret line="35" column="107" lean-forward="false" selection-start-line="35" selection-start-column="107" selection-end-line="35" selection-end-column="107" />
@@ -102,7 +102,7 @@
         </entry>
       </file>
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/source/static/Elina/index.html">
+        <entry file="file://$PROJECT_DIR$/source/_static/Elina/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="-944">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -112,7 +112,7 @@
         </entry>
       </file>
       <file leaf-file-name="Roman Holiday.jpg" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/source/static/Elina/Roman Holiday.jpg">
+        <entry file="file://$PROJECT_DIR$/source/_static/Elina/Roman Holiday.jpg">
           <provider selected="true" editor-type-id="images">
             <state />
           </provider>
@@ -193,8 +193,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-144" />
-    <option name="y" value="136" />
+    <option name="x" value="104" />
+    <option name="y" value="114" />
     <option name="width" value="1440" />
     <option name="height" value="900" />
   </component>
@@ -279,13 +279,13 @@
               <item name="cs-intro" type="b2602c69:ProjectViewProjectNode" />
               <item name="cs-intro" type="462c0819:PsiDirectoryNode" />
               <item name="source" type="462c0819:PsiDirectoryNode" />
-              <item name="static" type="462c0819:PsiDirectoryNode" />
+              <item name="_static" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="cs-intro" type="b2602c69:ProjectViewProjectNode" />
               <item name="cs-intro" type="462c0819:PsiDirectoryNode" />
               <item name="source" type="462c0819:PsiDirectoryNode" />
-              <item name="static" type="462c0819:PsiDirectoryNode" />
+              <item name="_static" type="462c0819:PsiDirectoryNode" />
               <item name="Megan" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -363,10 +363,9 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-144" y="136" width="1440" height="900" extended-state="0" />
-    <editor active="true" />
+    <frame x="104" y="114" width="1440" height="900" extended-state="0" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28683835" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28683835" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32945737" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -638,7 +637,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/source/static/Elina/La La Land.jpg">
+    <entry file="file://$PROJECT_DIR$/source/_static/Elina/La La Land.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
@@ -652,7 +651,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/source/static/Elina/index.html">
+    <entry file="file://$PROJECT_DIR$/source/_static/Elina/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-944">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -660,7 +659,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/source/static/Elina/Roman Holiday.jpg">
+    <entry file="file://$PROJECT_DIR$/source/_static/Elina/Roman Holiday.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
@@ -681,7 +680,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/source/static/Megan/top10_Megan.html">
+    <entry file="file://$PROJECT_DIR$/source/_static/Megan/top10_Megan.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-124">
           <caret line="35" column="107" lean-forward="false" selection-start-line="35" selection-start-column="107" selection-end-line="35" selection-end-column="107" />
