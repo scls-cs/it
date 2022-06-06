@@ -6,7 +6,7 @@ Elina
 
 .. image:: elina.jpg
        :scale: 35%
-       :target: ../../_static/Elina/index.html
+       :target: ../_static/Elina/index.html
 
 
 Julia
