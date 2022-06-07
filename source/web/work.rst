@@ -56,20 +56,26 @@ Haozu
 -----
 
 .. image:: haozu.png
-       :scale: 20%
+       :scale: 15%
        :target: ../_static/Haozu/top10_alex.html
 
 Fifi
 -------
 
 .. image:: fifi.png
-       :scale: 20%
+       :scale: 15%
        :target: ../_static/Fifi/top10_Fifi.html
 
 Chloe
 ------
 
 .. image:: chloe.png
-       :scale: 20%
-       :target: ../_static/Chloe/TOP10_CHLOE.html
+       :scale: 15%
+       :target: ../_static/Chloe/Top10_CHLOE.html
 
+Lily
+------
+
+.. image:: lily.png
+       :scale: 20%
+       :target: ../_static/Lily/top10_lily.html
