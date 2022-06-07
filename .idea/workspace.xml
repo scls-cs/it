@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4d60759e-34c0-42fc-8bf9-b0b86f2f8cd9" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/index.rst" afterPath="$PROJECT_DIR$/source/index.rst" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/web/work.rst" afterPath="$PROJECT_DIR$/source/web/work.rst" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -26,8 +27,18 @@
       <file leaf-file-name="work.rst" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/source/web/work.rst">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="128">
-              <caret line="4" column="11" lean-forward="false" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
+            <state relative-caret-position="96">
+              <caret line="3" column="6" lean-forward="true" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.rst" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/source/index.rst">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="160">
+              <caret line="5" column="25" lean-forward="false" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
               <folding />
             </state>
           </provider>
@@ -166,7 +177,6 @@
         <option value="$PROJECT_DIR$/source/database/intro.rst" />
         <option value="$PROJECT_DIR$/source/web/table.html" />
         <option value="$PROJECT_DIR$/source/web/html.rst" />
-        <option value="$PROJECT_DIR$/source/index.rst" />
         <option value="$PROJECT_DIR$/source/web/index-elina.html" />
         <option value="$PROJECT_DIR$/source/web/Elina/index.html" />
         <option value="$PROJECT_DIR$/source/_static.py" />
@@ -175,6 +185,7 @@
         <option value="$PROJECT_DIR$/../../../top_10 Ray/Website.html" />
         <option value="$PROJECT_DIR$/../../../top_10 Ray/about.html" />
         <option value="$PROJECT_DIR$/../../../Top10_CHLOE/Top10_CHLOE.html" />
+        <option value="$PROJECT_DIR$/source/index.rst" />
         <option value="$PROJECT_DIR$/source/web/work.rst" />
       </list>
     </option>
@@ -661,13 +672,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/source/_static.py" />
-    <entry file="file://$PROJECT_DIR$/source/index.rst">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3584">
-          <caret line="112" column="11" lean-forward="false" selection-start-line="112" selection-start-column="7" selection-end-line="112" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/source/ai/digit_recognition.rst">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="160">
@@ -766,6 +770,14 @@
         <state />
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/source/index.rst">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="5" column="25" lean-forward="false" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/source/_static/Lily/39dc364a9dd17216ee9c7086bd51bb04.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -773,8 +785,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/source/web/work.rst">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="128">
-          <caret line="4" column="11" lean-forward="false" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
+        <state relative-caret-position="96">
+          <caret line="3" column="6" lean-forward="true" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
           <folding />
         </state>
       </provider>
