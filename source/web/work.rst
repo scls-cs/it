@@ -49,8 +49,27 @@ Emily
 -------
 
 .. image:: emily.png
-       :scale: 15%
+       :scale: 20%
        :target: ../_static/Emily/top10_Emily.html
 
+Haozu
+-----
 
+.. image:: haozu.png
+       :scale: 20%
+       :target: ../_static/Haozu/top10_alex.html
+
+Fifi
+-------
+
+.. image:: fifi.png
+       :scale: 20%
+       :target: ../_static/Fifi/top10_Fifi.html
+
+Chloe
+------
+
+.. image:: chloe.png
+       :scale: 20%
+       :target: ../_static/Chloe/TOP10_CHLOE.html
 
