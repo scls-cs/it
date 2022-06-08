@@ -1,3 +1,5 @@
+.. _HTML:
+
 HTML
 ******
 
@@ -149,3 +151,5 @@ HTML文档
 
 
 作业：:download:`HTML作业 <HTML作业.pdf>`
+
+课件：:download:`HTML <HTML.pptx>`
