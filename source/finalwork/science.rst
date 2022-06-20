@@ -19,4 +19,4 @@ Maze(Bruce)
 ------------
 .. image:: bruce.jpeg
        :scale: 20%
-       :target: ../_static/Bruce-final/Bruce Chen_final.html
+       :target: ../_static/Bruce-final/Bruce_final.html
