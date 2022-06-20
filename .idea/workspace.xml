@@ -2,9 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4d60759e-34c0-42fc-8bf9-b0b86f2f8cd9" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/finalwork/elina.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/finalwork/art.rst" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/source/_static/Elina-final/Monotype Corsiva.ttf" afterPath="$PROJECT_DIR$/source/_static/Elina-final/Monotype_Corsiva.ttf" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/_static/Elina-final/Type.html" afterPath="$PROJECT_DIR$/source/_static/Elina-final/Type.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/_static/Elina-final/Type_Jazz.html" afterPath="$PROJECT_DIR$/source/_static/Elina-final/Type_Jazz.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/_static/Elina-final/Type_Rap.html" afterPath="$PROJECT_DIR$/source/_static/Elina-final/Type_Rap.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -45,16 +47,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.rst" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/source/index.rst">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="144">
-              <caret line="129" column="0" lean-forward="false" selection-start-line="129" selection-start-column="0" selection-end-line="129" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="fun.rst" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/source/finalwork/fun.rst">
           <provider selected="true" editor-type-id="text-editor">
@@ -87,21 +79,31 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="final.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="final.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/source/_static/Elina-final/final.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="223">
-              <caret line="19" column="3" lean-forward="true" selection-start-line="19" selection-start-column="3" selection-end-line="19" selection-end-column="3" />
+            <state relative-caret-position="88">
+              <caret line="11" column="1" lean-forward="true" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="art.rst" pinned="false" current-in-tab="true">
+      <file leaf-file-name="art.rst" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/source/finalwork/art.rst">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="256">
               <caret line="8" column="49" lean-forward="true" selection-start-line="8" selection-start-column="49" selection-end-line="8" selection-end-column="49" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Type.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/source/_static/Elina-final/Type.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="20" column="12" lean-forward="false" selection-start-line="20" selection-start-column="12" selection-end-line="20" selection-end-column="12" />
               <folding />
             </state>
           </provider>
@@ -139,6 +141,7 @@
       <find>background picture</find>
       <find>Ariana_Grande.jpg</find>
       <find>Bille Eilish</find>
+      <find>monotype</find>
     </findStrings>
     <replaceStrings>
       <replace>images</replace>
@@ -419,11 +422,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/source/_static/Elina/Roman Holiday.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/source/_static.py" />
     <entry file="file://$PROJECT_DIR$/source/ai/digit_recognition.rst">
       <provider selected="true" editor-type-id="text-editor">
@@ -688,14 +686,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/source/_static/Elina-final/final.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="223">
-          <caret line="19" column="3" lean-forward="true" selection-start-line="19" selection-start-column="3" selection-end-line="19" selection-end-column="3" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/source/_static/Elina-final/Singers.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="960">
@@ -718,6 +708,22 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="256">
           <caret line="8" column="49" lean-forward="true" selection-start-line="8" selection-start-column="49" selection-end-line="8" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_static/Elina-final/Type.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="20" column="12" lean-forward="false" selection-start-line="20" selection-start-column="12" selection-end-line="20" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_static/Elina-final/final.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="11" column="1" lean-forward="true" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
           <folding />
         </state>
       </provider>
