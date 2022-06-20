@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>Emily's little personal space</title>
+ <meta charset="UTF-8">
+ <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<style>
+* {
+  box-sizing: border-box;margin:0;padding:0;
+}
+body {
+  font-family: Arial, Helvetica, sans-serif;background-image: url('bg4.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
+}
+
+/* Style the header */
+header {
+
+  padding: 5px;
+  text-align: center;
+  font-size: 40px;
+  color:#FFF8DC
+}
+
+/* Create two columns/boxes that floats next to each other */
+nav {
+  float:right;
+  width:25%;
+  height:500px;
+
+  padding:0;
+  font-size:35px;
+}
+
+/* Style the list inside the menu */
+nav ul {
+  list-style-type: none;
+  padding:20px;
+}
+
+article {
+  float:left;
+  padding:0;
+  width:75%;
+  height:500px;
+  color:#FFF8DC;
+  font-size:24px;
+}
+/* Clear floats after the columns */
+section::after {
+  content: "";
+  display: table;
+  clear: both;
+}
+footer {
+  padding: 10px;
+  text-align: center;
+  color:#FFF8DC;
+}
+button{
+  width:150px;
+  height:60px;
+  color:#FFF8DC;
+  font-size:30px;
+  background-color:#483D8B;
+  display:flex;
+  flex-wrap;
+  margin-top:20px;
+  justify-content:center;
+  border-radius:8px;
+  border-color:#483D8B;
+}
+</style>
+</head>
+<body>
+<header>
+  <h1 >Emily's personal space</h1>
+</header>
+<section>
+  <nav>
+    <ul>
+        <li>
+            <button onclick="document.location='index.html'">home</button>
+        </li>
+        <li>
+           <button onclick="document.location='travel.html'">travel</button>
+        </li>
+        <li>
+            <button onclick="document.location='school life.html'">school life</button>
+        </li>
+        <li>
+            <button onclick="document.location='food.html'">food</button>
+        </li>
+    </ul>
+  </nav>
+  <article>
+    <p><strong>About me</strong> </p>
+    <br>
+    <pre><i>  Hello!I am Emily,a girl of 16.
+    <br>  This is Emily's little personal space.
+    <br>  The photos shown here are a record of my life.
+    <br>  Welcome to come and hang out in your free time!!!
+    <br></i> </pre>
+  <audio controls autoplay>
+      <source src="Welcome to Wonderland.mp3" type="audio/mp3">
+  </audio>
+ <pre style="font-size:15px;color:#FFF8DC"> Anson Seabra--Welcome to Wonderland</pre>
+  </article>
+</section>
+
+ <footer>
+     <p >CONTACT:    e-mail:20246xxxx@stu.scls-sh.org </p>
+     <p >            Phone number：150xxxx2493 </p>
+ </footer>
+</body>
+</html>

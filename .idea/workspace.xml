@@ -1,7 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4d60759e-34c0-42fc-8bf9-b0b86f2f8cd9" name="Default" comment="" />
+    <list default="true" id="4d60759e-34c0-42fc-8bf9-b0b86f2f8cd9" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/Emily-final/bg4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/Emily-final/dazzling love.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/Emily-final/food1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/Emily-final/food10.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/Emily-final/food11.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/Emily-final/food12.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/Emily-final/food13.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/Emily-final/food14.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/Emily-final/food15.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/Emily-final/food16.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/Emily-final/food17.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/Emily-final/food18.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/Emily-final/food19.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/Emily-final/food2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/Emily-final/food20.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/Emily-final/food21.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/Emily-final/food22.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/Emily-final/food23.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/Emily-final/food24.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/Emily-final/food3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/Emily-final/food4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/Emily-final/food5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/Emily-final/food6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/Emily-final/food7.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/Emily-final/food8.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/Emily-final/food9.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/Emily-final/food.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/Emily-final/index.html" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -210,8 +239,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="81" />
-    <option name="y" value="55" />
+    <option name="x" value="175" />
+    <option name="y" value="40" />
     <option name="width" value="1440" />
     <option name="height" value="900" />
   </component>
@@ -290,6 +319,13 @@
               <item name="cs-intro" type="462c0819:PsiDirectoryNode" />
               <item name="source" type="462c0819:PsiDirectoryNode" />
               <item name="_static" type="462c0819:PsiDirectoryNode" />
+              <item name="Emily" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cs-intro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cs-intro" type="462c0819:PsiDirectoryNode" />
+              <item name="source" type="462c0819:PsiDirectoryNode" />
+              <item name="_static" type="462c0819:PsiDirectoryNode" />
               <item name="Lily-final" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -298,6 +334,12 @@
               <item name="source" type="462c0819:PsiDirectoryNode" />
               <item name="_static" type="462c0819:PsiDirectoryNode" />
               <item name="Rebecca-final" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cs-intro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cs-intro" type="462c0819:PsiDirectoryNode" />
+              <item name="source" type="462c0819:PsiDirectoryNode" />
+              <item name="Emily-final" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="cs-intro" type="b2602c69:ProjectViewProjectNode" />
@@ -331,11 +373,11 @@
       <recent name="$PROJECT_DIR$/source/final" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/source/Emily-final" />
       <recent name="$PROJECT_DIR$/source/_static/Julia-final" />
       <recent name="$PROJECT_DIR$/source/finalwork" />
       <recent name="$PROJECT_DIR$/source/_static" />
       <recent name="$PROJECT_DIR$/source" />
-      <recent name="$PROJECT_DIR$/source/web" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -374,7 +416,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="382" y="232" width="1440" height="900" extended-state="0" />
+    <frame x="175" y="40" width="1440" height="900" extended-state="0" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32945737" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
