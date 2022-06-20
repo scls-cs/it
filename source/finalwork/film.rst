@@ -1,9 +1,9 @@
 电影主题馆
 **********
 
-流浪猫狗救助站(Megan)
+Pirates of the Caribbean(Fifi)
 --------------
 
-.. image:: Megan.ico
-       :scale: 25%
-       :target: ../_static/Megan-final/Megan_final.html
+.. image:: fifi.jpg
+       :scale: 35%
+       :target: ../_static/Fifi-final/html_final.html

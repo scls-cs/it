@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4d60759e-34c0-42fc-8bf9-b0b86f2f8cd9" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/finalwork/jenny.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/finalwork/film.rst" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/finalwork/life.rst" afterPath="$PROJECT_DIR$/source/finalwork/life.rst" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/finalwork/music.rst" afterPath="$PROJECT_DIR$/source/finalwork/music.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/finalwork/fifi.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/finalwork/film.rst" afterPath="$PROJECT_DIR$/source/finalwork/film.rst" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -17,100 +14,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.rst" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/source/index.rst">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="127">
-              <caret line="133" column="22" lean-forward="false" selection-start-line="133" selection-start-column="22" selection-end-line="133" selection-end-column="22" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="life.rst" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/source/finalwork/life.rst">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="480">
-              <caret line="15" column="44" lean-forward="false" selection-start-line="15" selection-start-column="44" selection-end-line="15" selection-end-column="44" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="music.rst" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/source/finalwork/music.rst">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="297">
-              <caret line="21" column="65" lean-forward="false" selection-start-line="21" selection-start-column="65" selection-end-line="21" selection-end-column="65" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Music1.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/source/_static/YangJing_final/Music1.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-731">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="film.rst" pinned="false" current-in-tab="false">
+      <file leaf-file-name="film.rst" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/source/finalwork/film.rst">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="2" lean-forward="false" selection-start-line="0" selection-start-column="2" selection-end-line="0" selection-end-column="2" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="emily.png" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/source/web/emily.png">
-          <provider selected="true" editor-type-id="images">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="food.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/source/_static/Emily-final/food.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-161">
-              <caret line="31" column="15" lean-forward="false" selection-start-line="31" selection-start-column="15" selection-end-line="31" selection-end-column="15" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/source/_static/Emily-final/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="586">
-              <caret line="91" column="55" lean-forward="false" selection-start-line="91" selection-start-column="55" selection-end-line="91" selection-end-column="55" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="school_life.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/source/_static/Emily-final/school_life.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="10">
-              <caret line="39" column="41" lean-forward="false" selection-start-line="39" selection-start-column="41" selection-end-line="39" selection-end-column="41" />
-              <folding>
-                <element signature="n#style#0;n#p#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="final.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/source/_static/Elina-final/final.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="329">
-              <caret line="11" column="1" lean-forward="false" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+            <state relative-caret-position="256">
+              <caret line="8" column="32" lean-forward="false" selection-start-line="8" selection-start-column="32" selection-end-line="8" selection-end-column="32" />
               <folding />
             </state>
           </provider>
@@ -146,6 +54,9 @@
       <find>school life</find>
       <find>this song</find>
       <find>HTML final</find>
+      <find>bg</find>
+      <find>final_1</find>
+      <find>html_f</find>
     </findStrings>
     <replaceStrings>
       <replace>images</replace>
@@ -205,9 +116,9 @@
         <option value="$PROJECT_DIR$/source/index.rst" />
         <option value="$PROJECT_DIR$/source/finalwork/manga.rst" />
         <option value="$PROJECT_DIR$/source/Emily-final/index.html" />
-        <option value="$PROJECT_DIR$/source/finalwork/film.rst" />
         <option value="$PROJECT_DIR$/source/finalwork/life.rst" />
         <option value="$PROJECT_DIR$/source/finalwork/music.rst" />
+        <option value="$PROJECT_DIR$/source/finalwork/film.rst" />
       </list>
     </option>
   </component>
@@ -218,7 +129,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="y" value="78" />
+    <option name="x" value="7" />
+    <option name="y" value="54" />
     <option name="width" value="1440" />
     <option name="height" value="900" />
   </component>
@@ -297,6 +209,13 @@
               <item name="cs-intro" type="462c0819:PsiDirectoryNode" />
               <item name="source" type="462c0819:PsiDirectoryNode" />
               <item name="_static" type="462c0819:PsiDirectoryNode" />
+              <item name="Fifi-Final" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cs-intro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cs-intro" type="462c0819:PsiDirectoryNode" />
+              <item name="source" type="462c0819:PsiDirectoryNode" />
+              <item name="_static" type="462c0819:PsiDirectoryNode" />
               <item name="YangJing_final" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -337,8 +256,8 @@
       <recent name="$PROJECT_DIR$/source/final" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/source/finalwork" />
       <recent name="$PROJECT_DIR$/source/_static" />
+      <recent name="$PROJECT_DIR$/source/finalwork" />
       <recent name="$PROJECT_DIR$/source/Emily-final" />
       <recent name="$PROJECT_DIR$/source/_static/Julia-final" />
       <recent name="$PROJECT_DIR$/source" />
@@ -380,7 +299,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="78" width="1440" height="900" extended-state="0" />
+    <frame x="7" y="54" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32945737" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -428,67 +347,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/build/html/web/html.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="256">
-          <caret line="8" column="36" lean-forward="false" selection-start-line="8" selection-start-column="36" selection-end-line="8" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/web/paragraph.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="256">
-          <caret line="8" column="10" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/web/megan.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/web/lily.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/web/Julia.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/python_midterm/paper.rst">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/term/term.rst">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/midterm/paper.rst">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/midterm_review/mid.rst">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="256">
-          <caret line="8" column="48" lean-forward="false" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../../赵书涵-final/final.html" />
-    <entry file="file://$PROJECT_DIR$/../../../侯辰菱_final(2)/final.html" />
-    <entry file="file://$PROJECT_DIR$/../../../julia_final/jojo.html" />
-    <entry file="file://$PROJECT_DIR$/../../../张天宇_final/top10_张天宇.html" />
     <entry file="file://$PROJECT_DIR$/source/web/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -686,7 +544,7 @@
         <state relative-caret-position="10">
           <caret line="39" column="41" lean-forward="false" selection-start-line="39" selection-start-column="41" selection-end-line="39" selection-end-column="41" />
           <folding>
-            <element signature="n#style#0;n#p#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#0;n#body#0;n#html#0;n#!!top" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -717,14 +575,6 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/source/finalwork/film.rst">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="2" lean-forward="false" selection-start-line="0" selection-start-column="2" selection-end-line="0" selection-end-column="2" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/source/_static/YangJing_final/Music1.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-731">
@@ -743,8 +593,81 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/source/finalwork/music.rst">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="21" column="65" lean-forward="false" selection-start-line="21" selection-start-column="65" selection-end-line="21" selection-end-column="65" />
+        <state relative-caret-position="265">
+          <caret line="21" column="17" lean-forward="false" selection-start-line="21" selection-start-column="17" selection-end-line="21" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_static/Fifi-Final/bg_1.0.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_static/Fifi-Final/g.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_static/Fifi-Final/h.b.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_static/Fifi-Final/h.t.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_static/Fifi-Final/j.s.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_static/Fifi-Final/w.t.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_static/Fifi-Final/b.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_static/Fifi-Final/a.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_static/Fifi-Final/c.b.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_static/Fifi-Final/c.s.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_static/Fifi-Final/d.j.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_static/Fifi-Final/e.s.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_static/Fifi-Final/bg_0.0.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/finalwork/film.rst">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="256">
+          <caret line="8" column="32" lean-forward="false" selection-start-line="8" selection-start-column="32" selection-end-line="8" selection-end-column="32" />
           <folding />
         </state>
       </provider>
