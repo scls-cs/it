@@ -2,34 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4d60759e-34c0-42fc-8bf9-b0b86f2f8cd9" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/Emily-final/bg4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/Emily-final/dazzling love.mp3" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/Emily-final/food1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/Emily-final/food10.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/Emily-final/food11.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/Emily-final/food12.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/Emily-final/food13.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/Emily-final/food14.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/Emily-final/food15.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/Emily-final/food16.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/Emily-final/food17.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/Emily-final/food18.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/Emily-final/food19.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/Emily-final/food2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/Emily-final/food20.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/Emily-final/food21.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/Emily-final/food22.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/Emily-final/food23.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/Emily-final/food24.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/Emily-final/food3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/Emily-final/food4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/Emily-final/food5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/Emily-final/food6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/Emily-final/food7.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/Emily-final/food8.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/Emily-final/food9.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/Emily-final/food.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/Emily-final/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/Emily-final/let it go.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/Emily-final/s1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/Emily-final/s10.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/Emily-final/s11.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/Emily-final/s12.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/Emily-final/s13.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/Emily-final/s14.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/Emily-final/s15.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/Emily-final/s16.mp4" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/Emily-final/s2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/Emily-final/s3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/Emily-final/s4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/Emily-final/s5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/Emily-final/s6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/Emily-final/s7.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/Emily-final/s8.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/Emily-final/s9.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/Emily-final/school life.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -43,7 +33,7 @@
       <file leaf-file-name="index.rst" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/source/index.rst">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
+            <state relative-caret-position="287">
               <caret line="133" column="22" lean-forward="false" selection-start-line="133" selection-start-column="22" selection-end-line="133" selection-end-column="22" />
               <folding />
             </state>
@@ -761,7 +751,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/source/index.rst">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
+        <state relative-caret-position="287">
           <caret line="133" column="22" lean-forward="false" selection-start-line="133" selection-start-column="22" selection-end-line="133" selection-end-column="22" />
           <folding />
         </state>
