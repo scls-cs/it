@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4d60759e-34c0-42fc-8bf9-b0b86f2f8cd9" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/finalwork/william.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/finalwork/manga.rst" afterPath="$PROJECT_DIR$/source/finalwork/manga.rst" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/finalwork/film.rst" afterPath="$PROJECT_DIR$/source/finalwork/film.rst" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -15,20 +13,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="film.rst" pinned="false" current-in-tab="false">
+      <file leaf-file-name="film.rst" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/source/finalwork/film.rst">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="256">
-              <caret line="8" column="32" lean-forward="false" selection-start-line="8" selection-start-column="32" selection-end-line="8" selection-end-column="32" />
+              <caret line="8" column="30" lean-forward="false" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="manga.rst" pinned="false" current-in-tab="true">
+      <file leaf-file-name="manga.rst" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/source/finalwork/manga.rst">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="425">
+            <state relative-caret-position="480">
               <caret line="15" column="46" lean-forward="false" selection-start-line="15" selection-start-column="46" selection-end-line="15" selection-end-column="46" />
               <folding />
             </state>
@@ -38,7 +36,7 @@
       <file leaf-file-name="music.rst" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/source/finalwork/music.rst">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="297">
+            <state relative-caret-position="265">
               <caret line="28" column="57" lean-forward="false" selection-start-line="28" selection-start-column="57" selection-end-line="28" selection-end-column="57" />
               <folding />
             </state>
@@ -207,12 +205,12 @@
         <option value="$PROJECT_DIR$/source/finalwork/art.rst" />
         <option value="$PROJECT_DIR$/source/Emily-final/index.html" />
         <option value="$PROJECT_DIR$/source/finalwork/life.rst" />
-        <option value="$PROJECT_DIR$/source/finalwork/film.rst" />
         <option value="$PROJECT_DIR$/source/index.rst" />
         <option value="$PROJECT_DIR$/source/_static/Leo_final/top10_张天宇.html" />
         <option value="$PROJECT_DIR$/source/_static/Elina/index.html" />
         <option value="$PROJECT_DIR$/source/finalwork/music.rst" />
         <option value="$PROJECT_DIR$/source/finalwork/manga.rst" />
+        <option value="$PROJECT_DIR$/source/finalwork/film.rst" />
       </list>
     </option>
   </component>
@@ -223,8 +221,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="127" />
-    <option name="y" value="38" />
+    <option name="x" value="50" />
+    <option name="y" value="114" />
     <option name="width" value="1440" />
     <option name="height" value="900" />
   </component>
@@ -303,15 +301,14 @@
               <item name="cs-intro" type="462c0819:PsiDirectoryNode" />
               <item name="source" type="462c0819:PsiDirectoryNode" />
               <item name="_static" type="462c0819:PsiDirectoryNode" />
-              <item name="William-final" type="462c0819:PsiDirectoryNode" />
+              <item name="Alicia-final" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="cs-intro" type="b2602c69:ProjectViewProjectNode" />
               <item name="cs-intro" type="462c0819:PsiDirectoryNode" />
               <item name="source" type="462c0819:PsiDirectoryNode" />
               <item name="_static" type="462c0819:PsiDirectoryNode" />
-              <item name="William-final" type="462c0819:PsiDirectoryNode" />
-              <item name="sub_categories" type="462c0819:PsiDirectoryNode" />
+              <item name="Fifi-Final" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="cs-intro" type="b2602c69:ProjectViewProjectNode" />
@@ -345,8 +342,8 @@
       <recent name="$PROJECT_DIR$/source/final" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/source/finalwork" />
       <recent name="$PROJECT_DIR$/source/_static" />
+      <recent name="$PROJECT_DIR$/source/finalwork" />
       <recent name="$PROJECT_DIR$/source" />
       <recent name="$PROJECT_DIR$/source/Emily-final" />
       <recent name="$PROJECT_DIR$/source/_static/Julia-final" />
@@ -388,7 +385,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="127" y="38" width="1440" height="900" extended-state="0" />
+    <frame x="50" y="114" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32945737" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -714,7 +711,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/source/finalwork/music.rst">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
+        <state relative-caret-position="265">
           <caret line="28" column="57" lean-forward="false" selection-start-line="28" selection-start-column="57" selection-end-line="28" selection-end-column="57" />
           <folding />
         </state>
@@ -746,18 +743,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/source/finalwork/film.rst">
+    <entry file="file://$PROJECT_DIR$/source/finalwork/manga.rst">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="256">
-          <caret line="8" column="32" lean-forward="false" selection-start-line="8" selection-start-column="32" selection-end-line="8" selection-end-column="32" />
+        <state relative-caret-position="480">
+          <caret line="15" column="46" lean-forward="false" selection-start-line="15" selection-start-column="46" selection-end-line="15" selection-end-column="46" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/source/finalwork/manga.rst">
+    <entry file="file://$PROJECT_DIR$/source/finalwork/film.rst">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="15" column="46" lean-forward="false" selection-start-line="15" selection-start-column="46" selection-end-line="15" selection-end-column="46" />
+        <state relative-caret-position="256">
+          <caret line="8" column="30" lean-forward="false" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
           <folding />
         </state>
       </provider>
