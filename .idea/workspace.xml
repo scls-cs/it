@@ -2,59 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4d60759e-34c0-42fc-8bf9-b0b86f2f8cd9" name="Default" comment="">
-      <change type="MOVED" beforePath="$PROJECT_DIR$/source/_static/Bruce-final/Bruce Chen_final.html" afterPath="$PROJECT_DIR$/source/_static/Bruce-final/Bruce_final.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/source/_static/Megan_final/Megan_final.html" afterPath="$PROJECT_DIR$/source/_static/Megan-final/Megan_final.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/source/_static/Megan_final/images/Megan_final.html" afterPath="$PROJECT_DIR$/source/_static/Megan-final/images/Megan_final.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/source/_static/Megan_final/images/favicon.ico" afterPath="$PROJECT_DIR$/source/_static/Megan-final/images/favicon.ico" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/source/_static/Megan_final/images/口炎前.png" afterPath="$PROJECT_DIR$/source/_static/Megan-final/images/口炎前.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/source/_static/Megan_final/images/口炎后.jpeg" afterPath="$PROJECT_DIR$/source/_static/Megan-final/images/口炎后.jpeg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/source/_static/Megan_final/images/墩墩.jpg" afterPath="$PROJECT_DIR$/source/_static/Megan-final/images/墩墩.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/source/_static/Megan_final/images/天仙猫.jpg" afterPath="$PROJECT_DIR$/source/_static/Megan-final/images/天仙猫.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/source/_static/Megan_final/images/奶包.jpg" afterPath="$PROJECT_DIR$/source/_static/Megan-final/images/奶包.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/source/_static/Megan_final/images/奶猫.jpg" afterPath="$PROJECT_DIR$/source/_static/Megan-final/images/奶猫.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/source/_static/Megan_final/images/待领养.jpg" afterPath="$PROJECT_DIR$/source/_static/Megan-final/images/待领养.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/source/_static/Megan_final/images/救助成果.jpg" afterPath="$PROJECT_DIR$/source/_static/Megan-final/images/救助成果.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/source/_static/Megan_final/images/救助过程.jpg" afterPath="$PROJECT_DIR$/source/_static/Megan-final/images/救助过程.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/source/_static/Megan_final/images/标题.PNG" afterPath="$PROJECT_DIR$/source/_static/Megan-final/images/标题.PNG" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/source/_static/Megan_final/images/欢欢.jpg" afterPath="$PROJECT_DIR$/source/_static/Megan-final/images/欢欢.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/source/_static/Megan_final/images/狗1.png" afterPath="$PROJECT_DIR$/source/_static/Megan-final/images/狗1.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/source/_static/Megan_final/images/狗1后.png" afterPath="$PROJECT_DIR$/source/_static/Megan-final/images/狗1后.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/source/_static/Megan_final/images/狗2.png" afterPath="$PROJECT_DIR$/source/_static/Megan-final/images/狗2.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/source/_static/Megan_final/images/狗2后.png" afterPath="$PROJECT_DIR$/source/_static/Megan-final/images/狗2后.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/source/_static/Megan_final/images/狗3.png" afterPath="$PROJECT_DIR$/source/_static/Megan-final/images/狗3.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/source/_static/Megan_final/images/狗3后.png" afterPath="$PROJECT_DIR$/source/_static/Megan-final/images/狗3后.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/source/_static/Megan_final/images/狸花猫前.png" afterPath="$PROJECT_DIR$/source/_static/Megan-final/images/狸花猫前.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/source/_static/Megan_final/images/狸花猫后.png" afterPath="$PROJECT_DIR$/source/_static/Megan-final/images/狸花猫后.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/source/_static/Megan_final/images/猫1.png" afterPath="$PROJECT_DIR$/source/_static/Megan-final/images/猫1.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/source/_static/Megan_final/images/猫1后.png" afterPath="$PROJECT_DIR$/source/_static/Megan-final/images/猫1后.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/source/_static/Megan_final/images/猫2.png" afterPath="$PROJECT_DIR$/source/_static/Megan-final/images/猫2.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/source/_static/Megan_final/images/猫2后.png" afterPath="$PROJECT_DIR$/source/_static/Megan-final/images/猫2后.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/source/_static/Megan_final/images/猫3.png" afterPath="$PROJECT_DIR$/source/_static/Megan-final/images/猫3.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/source/_static/Megan_final/images/猫3后.png" afterPath="$PROJECT_DIR$/source/_static/Megan-final/images/猫3后.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/source/_static/Megan_final/images/猫4.png" afterPath="$PROJECT_DIR$/source/_static/Megan-final/images/猫4.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/source/_static/Megan_final/images/猫4后.png" afterPath="$PROJECT_DIR$/source/_static/Megan-final/images/猫4后.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/source/_static/Megan_final/images/猫5.png" afterPath="$PROJECT_DIR$/source/_static/Megan-final/images/猫5.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/source/_static/Megan_final/images/猫5后.png" afterPath="$PROJECT_DIR$/source/_static/Megan-final/images/猫5后.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/source/_static/Megan_final/images/猫6.png" afterPath="$PROJECT_DIR$/source/_static/Megan-final/images/猫6.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/source/_static/Megan_final/images/猫61后.png" afterPath="$PROJECT_DIR$/source/_static/Megan-final/images/猫61后.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/source/_static/Megan_final/images/猫62后.png" afterPath="$PROJECT_DIR$/source/_static/Megan-final/images/猫62后.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/source/_static/Megan_final/images/猫63后.png" afterPath="$PROJECT_DIR$/source/_static/Megan-final/images/猫63后.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/source/_static/Megan_final/images/猫64后.png" afterPath="$PROJECT_DIR$/source/_static/Megan-final/images/猫64后.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/source/_static/Megan_final/images/猫65后.png" afterPath="$PROJECT_DIR$/source/_static/Megan-final/images/猫65后.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/source/_static/Megan_final/images/猫66后.png" afterPath="$PROJECT_DIR$/source/_static/Megan-final/images/猫66后.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/source/_static/Megan_final/images/猫7.png" afterPath="$PROJECT_DIR$/source/_static/Megan-final/images/猫7.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/source/_static/Megan_final/images/猫7后.png" afterPath="$PROJECT_DIR$/source/_static/Megan-final/images/猫7后.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/source/_static/Megan_final/images/猫8.png" afterPath="$PROJECT_DIR$/source/_static/Megan-final/images/猫8.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/source/_static/Megan_final/images/猫8后.png" afterPath="$PROJECT_DIR$/source/_static/Megan-final/images/猫8后.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/source/_static/Megan_final/images/胖猫前.png" afterPath="$PROJECT_DIR$/source/_static/Megan-final/images/胖猫前.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/source/_static/Megan_final/images/胖猫后.jpeg" afterPath="$PROJECT_DIR$/source/_static/Megan-final/images/胖猫后.jpeg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/source/_static/Megan_final/images/蝙蝠侠.jpg" afterPath="$PROJECT_DIR$/source/_static/Megan-final/images/蝙蝠侠.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/source/_static/Megan_final/images/融融.jpg" afterPath="$PROJECT_DIR$/source/_static/Megan-final/images/融融.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/source/_static/Megan_final/待领养.html" afterPath="$PROJECT_DIR$/source/_static/Megan-final/待领养.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/source/_static/Megan_final/救助成果.html" afterPath="$PROJECT_DIR$/source/_static/Megan-final/救助成果.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/source/_static/Megan_final/救助过程.html" afterPath="$PROJECT_DIR$/source/_static/Megan-final/救助过程.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/finalwork/haozu.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/finalwork/fun.rst" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/finalwork/science.rst" afterPath="$PROJECT_DIR$/source/finalwork/science.rst" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/finalwork/life.rst" afterPath="$PROJECT_DIR$/source/finalwork/life.rst" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -65,97 +16,82 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="final.rst" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/source/web/final.rst">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-304">
-              <caret line="19" column="62" lean-forward="false" selection-start-line="19" selection-start-column="62" selection-end-line="19" selection-end-column="62" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="finalwork.rst" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/source/finalwork/finalwork.rst">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="96">
-              <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Calculus_Basic.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/source/_static/Sunday-Final/Calculus_Basic.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="science.rst" pinned="false" current-in-tab="true">
+      <file leaf-file-name="science.rst" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/source/finalwork/science.rst">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="464">
-              <caret line="19" column="21" lean-forward="true" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="21" />
+              <caret line="19" column="21" lean-forward="false" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="21" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="3.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/source/_static/Bruce-final/3.html">
+      <file leaf-file-name="fun.rst" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/source/finalwork/fun.rst">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="256">
+              <caret line="8" column="57" lean-forward="false" selection-start-line="8" selection-start-column="57" selection-end-line="8" selection-end-column="57" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Bruce_final.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/source/_static/Bruce-final/Bruce_final.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1214">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
+      <file leaf-file-name="新宝岛.jpg" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/source/_static/Haozu-final/新宝岛.jpg">
+          <provider selected="true" editor-type-id="images">
+            <state />
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Megan_final.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/source/_static/Megan-final/Megan_final.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
+      <file leaf-file-name="鸡.jpg" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/source/_static/Haozu-final/鸡.jpg">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="鸡汤来咯.jpg" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/source/_static/Haozu-final/鸡汤来咯.jpg">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="黑人抬棺.jpg" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/source/_static/Haozu-final/黑人抬棺.jpg">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="黑虎阿福.jpg" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/source/_static/Haozu-final/黑虎阿福.jpg">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="金坷垃.jpg" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/source/_static/Haozu-final/金坷垃.jpg">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="诸葛亮.jpg" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/source/_static/Haozu-final/诸葛亮.jpg">
+          <provider selected="true" editor-type-id="images">
+            <state />
           </provider>
         </entry>
       </file>
       <file leaf-file-name="life.rst" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/source/finalwork/life.rst">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="256">
-              <caret line="8" column="33" lean-forward="false" selection-start-line="8" selection-start-column="33" selection-end-line="8" selection-end-column="33" />
+            <state relative-caret-position="96">
+              <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="8" selection-end-column="55" />
               <folding />
             </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="主页背景图片.jpeg" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/source/_static/Ray_final/主页背景图片.jpeg">
-          <provider selected="true" editor-type-id="images">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="favicon.ico" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/source/_static/Megan-final/images/favicon.ico">
-          <provider selected="true" editor-type-id="images">
-            <state />
           </provider>
         </entry>
       </file>
@@ -231,8 +167,9 @@
         <option value="$PROJECT_DIR$/source/web/final.rst" />
         <option value="$PROJECT_DIR$/source/finalwork/finalwork.rst" />
         <option value="$PROJECT_DIR$/source/index.rst" />
-        <option value="$PROJECT_DIR$/source/finalwork/life.rst" />
         <option value="$PROJECT_DIR$/source/finalwork/science.rst" />
+        <option value="$PROJECT_DIR$/source/finalwork/life.rst" />
+        <option value="$PROJECT_DIR$/source/finalwork/fun.rst" />
       </list>
     </option>
   </component>
@@ -324,6 +261,13 @@
               <item name="source" type="462c0819:PsiDirectoryNode" />
               <item name="_static" type="462c0819:PsiDirectoryNode" />
               <item name="Bruce-final" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cs-intro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cs-intro" type="462c0819:PsiDirectoryNode" />
+              <item name="source" type="462c0819:PsiDirectoryNode" />
+              <item name="_static" type="462c0819:PsiDirectoryNode" />
+              <item name="Haozu-final" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="cs-intro" type="b2602c69:ProjectViewProjectNode" />
@@ -449,58 +393,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/source/ai/filter.rst">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="7104">
-          <caret line="222" column="0" lean-forward="false" selection-start-line="222" selection-start-column="0" selection-end-line="222" selection-end-column="55" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/database/imdb.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/ai/compress.rst">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/ai/char.rst">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="736">
-          <caret line="23" column="7" lean-forward="false" selection-start-line="23" selection-start-column="7" selection-end-line="23" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/ai/py.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/ai/image_recognition.rst">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="5664">
-          <caret line="177" column="50" lean-forward="false" selection-start-line="177" selection-start-column="5" selection-end-line="177" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/ai/pycharm.rst">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3616">
-          <caret line="113" column="0" lean-forward="false" selection-start-line="113" selection-start-column="0" selection-end-line="113" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/database/intro.rst">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1408">
-          <caret line="44" column="13" lean-forward="false" selection-start-line="44" selection-start-column="0" selection-end-line="45" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/source/web/heading.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="320">
@@ -704,22 +596,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/source/_static/Sunday-Final/Calculus_Basic.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/finalwork/finalwork.rst">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/source/_static/Megan-final/images/favicon.ico">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -762,10 +638,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/source/finalwork/life.rst">
+    <entry file="file://$PROJECT_DIR$/source/_static/Sunday-Final/Calculus_Basic.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="256">
-          <caret line="8" column="33" lean-forward="false" selection-start-line="8" selection-start-column="33" selection-end-line="8" selection-end-column="33" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/finalwork/finalwork.rst">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -773,7 +657,58 @@
     <entry file="file://$PROJECT_DIR$/source/finalwork/science.rst">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="464">
-          <caret line="19" column="21" lean-forward="true" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="21" />
+          <caret line="19" column="21" lean-forward="false" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/finalwork/life.rst">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="8" selection-end-column="55" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_static/Haozu-final/新宝岛.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_static/Haozu-final/鸡.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_static/Haozu-final/鸡汤来咯.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_static/Haozu-final/黑人抬棺.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_static/Haozu-final/黑虎阿福.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_static/Haozu-final/金坷垃.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_static/Haozu-final/诸葛亮.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/finalwork/fun.rst">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="256">
+          <caret line="8" column="57" lean-forward="false" selection-start-line="8" selection-start-column="57" selection-end-line="8" selection-end-column="57" />
           <folding />
         </state>
       </provider>

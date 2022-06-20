@@ -5,5 +5,5 @@
 --------------
 
 .. image:: Megan.ico
-       :scale: 35%
+       :scale: 25%
        :target: ../_static/Megan-final/Megan_final.html
