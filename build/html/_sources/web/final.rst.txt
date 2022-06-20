@@ -17,7 +17,7 @@
 * 诗歌网站
 * 漫画连载
 * Instagram风格的照片墙
-* 抖音短视频网站(视频播放参考https://www.w3schools.com/html/html5_video.as）
+* 抖音短视频网站(视频播放参考https://www.w3schools.com/html/html5_video.asp）
 ……
 
 

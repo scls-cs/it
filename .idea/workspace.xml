@@ -2,7 +2,199 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4d60759e-34c0-42fc-8bf9-b0b86f2f8cd9" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/web/final.rst" afterPath="$PROJECT_DIR$/source/web/final.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/finalwork/OIP-C.jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/finalwork/finalwork.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/finalwork/life.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/finalwork/science.rst" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_static/Elina/Breakfast at Tiffany's.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_static/Elina/La La Land.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_static/Elina/Legally Blonde.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_static/Elina/Roman Holiday.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_static/Elina/The Great Gatsby.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_static/Elina/The Help.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_static/Elina/The Pursuit of Happyness.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_static/Elina/The Shawshank Redemption.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_static/Elina/The Sound of Music.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_static/Elina/Titanic.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_static/Elina/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_static/Julia/1654439239049_截屏2022-06-05 下午10.26.52.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_static/Julia/1654439239054_截屏2022-06-05 下午10.27.05.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_static/Julia/1654439239059_截屏2022-06-05 下午10.27.15.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_static/Julia/Breakfast at Tiffany's.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_static/Julia/Catch Me If You Can.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_static/Julia/Fight Back to School.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_static/Julia/Le fabuleux destin dAmelie Poulain.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_static/Julia/Legally Blonde.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_static/Julia/Leon.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_static/Julia/Mean Girls.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_static/Julia/Pretty Woman.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_static/Julia/The Curious Case of Benjamin Button.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_static/Julia/The Notebook.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_static/Julia/top10_julia.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_static/Megan/images/Movies/1.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_static/Megan/images/Movies/10.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_static/Megan/images/Movies/2.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_static/Megan/images/Movies/3.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_static/Megan/images/Movies/4.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_static/Megan/images/Movies/5.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_static/Megan/images/Movies/6.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_static/Megan/images/Movies/666.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_static/Megan/images/Movies/7.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_static/Megan/images/Movies/8.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_static/Megan/images/Movies/9.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_static/Megan/images/dot.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_static/Megan/images/dotndot.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_static/Megan/images/numbers/0.1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_static/Megan/images/numbers/0.2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_static/Megan/images/numbers/0.3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_static/Megan/images/numbers/0.4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_static/Megan/images/numbers/0.5.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_static/Megan/images/numbers/0.6.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_static/Megan/images/numbers/0.7.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_static/Megan/images/numbers/0.8.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_static/Megan/images/numbers/0.9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_static/Megan/images/numbers/1.1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_static/Megan/images/numbers/1.2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_static/Megan/images/numbers/1.3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_static/Megan/images/numbers/1.4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_static/Megan/images/numbers/1.5.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_static/Megan/images/numbers/1.6.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_static/Megan/images/numbers/1.7.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_static/Megan/images/numbers/1.8.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_static/Megan/images/numbers/1.9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_static/Megan/images/numbers/2.1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_static/Megan/images/numbers/2.2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_static/Megan/images/numbers/2.3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_static/Megan/images/numbers/2.4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_static/Megan/images/numbers/2.5.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_static/Megan/images/numbers/2.6.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_static/Megan/images/numbers/2.7.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_static/Megan/images/numbers/2.8.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_static/Megan/images/numbers/2.9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_static/Megan/images/numbers/3.1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_static/Megan/images/numbers/3.2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_static/Megan/images/numbers/3.3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_static/Megan/images/numbers/3.4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_static/Megan/images/numbers/3.5.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_static/Megan/images/numbers/3.6.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_static/Megan/images/numbers/3.7.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_static/Megan/images/numbers/3.8.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_static/Megan/images/numbers/3.9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_static/Megan/images/numbers/4.1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_static/Megan/images/numbers/4.2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_static/Megan/images/numbers/4.3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_static/Megan/images/numbers/4.4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_static/Megan/images/numbers/4.5.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_static/Megan/images/numbers/4.6.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_static/Megan/images/numbers/4.7.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_static/Megan/images/numbers/4.8.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_static/Megan/images/numbers/4.9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_static/Megan/images/numbers/5.1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_static/Megan/images/numbers/5.2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_static/Megan/images/numbers/5.3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_static/Megan/images/numbers/5.4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_static/Megan/images/numbers/5.5.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_static/Megan/images/numbers/5.6.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_static/Megan/images/numbers/5.7.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_static/Megan/images/numbers/5.8.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_static/Megan/images/numbers/5.9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_static/Megan/images/numbers/6.1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_static/Megan/images/numbers/6.2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_static/Megan/images/numbers/6.3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_static/Megan/images/numbers/6.4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_static/Megan/images/numbers/6.5.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_static/Megan/images/numbers/6.6.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_static/Megan/images/numbers/6.7.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_static/Megan/images/numbers/6.8.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_static/Megan/images/numbers/6.9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_static/Megan/images/numbers/7.1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_static/Megan/images/numbers/7.2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_static/Megan/images/numbers/7.3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_static/Megan/images/numbers/7.4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_static/Megan/images/numbers/7.5.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_static/Megan/images/numbers/7.6.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_static/Megan/images/numbers/7.7.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_static/Megan/images/numbers/7.8.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_static/Megan/images/numbers/7.9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_static/Megan/images/numbers/8.1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_static/Megan/images/numbers/8.2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_static/Megan/images/numbers/8.3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_static/Megan/images/numbers/8.4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_static/Megan/images/numbers/8.5.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_static/Megan/images/numbers/8.6.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_static/Megan/images/numbers/8.7.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_static/Megan/images/numbers/8.8.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_static/Megan/images/numbers/8.9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_static/Megan/images/numbers/9.1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_static/Megan/images/numbers/9.2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_static/Megan/images/numbers/9.3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_static/Megan/images/numbers/9.4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_static/Megan/images/numbers/9.5.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_static/Megan/images/numbers/9.6.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_static/Megan/images/numbers/9.7.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_static/Megan/images/numbers/9.8.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_static/Megan/images/numbers/9.9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_static/Megan/images/numbers/blank.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_static/Megan/images/numbers/y0.3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_static/Megan/images/numbers/y0.4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_static/Megan/images/numbers/y0.5.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_static/Megan/top10_Megan.html" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/doctrees/environment.pickle" afterPath="$PROJECT_DIR$/build/doctrees/environment.pickle" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/doctrees/index.doctree" afterPath="$PROJECT_DIR$/build/doctrees/index.doctree" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/doctrees/web/final.doctree" afterPath="$PROJECT_DIR$/build/doctrees/web/final.doctree" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/html/objects.inv" afterPath="$PROJECT_DIR$/build/html/objects.inv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/html/_sources/index.rst.txt" afterPath="$PROJECT_DIR$/build/html/_sources/index.rst.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/html/_sources/web/final.rst.txt" afterPath="$PROJECT_DIR$/build/html/_sources/web/final.rst.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/html/ai/char.html" afterPath="$PROJECT_DIR$/build/html/ai/char.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/html/ai/compress.html" afterPath="$PROJECT_DIR$/build/html/ai/compress.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/html/ai/digit_recognition.html" afterPath="$PROJECT_DIR$/build/html/ai/digit_recognition.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/html/ai/filter.html" afterPath="$PROJECT_DIR$/build/html/ai/filter.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/html/ai/image.html" afterPath="$PROJECT_DIR$/build/html/ai/image.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/html/ai/image_recognition.html" afterPath="$PROJECT_DIR$/build/html/ai/image_recognition.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/html/ai/pycharm.html" afterPath="$PROJECT_DIR$/build/html/ai/pycharm.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/html/ai/sound.html" afterPath="$PROJECT_DIR$/build/html/ai/sound.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/html/algo/algo.html" afterPath="$PROJECT_DIR$/build/html/algo/algo.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/html/code_example/char.html" afterPath="$PROJECT_DIR$/build/html/code_example/char.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/html/code_example/compress.html" afterPath="$PROJECT_DIR$/build/html/code_example/compress.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/html/code_example/image.html" afterPath="$PROJECT_DIR$/build/html/code_example/image.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/html/code_example/sound.html" afterPath="$PROJECT_DIR$/build/html/code_example/sound.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/html/database/intro.html" afterPath="$PROJECT_DIR$/build/html/database/intro.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/html/final/material.html" afterPath="$PROJECT_DIR$/build/html/final/material.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/html/final/prev.html" afterPath="$PROJECT_DIR$/build/html/final/prev.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/html/genindex.html" afterPath="$PROJECT_DIR$/build/html/genindex.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/html/hardware/configuration.html" afterPath="$PROJECT_DIR$/build/html/hardware/configuration.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/html/hardware/homework.html" afterPath="$PROJECT_DIR$/build/html/hardware/homework.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/html/hardware/organization.html" afterPath="$PROJECT_DIR$/build/html/hardware/organization.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/html/hardware/principle.html" afterPath="$PROJECT_DIR$/build/html/hardware/principle.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/html/index.html" afterPath="$PROJECT_DIR$/build/html/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/html/information/digital.html" afterPath="$PROJECT_DIR$/build/html/information/digital.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/html/information/number_convert.html" afterPath="$PROJECT_DIR$/build/html/information/number_convert.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/html/information/positional_notation.html" afterPath="$PROJECT_DIR$/build/html/information/positional_notation.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/html/midterm/paper.html" afterPath="$PROJECT_DIR$/build/html/midterm/paper.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/html/midterm_review/mid.html" afterPath="$PROJECT_DIR$/build/html/midterm_review/mid.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/html/network/HTTP.html" afterPath="$PROJECT_DIR$/build/html/network/HTTP.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/html/network/TCPIP.html" afterPath="$PROJECT_DIR$/build/html/network/TCPIP.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/html/network/connection.html" afterPath="$PROJECT_DIR$/build/html/network/connection.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/html/network/homework.html" afterPath="$PROJECT_DIR$/build/html/network/homework.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/html/network/hw-1.html" afterPath="$PROJECT_DIR$/build/html/network/hw-1.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/html/network/hw-2.html" afterPath="$PROJECT_DIR$/build/html/network/hw-2.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/html/network/hw-3.html" afterPath="$PROJECT_DIR$/build/html/network/hw-3.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/html/network/introduction.html" afterPath="$PROJECT_DIR$/build/html/network/introduction.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/html/network/overview.html" afterPath="$PROJECT_DIR$/build/html/network/overview.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/html/network/protocol.html" afterPath="$PROJECT_DIR$/build/html/network/protocol.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/html/python_midterm/paper.html" afterPath="$PROJECT_DIR$/build/html/python_midterm/paper.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/html/search.html" afterPath="$PROJECT_DIR$/build/html/search.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/html/searchindex.js" afterPath="$PROJECT_DIR$/build/html/searchindex.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/html/software/classfication.html" afterPath="$PROJECT_DIR$/build/html/software/classfication.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/html/software/definition.html" afterPath="$PROJECT_DIR$/build/html/software/definition.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/html/software/instruction.html" afterPath="$PROJECT_DIR$/build/html/software/instruction.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/html/software/language.html" afterPath="$PROJECT_DIR$/build/html/software/language.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/html/term/term.html" afterPath="$PROJECT_DIR$/build/html/term/term.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/html/web/final.html" afterPath="$PROJECT_DIR$/build/html/web/final.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/html/web/html.html" afterPath="$PROJECT_DIR$/build/html/web/html.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/html/web/work.html" afterPath="$PROJECT_DIR$/build/html/web/work.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/index.rst" afterPath="$PROJECT_DIR$/source/index.rst" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -13,11 +205,51 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="final.rst" pinned="false" current-in-tab="true">
+      <file leaf-file-name="final.rst" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/source/web/final.rst">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="563">
+            <state relative-caret-position="608">
               <caret line="19" column="62" lean-forward="false" selection-start-line="19" selection-start-column="62" selection-end-line="19" selection-end-column="62" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="finalwork.rst" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/source/finalwork/finalwork.rst">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="96">
+              <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Calculus_Basic.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/source/_static/Sunday-Final/Calculus_Basic.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="science.rst" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/source/finalwork/science.rst">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="256">
+              <caret line="8" column="34" lean-forward="false" selection-start-line="8" selection-start-column="34" selection-end-line="8" selection-end-column="34" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="life.rst" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/source/finalwork/life.rst">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="96">
+              <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -26,58 +258,38 @@
       <file leaf-file-name="index.rst" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/source/index.rst">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="208">
-              <caret line="124" column="0" lean-forward="false" selection-start-line="124" selection-start-column="0" selection-end-line="124" selection-end-column="0" />
+            <state relative-caret-position="432">
+              <caret line="133" column="19" lean-forward="false" selection-start-line="133" selection-start-column="19" selection-end-line="133" selection-end-column="19" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="final.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../../../侯辰菱_final(2)/final.html">
+      <file leaf-file-name="html.rst" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/source/web/html.rst">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="101">
-              <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="19" selection-end-column="1" />
+            <state relative-caret-position="128">
+              <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="jojo.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../../../julia_final/jojo.html">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/source/web/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-847">
+            <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="final.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../../../赵书涵-final/final.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-47">
-              <caret line="72" column="60" lean-forward="false" selection-start-line="72" selection-start-column="58" selection-end-line="72" selection-end-column="60" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="top10_张天宇.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../../../张天宇_final/top10_张天宇.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-607">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="work.rst" pinned="false" current-in-tab="false">
+      <file leaf-file-name="work.rst" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/source/web/work.rst">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-2128">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="1" selection-end-column="10" />
+            <state relative-caret-position="200">
+              <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -152,8 +364,11 @@
         <option value="$PROJECT_DIR$/source/web/work.rst" />
         <option value="$PROJECT_DIR$/build/html/_sources/web/final.rst" />
         <option value="$PROJECT_DIR$/source/web/html.rst" />
-        <option value="$PROJECT_DIR$/source/index.rst" />
         <option value="$PROJECT_DIR$/source/web/final.rst" />
+        <option value="$PROJECT_DIR$/source/finalwork/finalwork.rst" />
+        <option value="$PROJECT_DIR$/source/index.rst" />
+        <option value="$PROJECT_DIR$/source/finalwork/life.rst" />
+        <option value="$PROJECT_DIR$/source/finalwork/science.rst" />
       </list>
     </option>
   </component>
@@ -164,7 +379,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="146" />
+    <option name="x" value="107" />
+    <option name="y" value="259" />
     <option name="width" value="1440" />
     <option name="height" value="900" />
   </component>
@@ -200,14 +416,32 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="cs-intro" type="b2602c69:ProjectViewProjectNode" />
               <item name="cs-intro" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cs-intro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cs-intro" type="462c0819:PsiDirectoryNode" />
+              <item name="build" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cs-intro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cs-intro" type="462c0819:PsiDirectoryNode" />
+              <item name="build" type="462c0819:PsiDirectoryNode" />
+              <item name="html" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cs-intro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cs-intro" type="462c0819:PsiDirectoryNode" />
+              <item name="build" type="462c0819:PsiDirectoryNode" />
+              <item name="html" type="462c0819:PsiDirectoryNode" />
+              <item name="_static" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="cs-intro" type="b2602c69:ProjectViewProjectNode" />
@@ -224,7 +458,14 @@
               <item name="cs-intro" type="b2602c69:ProjectViewProjectNode" />
               <item name="cs-intro" type="462c0819:PsiDirectoryNode" />
               <item name="source" type="462c0819:PsiDirectoryNode" />
-              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="_static" type="462c0819:PsiDirectoryNode" />
+              <item name="Sunday-Final" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cs-intro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cs-intro" type="462c0819:PsiDirectoryNode" />
+              <item name="source" type="462c0819:PsiDirectoryNode" />
+              <item name="finalwork" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -244,18 +485,18 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/source/web" />
-      <recent name="$PROJECT_DIR$/source/_static" />
-      <recent name="$PROJECT_DIR$/source/web/Elina" />
-      <recent name="$PROJECT_DIR$/source/database" />
-      <recent name="$PROJECT_DIR$/source/ai" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/source/ai" />
       <recent name="$PROJECT_DIR$/source/python_midterm" />
       <recent name="$PROJECT_DIR$/source/midterm" />
       <recent name="$PROJECT_DIR$/source/final" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/source/finalwork" />
+      <recent name="$PROJECT_DIR$/source/_static" />
+      <recent name="$PROJECT_DIR$/source" />
+      <recent name="$PROJECT_DIR$/source/web" />
+      <recent name="$PROJECT_DIR$/source/web/Elina" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -294,40 +535,28 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="146" y="0" width="1440" height="900" extended-state="0" />
+    <frame x="107" y="259" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25178826" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24320458" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32945737" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32945737" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32945737" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2532189" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32945737" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32945737" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32945737" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32945737" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32945737" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.30758226" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32945737" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2532189" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -341,53 +570,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/source/ai/image.rst">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="512">
-          <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="17" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/code_example/char.rst">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="20" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/network/introduction.rst">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1760">
-          <caret line="55" column="0" lean-forward="false" selection-start-line="55" selection-start-column="0" selection-end-line="56" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/code_example/compress.rst">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="3" column="6" lean-forward="false" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/network/overview.rst">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1120">
-          <caret line="35" column="4" lean-forward="false" selection-start-line="35" selection-start-column="4" selection-end-line="35" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/hardware/configuration.rst">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="753">
-          <caret line="64" column="31" lean-forward="false" selection-start-line="58" selection-start-column="0" selection-end-line="64" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/ai/matrix.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/source/ai/pip.jpeg">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -559,14 +741,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/source/web/work.rst">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2128">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="1" selection-end-column="10" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/source/web/paragraph.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="256">
@@ -589,32 +763,10 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/source/web/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/source/python_midterm/paper.rst">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/web/html.rst">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="128">
-          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/index.rst">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="208">
-          <caret line="124" column="0" lean-forward="false" selection-start-line="124" selection-start-column="0" selection-end-line="124" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -639,18 +791,105 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/../../../赵书涵-final/final.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-47">
+          <caret line="72" column="60" lean-forward="false" selection-start-line="72" selection-start-column="58" selection-end-line="72" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/../../../侯辰菱_final(2)/final.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="101">
-          <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="19" selection-end-column="1" />
+        <state relative-caret-position="32">
+          <caret line="29" column="12" lean-forward="false" selection-start-line="29" selection-start-column="7" selection-end-line="29" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../julia_final/jojo.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../张天宇_final/top10_张天宇.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/web/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/web/html.rst">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/source/web/final.rst">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="563">
+        <state relative-caret-position="608">
           <caret line="19" column="62" lean-forward="false" selection-start-line="19" selection-start-column="62" selection-end-line="19" selection-end-column="62" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_static/Sunday-Final/Calculus_Basic.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/index.rst">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="133" column="19" lean-forward="false" selection-start-line="133" selection-start-column="19" selection-end-line="133" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/finalwork/finalwork.rst">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/finalwork/life.rst">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/finalwork/science.rst">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="256">
+          <caret line="8" column="34" lean-forward="false" selection-start-line="8" selection-start-column="34" selection-end-line="8" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/web/work.rst">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
           <folding />
         </state>
       </provider>

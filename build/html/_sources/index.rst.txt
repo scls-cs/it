@@ -123,7 +123,15 @@ HTML课件和作业已经发布。
    web/work.rst
    web/final.rst
 
+.. toctree::
+   :caption: 期末作业展示
+   :hidden:
+   :maxdepth: 10
 
+   finalwork/life.rst
+   finalwork/science.rst
+   finalwork/art.rst
+   finalwork/fun.rst
 
 
 
