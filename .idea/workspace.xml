@@ -2,80 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4d60759e-34c0-42fc-8bf9-b0b86f2f8cd9" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/finalwork/emily.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/source/Emily-final/Welcome_to_Wonderland.mp3" afterPath="$PROJECT_DIR$/source/_static/Emily-final/Welcome_to_Wonderland.mp3" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/source/Emily-final/bg4.jpg" afterPath="$PROJECT_DIR$/source/_static/Emily-final/bg4.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/source/Emily-final/dazzling_love.mp3" afterPath="$PROJECT_DIR$/source/_static/Emily-final/dazzling_love.mp3" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/source/Emily-final/food.html" afterPath="$PROJECT_DIR$/source/_static/Emily-final/food.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/source/Emily-final/food1.jpg" afterPath="$PROJECT_DIR$/source/_static/Emily-final/food1.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/source/Emily-final/food10.jpg" afterPath="$PROJECT_DIR$/source/_static/Emily-final/food10.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/source/Emily-final/food11.jpg" afterPath="$PROJECT_DIR$/source/_static/Emily-final/food11.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/source/Emily-final/food12.jpg" afterPath="$PROJECT_DIR$/source/_static/Emily-final/food12.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/source/Emily-final/food13.jpg" afterPath="$PROJECT_DIR$/source/_static/Emily-final/food13.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/source/Emily-final/food14.jpg" afterPath="$PROJECT_DIR$/source/_static/Emily-final/food14.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/source/Emily-final/food15.jpg" afterPath="$PROJECT_DIR$/source/_static/Emily-final/food15.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/source/Emily-final/food16.jpg" afterPath="$PROJECT_DIR$/source/_static/Emily-final/food16.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/source/Emily-final/food17.jpg" afterPath="$PROJECT_DIR$/source/_static/Emily-final/food17.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/source/Emily-final/food18.jpg" afterPath="$PROJECT_DIR$/source/_static/Emily-final/food18.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/source/Emily-final/food19.jpg" afterPath="$PROJECT_DIR$/source/_static/Emily-final/food19.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/source/Emily-final/food2.jpg" afterPath="$PROJECT_DIR$/source/_static/Emily-final/food2.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/source/Emily-final/food20.jpg" afterPath="$PROJECT_DIR$/source/_static/Emily-final/food20.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/source/Emily-final/food21.jpg" afterPath="$PROJECT_DIR$/source/_static/Emily-final/food21.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/source/Emily-final/food22.jpg" afterPath="$PROJECT_DIR$/source/_static/Emily-final/food22.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/source/Emily-final/food23.jpg" afterPath="$PROJECT_DIR$/source/_static/Emily-final/food23.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/source/Emily-final/food24.jpg" afterPath="$PROJECT_DIR$/source/_static/Emily-final/food24.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/source/Emily-final/food3.jpg" afterPath="$PROJECT_DIR$/source/_static/Emily-final/food3.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/source/Emily-final/food4.jpg" afterPath="$PROJECT_DIR$/source/_static/Emily-final/food4.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/source/Emily-final/food5.jpg" afterPath="$PROJECT_DIR$/source/_static/Emily-final/food5.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/source/Emily-final/food6.jpg" afterPath="$PROJECT_DIR$/source/_static/Emily-final/food6.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/source/Emily-final/food7.jpg" afterPath="$PROJECT_DIR$/source/_static/Emily-final/food7.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/source/Emily-final/food8.jpg" afterPath="$PROJECT_DIR$/source/_static/Emily-final/food8.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/source/Emily-final/food9.jpg" afterPath="$PROJECT_DIR$/source/_static/Emily-final/food9.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/source/Emily-final/index.html" afterPath="$PROJECT_DIR$/source/_static/Emily-final/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/source/Emily-final/let_it_go.mp3" afterPath="$PROJECT_DIR$/source/_static/Emily-final/let_it_go.mp3" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/source/Emily-final/s1.jpg" afterPath="$PROJECT_DIR$/source/_static/Emily-final/s1.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/source/Emily-final/s10.jpg" afterPath="$PROJECT_DIR$/source/_static/Emily-final/s10.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/source/Emily-final/s11.jpg" afterPath="$PROJECT_DIR$/source/_static/Emily-final/s11.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/source/Emily-final/s12.jpg" afterPath="$PROJECT_DIR$/source/_static/Emily-final/s12.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/source/Emily-final/s13.jpg" afterPath="$PROJECT_DIR$/source/_static/Emily-final/s13.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/source/Emily-final/s14.jpg" afterPath="$PROJECT_DIR$/source/_static/Emily-final/s14.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/source/Emily-final/s15.jpg" afterPath="$PROJECT_DIR$/source/_static/Emily-final/s15.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/source/Emily-final/s16.mp4" afterPath="$PROJECT_DIR$/source/_static/Emily-final/s16.mp4" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/source/Emily-final/s2.jpg" afterPath="$PROJECT_DIR$/source/_static/Emily-final/s2.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/source/Emily-final/s3.jpg" afterPath="$PROJECT_DIR$/source/_static/Emily-final/s3.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/source/Emily-final/s4.jpg" afterPath="$PROJECT_DIR$/source/_static/Emily-final/s4.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/source/Emily-final/s5.jpg" afterPath="$PROJECT_DIR$/source/_static/Emily-final/s5.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/source/Emily-final/s6.jpg" afterPath="$PROJECT_DIR$/source/_static/Emily-final/s6.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/source/Emily-final/s7.jpg" afterPath="$PROJECT_DIR$/source/_static/Emily-final/s7.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/source/Emily-final/s8.jpg" afterPath="$PROJECT_DIR$/source/_static/Emily-final/s8.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/source/Emily-final/s9.jpg" afterPath="$PROJECT_DIR$/source/_static/Emily-final/s9.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/source/Emily-final/school_life.html" afterPath="$PROJECT_DIR$/source/_static/Emily-final/school_life.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/source/Emily-final/t22.mp4" afterPath="$PROJECT_DIR$/source/_static/Emily-final/t22.mp4" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/source/Emily-final/this_song_save_my_life.mp3" afterPath="$PROJECT_DIR$/source/_static/Emily-final/this_song_save_my_life.mp3" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/source/Emily-final/tour1.jpg" afterPath="$PROJECT_DIR$/source/_static/Emily-final/tour1.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/source/Emily-final/tour10.jpg" afterPath="$PROJECT_DIR$/source/_static/Emily-final/tour10.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/source/Emily-final/tour11.jpg" afterPath="$PROJECT_DIR$/source/_static/Emily-final/tour11.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/source/Emily-final/tour12.jpg" afterPath="$PROJECT_DIR$/source/_static/Emily-final/tour12.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/source/Emily-final/tour13.jpg" afterPath="$PROJECT_DIR$/source/_static/Emily-final/tour13.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/source/Emily-final/tour14.jpg" afterPath="$PROJECT_DIR$/source/_static/Emily-final/tour14.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/source/Emily-final/tour15.jpg" afterPath="$PROJECT_DIR$/source/_static/Emily-final/tour15.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/source/Emily-final/tour16.jpg" afterPath="$PROJECT_DIR$/source/_static/Emily-final/tour16.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/source/Emily-final/tour17.jpg" afterPath="$PROJECT_DIR$/source/_static/Emily-final/tour17.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/source/Emily-final/tour18.jpg" afterPath="$PROJECT_DIR$/source/_static/Emily-final/tour18.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/source/Emily-final/tour19.jpg" afterPath="$PROJECT_DIR$/source/_static/Emily-final/tour19.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/source/Emily-final/tour2.jpg" afterPath="$PROJECT_DIR$/source/_static/Emily-final/tour2.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/source/Emily-final/tour20.jpg" afterPath="$PROJECT_DIR$/source/_static/Emily-final/tour20.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/source/Emily-final/tour21.jpg" afterPath="$PROJECT_DIR$/source/_static/Emily-final/tour21.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/source/Emily-final/tour3.jpg" afterPath="$PROJECT_DIR$/source/_static/Emily-final/tour3.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/source/Emily-final/tour4.jpg" afterPath="$PROJECT_DIR$/source/_static/Emily-final/tour4.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/source/Emily-final/tour5.jpg" afterPath="$PROJECT_DIR$/source/_static/Emily-final/tour5.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/source/Emily-final/tour6.jpg" afterPath="$PROJECT_DIR$/source/_static/Emily-final/tour6.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/source/Emily-final/tour7.jpg" afterPath="$PROJECT_DIR$/source/_static/Emily-final/tour7.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/source/Emily-final/tour8.jpg" afterPath="$PROJECT_DIR$/source/_static/Emily-final/tour8.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/source/Emily-final/tour9.jpg" afterPath="$PROJECT_DIR$/source/_static/Emily-final/tour9.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/source/Emily-final/travel.html" afterPath="$PROJECT_DIR$/source/_static/Emily-final/travel.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/finalwork/jenny.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/finalwork/film.rst" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/finalwork/life.rst" afterPath="$PROJECT_DIR$/source/finalwork/life.rst" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/finalwork/music.rst" afterPath="$PROJECT_DIR$/source/finalwork/music.rst" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -96,11 +27,41 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="life.rst" pinned="false" current-in-tab="true">
+      <file leaf-file-name="life.rst" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/source/finalwork/life.rst">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="372">
-              <caret line="23" column="44" lean-forward="false" selection-start-line="23" selection-start-column="44" selection-end-line="23" selection-end-column="44" />
+            <state relative-caret-position="480">
+              <caret line="15" column="44" lean-forward="false" selection-start-line="15" selection-start-column="44" selection-end-line="15" selection-end-column="44" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="music.rst" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/source/finalwork/music.rst">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="297">
+              <caret line="21" column="65" lean-forward="false" selection-start-line="21" selection-start-column="65" selection-end-line="21" selection-end-column="65" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Music1.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/source/_static/YangJing_final/Music1.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-731">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="film.rst" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/source/finalwork/film.rst">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="2" lean-forward="false" selection-start-line="0" selection-start-column="2" selection-end-line="0" selection-end-column="2" />
               <folding />
             </state>
           </provider>
@@ -145,33 +106,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="music.rst" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/source/finalwork/music.rst">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="224">
-              <caret line="7" column="16" lean-forward="false" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="manga.rst" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/source/finalwork/manga.rst">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="256">
-              <caret line="8" column="43" lean-forward="false" selection-start-line="8" selection-start-column="43" selection-end-line="8" selection-end-column="43" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="OIP-C.jpeg" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/source/finalwork/OIP-C.jpeg">
-          <provider selected="true" editor-type-id="images">
-            <state />
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="final.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/source/_static/Elina-final/final.html">
           <provider selected="true" editor-type-id="text-editor">
@@ -211,6 +145,7 @@
       <find>dazzling_love.mp3</find>
       <find>school life</find>
       <find>this song</find>
+      <find>HTML final</find>
     </findStrings>
     <replaceStrings>
       <replace>images</replace>
@@ -222,7 +157,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/source/network/introduction.rst" />
         <option value="$PROJECT_DIR$/source/network/hw-3.rst" />
         <option value="$PROJECT_DIR$/source/term/term.rst" />
         <option value="$PROJECT_DIR$/source/final/material.rst" />
@@ -269,10 +203,11 @@
         <option value="$PROJECT_DIR$/source/_static/Elina-final/Ranking.html" />
         <option value="$PROJECT_DIR$/source/finalwork/art.rst" />
         <option value="$PROJECT_DIR$/source/index.rst" />
-        <option value="$PROJECT_DIR$/source/finalwork/music.rst" />
         <option value="$PROJECT_DIR$/source/finalwork/manga.rst" />
         <option value="$PROJECT_DIR$/source/Emily-final/index.html" />
+        <option value="$PROJECT_DIR$/source/finalwork/film.rst" />
         <option value="$PROJECT_DIR$/source/finalwork/life.rst" />
+        <option value="$PROJECT_DIR$/source/finalwork/music.rst" />
       </list>
     </option>
   </component>
@@ -362,7 +297,7 @@
               <item name="cs-intro" type="462c0819:PsiDirectoryNode" />
               <item name="source" type="462c0819:PsiDirectoryNode" />
               <item name="_static" type="462c0819:PsiDirectoryNode" />
-              <item name="Emily-final" type="462c0819:PsiDirectoryNode" />
+              <item name="YangJing_final" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="cs-intro" type="b2602c69:ProjectViewProjectNode" />
@@ -402,10 +337,10 @@
       <recent name="$PROJECT_DIR$/source/final" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/source/finalwork" />
       <recent name="$PROJECT_DIR$/source/_static" />
       <recent name="$PROJECT_DIR$/source/Emily-final" />
       <recent name="$PROJECT_DIR$/source/_static/Julia-final" />
-      <recent name="$PROJECT_DIR$/source/finalwork" />
       <recent name="$PROJECT_DIR$/source" />
     </key>
   </component>
@@ -493,18 +428,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/source/_static/Lily/39dc364a9dd17216ee9c7086bd51bb04.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/conf.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3360">
-          <caret line="105" column="20" lean-forward="false" selection-start-line="105" selection-start-column="20" selection-end-line="105" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/build/html/web/html.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="256">
@@ -734,14 +657,6 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/source/finalwork/music.rst">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="224">
-          <caret line="7" column="16" lean-forward="false" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/source/finalwork/manga.rst">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="256">
@@ -802,10 +717,34 @@
         <state />
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/source/finalwork/film.rst">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="2" lean-forward="false" selection-start-line="0" selection-start-column="2" selection-end-line="0" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_static/YangJing_final/Music1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-731">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/source/finalwork/life.rst">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="372">
-          <caret line="23" column="44" lean-forward="false" selection-start-line="23" selection-start-column="44" selection-end-line="23" selection-end-column="44" />
+        <state relative-caret-position="480">
+          <caret line="15" column="44" lean-forward="false" selection-start-line="15" selection-start-column="44" selection-end-line="15" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/finalwork/music.rst">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="21" column="65" lean-forward="false" selection-start-line="21" selection-start-column="65" selection-end-line="21" selection-end-column="65" />
           <folding />
         </state>
       </provider>

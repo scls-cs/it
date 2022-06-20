@@ -13,7 +13,7 @@ Emily's personal space(Emily)
 
 .. image:: emily.jpg
        :scale: 8%
-       :target: ../_static/Megan-final/Megan_final.html
+       :target: ../_static/Emily-final/index.html
 
 
 Welcome to Tree Hole!(Lily)
