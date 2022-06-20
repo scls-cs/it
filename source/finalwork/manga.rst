@@ -1,9 +1,9 @@
-艺术主题馆
+动漫主题馆
 **********
 
-Elina's Music World(Elina)
+Jojo's Bizarre Adventure(Julia)
 --------------
 
-.. image:: elina.jpg
-       :scale: 5%
-       :target: ../_static/Elina-final/final.html
+.. image:: julia.jpeg
+       :scale: 30%
+       :target: ../_static/Julia-final/jojo.html

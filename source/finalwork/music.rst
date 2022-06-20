@@ -5,7 +5,7 @@ Elina's Music World(Elina)
 --------------
 
 .. image:: elina.jpg
-       :scale: 8%
+       :scale: 6%
        :target: ../_static/Elina-final/final.html
 
 R's Music Shop(Rebecca)
