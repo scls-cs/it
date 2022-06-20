@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4d60759e-34c0-42fc-8bf9-b0b86f2f8cd9" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/finalwork/haozu.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/finalwork/fun.rst" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/source/_static/Megan-final/images/标题.PNG" afterPath="$PROJECT_DIR$/source/_static/Megan-final/images/标题.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/finalwork/life.rst" afterPath="$PROJECT_DIR$/source/finalwork/life.rst" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/_static/Megan-final/images/Megan_final.html" afterPath="$PROJECT_DIR$/source/_static/Megan-final/images/Megan_final.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/index.rst" afterPath="$PROJECT_DIR$/source/index.rst" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -26,11 +26,41 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="fun.rst" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Megan_final.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/source/_static/Megan-final/images/Megan_final.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="420">
+              <caret line="24" column="25" lean-forward="false" selection-start-line="24" selection-start-column="25" selection-end-line="24" selection-end-column="25" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.rst" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/source/index.rst">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="304">
+              <caret line="129" column="0" lean-forward="true" selection-start-line="129" selection-start-column="0" selection-end-line="129" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="fun.rst" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/source/finalwork/fun.rst">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="256">
               <caret line="8" column="57" lean-forward="false" selection-start-line="8" selection-start-column="57" selection-end-line="8" selection-end-column="57" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="finalwork.rst" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/source/finalwork/finalwork.rst">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="7" lean-forward="true" selection-start-line="0" selection-start-column="7" selection-end-line="0" selection-end-column="7" />
               <folding />
             </state>
           </provider>
@@ -45,41 +75,6 @@
       </file>
       <file leaf-file-name="鸡.jpg" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/source/_static/Haozu-final/鸡.jpg">
-          <provider selected="true" editor-type-id="images">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="鸡汤来咯.jpg" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/source/_static/Haozu-final/鸡汤来咯.jpg">
-          <provider selected="true" editor-type-id="images">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="黑人抬棺.jpg" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/source/_static/Haozu-final/黑人抬棺.jpg">
-          <provider selected="true" editor-type-id="images">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="黑虎阿福.jpg" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/source/_static/Haozu-final/黑虎阿福.jpg">
-          <provider selected="true" editor-type-id="images">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="金坷垃.jpg" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/source/_static/Haozu-final/金坷垃.jpg">
-          <provider selected="true" editor-type-id="images">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="诸葛亮.jpg" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/source/_static/Haozu-final/诸葛亮.jpg">
           <provider selected="true" editor-type-id="images">
             <state />
           </provider>
@@ -165,11 +160,12 @@
         <option value="$PROJECT_DIR$/build/html/_sources/web/final.rst" />
         <option value="$PROJECT_DIR$/source/web/html.rst" />
         <option value="$PROJECT_DIR$/source/web/final.rst" />
-        <option value="$PROJECT_DIR$/source/finalwork/finalwork.rst" />
-        <option value="$PROJECT_DIR$/source/index.rst" />
         <option value="$PROJECT_DIR$/source/finalwork/science.rst" />
         <option value="$PROJECT_DIR$/source/finalwork/life.rst" />
         <option value="$PROJECT_DIR$/source/finalwork/fun.rst" />
+        <option value="$PROJECT_DIR$/source/finalwork/finalwork.rst" />
+        <option value="$PROJECT_DIR$/source/index.rst" />
+        <option value="$PROJECT_DIR$/source/_static/Megan-final/images/Megan_final.html" />
       </list>
     </option>
   </component>
@@ -267,7 +263,7 @@
               <item name="cs-intro" type="462c0819:PsiDirectoryNode" />
               <item name="source" type="462c0819:PsiDirectoryNode" />
               <item name="_static" type="462c0819:PsiDirectoryNode" />
-              <item name="Haozu-final" type="462c0819:PsiDirectoryNode" />
+              <item name="Megan-final" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="cs-intro" type="b2602c69:ProjectViewProjectNode" />
@@ -275,6 +271,7 @@
               <item name="source" type="462c0819:PsiDirectoryNode" />
               <item name="_static" type="462c0819:PsiDirectoryNode" />
               <item name="Megan-final" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="cs-intro" type="b2602c69:ProjectViewProjectNode" />
@@ -393,13 +390,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/source/web/heading.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="320">
-          <caret line="10" column="7" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/.readthedocs.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -580,14 +570,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/source/index.rst">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="133" column="19" lean-forward="false" selection-start-line="133" selection-start-column="19" selection-end-line="133" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/source/web/work.rst">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="256">
@@ -646,22 +628,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/source/finalwork/finalwork.rst">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/finalwork/science.rst">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="464">
-          <caret line="19" column="21" lean-forward="false" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/source/finalwork/life.rst">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="96">
@@ -709,6 +675,38 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="256">
           <caret line="8" column="57" lean-forward="false" selection-start-line="8" selection-start-column="57" selection-end-line="8" selection-end-column="57" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/finalwork/finalwork.rst">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="7" lean-forward="true" selection-start-line="0" selection-start-column="7" selection-end-line="0" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/index.rst">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="129" column="0" lean-forward="true" selection-start-line="129" selection-start-column="0" selection-end-line="129" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/finalwork/science.rst">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="464">
+          <caret line="19" column="21" lean-forward="false" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_static/Megan-final/images/Megan_final.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="24" column="25" lean-forward="false" selection-start-line="24" selection-start-column="25" selection-end-line="24" selection-end-column="25" />
           <folding />
         </state>
       </provider>

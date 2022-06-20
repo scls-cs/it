@@ -124,7 +124,7 @@ HTML课件和作业已经发布。
    web/final.rst
 
 .. toctree::
-   :caption: 期末作业展示
+   :caption: 期末作业展示（陆续上传中）
    :hidden:
    :maxdepth: 10
 
