@@ -130,7 +130,8 @@ HTML课件和作业已经发布。
 
    finalwork/life.rst
    finalwork/science.rst
-   finalwork/art.rst
+   finalwork/music.rst
+   finalwork/manga.rst
    finalwork/fun.rst
 
 
