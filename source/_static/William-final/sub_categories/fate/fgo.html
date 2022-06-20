@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-9">
+        <title>Fate/Grand Order</title>
+    </head>
+    <style type="text/css">
+        *{
+            margin: 0 auto;
+            padding: 0;
+            transition: all 0.35s;
+        }
+        div{
+            display: inline-block;
+        }
+        ul{
+            display: table;
+        }
+        ul a{
+            text-decoration: none;
+            color:white;
+        }
+        ul li{
+            list-style: none;
+            float:left;
+            width: 100px;
+            height: 60px;
+            line-height: 60px;
+            text-align: center;
+            background-color: black;
+            color:white;
+            font-size: medium;
+        }
+        ul li:hover{
+            background-color:white;
+            color:black;
+        }
+        ul li:hover a{
+            color:black;
+        }
+        ul li ul li{
+            display: none;
+        }
+        ul li:hover ul li{
+            display: inline-block;
+        }
+        ul li:hover ul a{
+            color: white;
+        }
+        ul li ul li:hover a{
+            color: black;
+        }
+        .navigation{
+            position: absolute;
+        }
+        .main_content{
+            width: fit-content;
+            position: absolute;
+            top:200px;
+            padding: 20px;
+            left: 50%;
+            right: 50%;
+            transform: translateX(-50%);
+        }
+        button{
+            background-color: black;
+            color: white;
+            text-align: center;
+            border: transparent;
+            padding: 10px;
+        }
+        button:hover{
+            background-color: white;
+            color: black;
+        }
+    </style>
+    <body>
+        <div class = "navigation">
+            <ul>
+                <li><a href = "../../index.html">首页</a></li>
+                <li><a href = "#"></a>Fate系列</a>
+                    <ul>
+                        <li><a href = "fsn_06.html">FSN 06 TV</a></li>
+                        <li><a href = "fate_zero.html">Fate/Zero</a></li>
+                        <li><a href = "fgo.html">FGO</a></li>
+                    </ul>
+                </li>
+                <li><a href = "#"></a>刀剑神域</a>
+                    <ul>
+                        <li><a href = "../alicization_war/sao.html">SAO</a></li>
+                        <li><a href = "../alicization_war/alo.html">ALO</a></li>
+                    </ul>
+                </li>
+                <li><a href = "#"></a>魔禁系列</a>
+                    <ul>
+                        <li><a href = "../toaru_majutsu_no_index/tmoi_i.html">魔禁I</a></li>
+                        <li><a href = "../toaru_majutsu_no_index/tmoi_ii.html">魔禁II</a></li>
+                        <li><a href = "../toaru_majutsu_no_index/tmoi_iii.html">魔禁III</a></li>
+                        <li><a href = "../toaru_majutsu_no_index/railgun_i.html">超炮I</a></li>
+                        <li><a href = "../toaru_majutsu_no_index/railgun_ii.html">超炮II</a></li>
+                        <li><a href = "../toaru_majutsu_no_index/railgun_iii.html">超炮III</a></li>
+                    </ul>
+                </li>
+                <li><a href = "#"></a>Overlord</a>
+                    <ul>
+                        <li><a href = "../overlord/i.html">S1</a></li>
+                        <li><a href = "../overlord/ii.html">S2</a></li>
+                        <li><a href = "../overlord/iii.html">S3</a></li>
+                    </ul>
+                </li>
+            </ul>
+        </div>
+        <div class = "main_content">
+            <h1>Fate/Grand Order</h1>
+            <br>
+            <iframe id="player" src="https://player.bilibili.com/player.html?bvid=1Ps411Y7r8&as_wide=1&high_quality=1&danmaku=0" allowfullscreen="allowfullscreen" width = "1280" height="720" frameborder = "0"></iframe>
+        </div>
+    </body>
+</html>

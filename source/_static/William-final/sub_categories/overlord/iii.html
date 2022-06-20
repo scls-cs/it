@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-9">
+        <title>Overlord</title>
+    </head>
+    <style type="text/css">
+        *{
+            margin: 0 auto;
+            padding: 0;
+            transition: all 0.35s;
+        }
+        div{
+            display: inline-block;
+        }
+        ul{
+            display: table;
+        }
+        ul a{
+            text-decoration: none;
+            color:white;
+        }
+        ul li{
+            list-style: none;
+            float:left;
+            width: 100px;
+            height: 60px;
+            line-height: 60px;
+            text-align: center;
+            background-color: black;
+            color:white;
+            font-size: medium;
+        }
+        ul li:hover{
+            background-color:white;
+            color:black;
+        }
+        ul li:hover a{
+            color:black;
+        }
+        ul li ul li{
+            display: none;
+        }
+        ul li:hover ul li{
+            display: inline-block;
+        }
+        ul li:hover ul a{
+            color: white;
+        }
+        ul li ul li:hover a{
+            color: black;
+        }
+        .navigation{
+            position: absolute;
+
+        }
+        .main_content{
+            width: fit-content;
+            position: absolute;
+            top:200px;
+            padding: 20px;
+            left: 50%;
+            right: 50%;
+            transform: translateX(-50%);
+        }
+        button{
+            background-color: black;
+            color: white;
+            text-align: center;
+            border: transparent;
+            padding: 10px;
+        }
+        button:hover{
+            background-color: white;
+            color: black;
+        }
+    </style>
+    <script type="text/javascript" src="../../scripts/src_changer.js"></script>
+    <body>
+        <div class = "navigation">
+            <ul>
+                <li><a href = "../../index.html">首页</a></li>
+                <li><a href = "#"></a>Fate系列</a>
+                    <ul>
+                        <li><a href = "../fate/fsn_06.html">FSN 06 TV</a></li>
+                        <li><a href = "../fate/fate_zero.html">Fate/Zero</a></li>
+                        <li><a href = "../fate/fgo.html">FGO</a></li>
+                    </ul>
+                </li>
+                <li><a href = "#"></a>刀剑神域</a>
+                    <ul>
+                        <li><a href = "sao.html">SAO</a></li>
+                        <li><a href = "alo.html">ALO</a></li>
+                    </ul>
+                </li>
+                <li><a href = "#"></a>魔禁系列</a>
+                    <ul>
+                        <li><a href = "../toaru_majutsu_no_index/tmoi_i.html">魔禁I</a></li>
+                        <li><a href = "../toaru_majutsu_no_index/tmoi_ii.html">魔禁II</a></li>
+                        <li><a href = "../toaru_majutsu_no_index/tmoi_iii.html">魔禁III</a></li>
+                        <li><a href = "../toaru_majutsu_no_index/railgun_i.html">超炮I</a></li>
+                        <li><a href = "../toaru_majutsu_no_index/railgun_ii.html">超炮II</a></li>
+                        <li><a href = "../toaru_majutsu_no_index/railgun_iii.html">超炮III</a></li>
+                    </ul>
+                </li>
+                <li><a href = "#"></a>Overlord</a>
+                    <ul>
+                        <li><a href = "i.html">S1</a></li>
+                        <li><a href = "ii.html">S2</a></li>
+                        <li><a href = "iii.html">S3</a></li>
+                    </ul>
+                </li>
+            </ul>
+        </div>
+        <div class = "main_content">
+            <h1>Overlord III</h1>
+            <br>
+            <iframe id="player" src="https://player.bilibili.com/player.html?bvid=1Ds411n7V4&as_wide=1&high_quality=1&danmaku=0" allowfullscreen="allowfullscreen" width = "1280" height="720" frameborder = "0"></iframe>
+            <br>
+            <button onclick="change_src_by_bv('1Ds411n7V4');">1</button>
+            <button onclick="change_src_by_bv('1gs411E7Cv');">2</button>
+            <button onclick="change_src_by_bv('1Xs411P7Kp');">3</button>
+            <button onclick="change_src_by_bv('1Hs411w7o3');">4</button>
+            <button onclick="change_src_by_bv('1qs411g7y5');">5</button>
+            <button onclick="change_src_by_bv('1Ts411M7cR');">6</button>
+            <button onclick="change_src_by_bv('1JW411Q76c');">7</button>
+            <button onclick="change_src_by_bv('1As411c72W');">8</button>
+            <button onclick="change_src_by_bv('15W411Z7A3');">9</button>
+            <button onclick="change_src_by_bv('1YW411C7o7');">10</button>
+            <button onclick="change_src_by_bv('18W41167j5');">11</button>
+            <button onclick="change_src_by_bv('1HW41167Y4');">12</button>
+            <button onclick="change_src_by_bv('1QW411m7VS');">13</button>
+        </div>
+    </body>
+</html>
