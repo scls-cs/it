@@ -132,6 +132,7 @@ HTML课件和作业已经发布。
    finalwork/science.rst
    finalwork/music.rst
    finalwork/manga.rst
+   finalwork/film.rst
    finalwork/fun.rst
 
 

@@ -15,8 +15,15 @@ R's Music Shop(Rebecca)
        :scale: 20%
        :target: ../_static/Rebecca-final/final.html
 
+
 Jenny's Music Player(Jenny)
 --------------------------
 .. image:: jenny.png
        :scale: 25%
        :target: ../_static/YangJing_final/HTML_final_project.html
+
+Oscar designed player(Oscar)
+--------------------------
+.. image:: oscar.jpeg
+       :scale: 50%
+       :target: ../_static/Oscar_final/Oscar_final_1.html
