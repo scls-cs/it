@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4d60759e-34c0-42fc-8bf9-b0b86f2f8cd9" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/_static/Julia-final/jojo20.2.JPG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/_static/Julia-final/jojo20.3.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/conf.py" afterPath="$PROJECT_DIR$/source/conf.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -24,11 +23,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="life.rst" pinned="false" current-in-tab="true">
+      <file leaf-file-name="life.rst" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/source/finalwork/life.rst">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="560">
               <caret line="23" column="50" lean-forward="false" selection-start-line="23" selection-start-column="50" selection-end-line="23" selection-end-column="50" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="conf.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/source/conf.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="209">
+              <caret line="39" column="25" lean-forward="true" selection-start-line="39" selection-start-column="25" selection-end-line="39" selection-end-column="25" />
               <folding />
             </state>
           </provider>
@@ -114,7 +123,6 @@
         <option value="$PROJECT_DIR$/source/web/Elina/index.html" />
         <option value="$PROJECT_DIR$/source/_static.py" />
         <option value="$PROJECT_DIR$/../../../top10_Megan/top10_Megan.html" />
-        <option value="$PROJECT_DIR$/source/conf.py" />
         <option value="$PROJECT_DIR$/../../../top_10 Ray/Website.html" />
         <option value="$PROJECT_DIR$/../../../top_10 Ray/about.html" />
         <option value="$PROJECT_DIR$/../../../Top10_CHLOE/Top10_CHLOE.html" />
@@ -138,6 +146,7 @@
         <option value="$PROJECT_DIR$/source/finalwork/science.rst" />
         <option value="$PROJECT_DIR$/source/finalwork/film.rst" />
         <option value="$PROJECT_DIR$/source/finalwork/life.rst" />
+        <option value="$PROJECT_DIR$/source/conf.py" />
       </list>
     </option>
   </component>
@@ -147,8 +156,10 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="width" value="966" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="52" />
+    <option name="y" value="431" />
+    <option name="width" value="1440" />
     <option name="height" value="900" />
   </component>
   <component name="ProjectId" id="26mRQa141cQWHwPSq3vaF0jbyYS" />
@@ -235,13 +246,6 @@
               <item name="cs-intro" type="462c0819:PsiDirectoryNode" />
               <item name="source" type="462c0819:PsiDirectoryNode" />
               <item name="_static" type="462c0819:PsiDirectoryNode" />
-              <item name="Julia-final" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="cs-intro" type="b2602c69:ProjectViewProjectNode" />
-              <item name="cs-intro" type="462c0819:PsiDirectoryNode" />
-              <item name="source" type="462c0819:PsiDirectoryNode" />
-              <item name="_static" type="462c0819:PsiDirectoryNode" />
               <item name="Lily-final" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -321,7 +325,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1440" height="900" extended-state="6" />
+    <frame x="52" y="431" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24678111" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -356,11 +360,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/source/finalwork/lily.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/source/finalwork/manga.rst">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="480">
@@ -622,6 +621,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="560">
           <caret line="23" column="50" lean-forward="false" selection-start-line="23" selection-start-column="50" selection-end-line="23" selection-end-column="50" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/conf.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="39" column="25" lean-forward="true" selection-start-line="39" selection-start-column="25" selection-end-line="39" selection-end-column="25" />
           <folding />
         </state>
       </provider>
