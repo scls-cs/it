@@ -2,36 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4d60759e-34c0-42fc-8bf9-b0b86f2f8cd9" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/_static/Julia-final/jojo.10.1.JPG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/_static/Julia-final/jojo.10.2.JPG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/_static/Julia-final/jojo.10.3.JPG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/_static/Julia-final/jojo.4.2.JPG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/_static/Julia-final/jojo.4.3.JPG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/_static/Julia-final/C1.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/_static/Julia-final/C10.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/_static/Julia-final/C11.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/_static/Julia-final/C12.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/_static/Julia-final/C13.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/_static/Julia-final/C14.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/_static/Julia-final/C15.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/_static/Julia-final/C16.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/_static/Julia-final/C17.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/_static/Julia-final/C18.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/_static/Julia-final/C19.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/_static/Julia-final/C2.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/_static/Julia-final/C20.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/_static/Julia-final/C21.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/_static/Julia-final/C22.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/_static/Julia-final/C23.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/_static/Julia-final/C24.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/_static/Julia-final/C3.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/_static/Julia-final/C4.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/_static/Julia-final/C5.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/_static/Julia-final/C6.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/_static/Julia-final/C7.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/_static/Julia-final/C8.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/_static/Julia-final/C9.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/_static/Julia-final/jojo.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/_static/Julia-final/jojo1.1.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/_static/Julia-final/jojo1.2.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/_static/Julia-final/jojo1.3.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/_static/Julia-final/jojo1.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -315,6 +290,13 @@
               <item name="source" type="462c0819:PsiDirectoryNode" />
               <item name="_static" type="462c0819:PsiDirectoryNode" />
               <item name="Alicia-final" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cs-intro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cs-intro" type="462c0819:PsiDirectoryNode" />
+              <item name="source" type="462c0819:PsiDirectoryNode" />
+              <item name="_static" type="462c0819:PsiDirectoryNode" />
+              <item name="Julia-final" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="cs-intro" type="b2602c69:ProjectViewProjectNode" />
