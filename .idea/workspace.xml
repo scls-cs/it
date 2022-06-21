@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4d60759e-34c0-42fc-8bf9-b0b86f2f8cd9" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/_static/Julia-final/jojo9.3.JPG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/_static/Julia-final/jojo9.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/_static/Julia-final/jojo10.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/_static/Julia-final/jojo11.1.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/_static/Julia-final/jojo11.2.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -14,13 +16,34 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="film.rst" pinned="false" current-in-tab="true">
+      <file leaf-file-name="film.rst" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/source/finalwork/film.rst">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="480">
+            <state relative-caret-position="672">
               <caret line="15" column="26" lean-forward="true" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
               <folding />
             </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="jojo10.jpg" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/source/_static/Julia-final/jojo10.jpg">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="jojo11.1.JPG" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/source/_static/Julia-final/jojo11.1.JPG">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="jojo11.2.JPG" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/source/_static/Julia-final/jojo11.2.JPG">
+          <provider selected="true" editor-type-id="images">
+            <state />
           </provider>
         </entry>
       </file>
@@ -186,9 +209,7 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="50" />
-    <option name="y" value="114" />
-    <option name="width" value="1440" />
+    <option name="width" value="828" />
     <option name="height" value="900" />
   </component>
   <component name="ProjectId" id="26mRQa141cQWHwPSq3vaF0jbyYS" />
@@ -207,6 +228,9 @@
         </selected-state>
       </profile-state>
     </entry>
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -266,27 +290,6 @@
               <item name="source" type="462c0819:PsiDirectoryNode" />
               <item name="_static" type="462c0819:PsiDirectoryNode" />
               <item name="Alicia-final" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="cs-intro" type="b2602c69:ProjectViewProjectNode" />
-              <item name="cs-intro" type="462c0819:PsiDirectoryNode" />
-              <item name="source" type="462c0819:PsiDirectoryNode" />
-              <item name="_static" type="462c0819:PsiDirectoryNode" />
-              <item name="Julia-final" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="cs-intro" type="b2602c69:ProjectViewProjectNode" />
-              <item name="cs-intro" type="462c0819:PsiDirectoryNode" />
-              <item name="source" type="462c0819:PsiDirectoryNode" />
-              <item name="_static" type="462c0819:PsiDirectoryNode" />
-              <item name="Leo_final" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="cs-intro" type="b2602c69:ProjectViewProjectNode" />
-              <item name="cs-intro" type="462c0819:PsiDirectoryNode" />
-              <item name="source" type="462c0819:PsiDirectoryNode" />
-              <item name="_static" type="462c0819:PsiDirectoryNode" />
-              <item name="Solomon-final" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="cs-intro" type="b2602c69:ProjectViewProjectNode" />
@@ -405,25 +408,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/source/finalwork/elina.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/_static/Megan-final/Megan_final.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="12" column="11" lean-forward="true" selection-start-line="12" selection-start-column="11" selection-end-line="12" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/_static/Elina-final/Type.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="138">
-          <caret line="20" column="12" lean-forward="false" selection-start-line="20" selection-start-column="12" selection-end-line="20" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/source/_static/Elina-final/Ranking.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="23">
@@ -706,10 +690,25 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/source/finalwork/film.rst">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
+        <state relative-caret-position="672">
           <caret line="15" column="26" lean-forward="true" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
           <folding />
         </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_static/Julia-final/jojo10.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_static/Julia-final/jojo11.1.JPG">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_static/Julia-final/jojo11.2.JPG">
+      <provider selected="true" editor-type-id="images">
+        <state />
       </provider>
     </entry>
   </component>
