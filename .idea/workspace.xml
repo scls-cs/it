@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4d60759e-34c0-42fc-8bf9-b0b86f2f8cd9" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/_static/Julia-final/jojo19.3.JPG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/_static/Julia-final/jojo20.1.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/finalwork/life.rst" afterPath="$PROJECT_DIR$/source/finalwork/life.rst" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -17,24 +16,20 @@
       <file leaf-file-name="film.rst" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/source/finalwork/film.rst">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="608">
+            <state relative-caret-position="480">
               <caret line="15" column="26" lean-forward="true" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="jojo19.3.JPG" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/source/_static/Julia-final/jojo19.3.JPG">
-          <provider selected="true" editor-type-id="images">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="jojo20.1.JPG" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/source/_static/Julia-final/jojo20.1.JPG">
-          <provider selected="true" editor-type-id="images">
-            <state />
+      <file leaf-file-name="life.rst" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/source/finalwork/life.rst">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="560">
+              <caret line="23" column="50" lean-forward="false" selection-start-line="23" selection-start-column="50" selection-end-line="23" selection-end-column="50" />
+              <folding />
+            </state>
           </provider>
         </entry>
       </file>
@@ -134,7 +129,6 @@
         <option value="$PROJECT_DIR$/source/_static/Elina-final/Ranking.html" />
         <option value="$PROJECT_DIR$/source/finalwork/art.rst" />
         <option value="$PROJECT_DIR$/source/Emily-final/index.html" />
-        <option value="$PROJECT_DIR$/source/finalwork/life.rst" />
         <option value="$PROJECT_DIR$/source/index.rst" />
         <option value="$PROJECT_DIR$/source/_static/Leo_final/top10_张天宇.html" />
         <option value="$PROJECT_DIR$/source/_static/Elina/index.html" />
@@ -142,6 +136,7 @@
         <option value="$PROJECT_DIR$/source/finalwork/manga.rst" />
         <option value="$PROJECT_DIR$/source/finalwork/science.rst" />
         <option value="$PROJECT_DIR$/source/finalwork/film.rst" />
+        <option value="$PROJECT_DIR$/source/finalwork/life.rst" />
       </list>
     </option>
   </component>
@@ -151,7 +146,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="width" value="966" />
     <option name="height" value="900" />
   </component>
@@ -239,21 +234,7 @@
               <item name="cs-intro" type="462c0819:PsiDirectoryNode" />
               <item name="source" type="462c0819:PsiDirectoryNode" />
               <item name="_static" type="462c0819:PsiDirectoryNode" />
-              <item name="Haozu-final" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="cs-intro" type="b2602c69:ProjectViewProjectNode" />
-              <item name="cs-intro" type="462c0819:PsiDirectoryNode" />
-              <item name="source" type="462c0819:PsiDirectoryNode" />
-              <item name="_static" type="462c0819:PsiDirectoryNode" />
-              <item name="Julia-final" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="cs-intro" type="b2602c69:ProjectViewProjectNode" />
-              <item name="cs-intro" type="462c0819:PsiDirectoryNode" />
-              <item name="source" type="462c0819:PsiDirectoryNode" />
-              <item name="_static" type="462c0819:PsiDirectoryNode" />
-              <item name="Leo-final" type="462c0819:PsiDirectoryNode" />
+              <item name="Lily-final" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="cs-intro" type="b2602c69:ProjectViewProjectNode" />
@@ -338,9 +319,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="966" height="900" extended-state="0" />
+    <frame x="0" y="0" width="1440" height="900" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.37337664" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24678111" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32945737" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -388,14 +370,6 @@
     <entry file="file://$PROJECT_DIR$/source/finalwork/lily.png">
       <provider selected="true" editor-type-id="images">
         <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/finalwork/life.rst">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="15" column="44" lean-forward="false" selection-start-line="15" selection-start-column="44" selection-end-line="15" selection-end-column="44" />
-          <folding />
-        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/source/finalwork/manga.rst">
@@ -627,14 +601,6 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/source/finalwork/film.rst">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="608">
-          <caret line="15" column="26" lean-forward="true" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/source/_static/Julia-final/jojo19.3.JPG">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -643,6 +609,22 @@
     <entry file="file://$PROJECT_DIR$/source/_static/Julia-final/jojo20.1.JPG">
       <provider selected="true" editor-type-id="images">
         <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/finalwork/film.rst">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="15" column="26" lean-forward="true" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/finalwork/life.rst">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="560">
+          <caret line="23" column="50" lean-forward="false" selection-start-line="23" selection-start-column="50" selection-end-line="23" selection-end-column="50" />
+          <folding />
+        </state>
       </provider>
     </entry>
   </component>
