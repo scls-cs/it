@@ -36,7 +36,7 @@ extensions = ['sphinx.ext.autodoc',
     'sphinx.ext.ifconfig',
     'sphinx.ext.viewcode',
     'sphinx.ext.githubpages',
-    'sphinx_rtd_theme'
+    'sphinx_rtd_theme',
     'sphinx.ext.mathjax']
 
 mathjax_path="https://cdn.jsdelivr.net/npm/mathjax@2/MathJax.js?config=TeX-AMS-MML_HTMLorMML"

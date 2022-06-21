@@ -36,8 +36,8 @@
       <file leaf-file-name="conf.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/source/conf.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="328">
-              <caret line="41" column="92" lean-forward="false" selection-start-line="41" selection-start-column="92" selection-end-line="41" selection-end-column="92" />
+            <state relative-caret-position="200">
+              <caret line="38" column="23" lean-forward="false" selection-start-line="38" selection-start-column="23" selection-end-line="38" selection-end-column="23" />
               <folding />
             </state>
           </provider>
@@ -157,7 +157,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="y" value="151" />
+    <option name="x" value="163" />
+    <option name="y" value="483" />
     <option name="width" value="1440" />
     <option name="height" value="900" />
   </component>
@@ -324,7 +325,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="151" width="1440" height="900" extended-state="0" />
+    <frame x="163" y="483" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24678111" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -626,8 +627,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/source/conf.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="328">
-          <caret line="41" column="92" lean-forward="false" selection-start-line="41" selection-start-column="92" selection-end-line="41" selection-end-column="92" />
+        <state relative-caret-position="200">
+          <caret line="38" column="23" lean-forward="false" selection-start-line="38" selection-start-column="23" selection-end-line="38" selection-end-column="23" />
           <folding />
         </state>
       </provider>
