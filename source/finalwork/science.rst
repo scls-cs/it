@@ -18,5 +18,5 @@ Bilibili导看(Ray)
 Maze(Bruce)
 ------------
 .. image:: bruce.jpeg
-       :scale: 20%
+       :scale: 25%
        :target: ../_static/Bruce-final/Bruce_final.html
