@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4d60759e-34c0-42fc-8bf9-b0b86f2f8cd9" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/_static/Julia-final/jojo21.1.JPG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/_static/Julia-final/jojo21.2.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/_static/Sunday-Final/Derivative.html" afterPath="$PROJECT_DIR$/source/_static/Sunday-Final/Derivative.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/_static/Sunday-Final/Infinite Series.html" afterPath="$PROJECT_DIR$/source/_static/Sunday-Final/Infinite Series.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/_static/Sunday-Final/Integral.html" afterPath="$PROJECT_DIR$/source/_static/Sunday-Final/Integral.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/_static/Sunday-Final/Limit.html" afterPath="$PROJECT_DIR$/source/_static/Sunday-Final/Limit.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -34,7 +36,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="conf.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="conf.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/source/conf.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="242">
@@ -47,8 +49,8 @@
       <file leaf-file-name="Calculus_Basic.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/source/_static/Sunday-Final/Calculus_Basic.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="231">
-              <caret line="9" column="20" lean-forward="true" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
+            <state relative-caret-position="224">
+              <caret line="6" column="44" lean-forward="false" selection-start-line="6" selection-start-column="40" selection-end-line="6" selection-end-column="44" />
               <folding />
             </state>
           </provider>
@@ -71,8 +73,38 @@
       <file leaf-file-name="Derivative.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/source/_static/Sunday-Final/Derivative.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="97">
-              <caret line="9" column="20" lean-forward="true" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
+            <state relative-caret-position="224">
+              <caret line="6" column="45" lean-forward="false" selection-start-line="6" selection-start-column="45" selection-end-line="6" selection-end-column="45" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Infinite Series.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/source/_static/Sunday-Final/Infinite Series.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="224">
+              <caret line="6" column="45" lean-forward="false" selection-start-line="6" selection-start-column="45" selection-end-line="6" selection-end-column="45" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Integral.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/source/_static/Sunday-Final/Integral.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="224">
+              <caret line="6" column="45" lean-forward="false" selection-start-line="6" selection-start-column="45" selection-end-line="6" selection-end-column="45" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Limit.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/source/_static/Sunday-Final/Limit.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="224">
+              <caret line="6" column="45" lean-forward="false" selection-start-line="6" selection-start-column="45" selection-end-line="6" selection-end-column="45" />
               <folding />
             </state>
           </provider>
@@ -118,8 +150,8 @@
       <find>shawsha</find>
       <find>Oscar</find>
       <find>spatial</find>
-      <find>http</find>
       <find>path</find>
+      <find>http</find>
     </findStrings>
     <replaceStrings>
       <replace>images</replace>
@@ -131,10 +163,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/source/network/hw-1.rst" />
-        <option value="$PROJECT_DIR$/source/algo/algo.py" />
-        <option value="$PROJECT_DIR$/source/algo/algo.rst" />
-        <option value="$PROJECT_DIR$/source/python_midterm/midterm.rst" />
         <option value="$PROJECT_DIR$/.readthedocs.yml" />
         <option value="$PROJECT_DIR$/docs/requirements.txt" />
         <option value="$PROJECT_DIR$/source/python_midterm/paper.rst" />
@@ -182,6 +210,10 @@
         <option value="$PROJECT_DIR$/source/finalwork/life.rst" />
         <option value="$PROJECT_DIR$/source/conf.py" />
         <option value="$PROJECT_DIR$/source/_static/Sunday-Final/Calculus_Basic.html" />
+        <option value="$PROJECT_DIR$/source/_static/Sunday-Final/Derivative.html" />
+        <option value="$PROJECT_DIR$/source/_static/Sunday-Final/Infinite Series.html" />
+        <option value="$PROJECT_DIR$/source/_static/Sunday-Final/Integral.html" />
+        <option value="$PROJECT_DIR$/source/_static/Sunday-Final/Limit.html" />
       </list>
     </option>
   </component>
@@ -191,9 +223,9 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="101" />
-    <option name="y" value="7" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-46" />
+    <option name="y" value="3" />
     <option name="width" value="1440" />
     <option name="height" value="900" />
   </component>
@@ -381,7 +413,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1440" height="900" extended-state="6" />
+    <frame x="-46" y="3" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24678111" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -416,24 +448,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/source/finalwork/julia.jpeg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/finalwork/fun.rst">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="64">
-          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/finalwork/haozu.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/source/finalwork/science.rst">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="373">
@@ -648,20 +662,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/source/_static/Sunday-Final/Derivative.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="97">
-          <caret line="9" column="20" lean-forward="true" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/source/_static/Sunday-Final/limit2.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/_static/Sunday-Final/limit1.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
@@ -670,14 +671,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="560">
           <caret line="23" column="50" lean-forward="false" selection-start-line="23" selection-start-column="50" selection-end-line="23" selection-end-column="50" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/_static/Sunday-Final/Calculus_Basic.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="9" column="20" lean-forward="true" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
           <folding />
         </state>
       </provider>
@@ -696,6 +689,51 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="242">
           <caret line="35" column="10" lean-forward="true" selection-start-line="35" selection-start-column="10" selection-end-line="35" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_static/Sunday-Final/Calculus_Basic.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="6" column="44" lean-forward="false" selection-start-line="6" selection-start-column="40" selection-end-line="6" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_static/Sunday-Final/limit1.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_static/Sunday-Final/Derivative.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="6" column="45" lean-forward="false" selection-start-line="6" selection-start-column="45" selection-end-line="6" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_static/Sunday-Final/Infinite Series.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="6" column="45" lean-forward="false" selection-start-line="6" selection-start-column="45" selection-end-line="6" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_static/Sunday-Final/Integral.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="6" column="45" lean-forward="false" selection-start-line="6" selection-start-column="45" selection-end-line="6" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_static/Sunday-Final/Limit.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="6" column="45" lean-forward="false" selection-start-line="6" selection-start-column="45" selection-end-line="6" selection-end-column="45" />
           <folding />
         </state>
       </provider>
