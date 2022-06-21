@@ -13,4 +13,4 @@ Leo's Top 10 Movies(Leo)
 
 .. image:: leo.webp
        :scale: 65%
-       :target: ../_static/Leo-Final/html_final.html
+       :target: ../_static/Leo-final/top10_张天宇.html
