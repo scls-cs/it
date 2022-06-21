@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4d60759e-34c0-42fc-8bf9-b0b86f2f8cd9" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/_static/Julia-final/jojo6.1.JPG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/_static/Julia-final/jojo6.2.JPG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/_static/Julia-final/jojo6.3.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/_static/Julia-final/jojo6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/_static/Julia-final/jojo7.1.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/_static/Julia-final/jojo7.2.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/_static/Julia-final/jojo7.3.JPG" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -15,23 +16,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="film.rst" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/source/finalwork/film.rst">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="320">
-              <caret line="10" column="24" lean-forward="false" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="download.jpg" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/source/_static/Solomon-final/download.jpg">
-          <provider selected="true" editor-type-id="images">
-            <state />
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="NATO.jpg" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/source/_static/Solomon-final/NATO.jpg">
           <provider selected="true" editor-type-id="images">
@@ -74,7 +58,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="science.rst" pinned="false" current-in-tab="true">
+      <file leaf-file-name="science.rst" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/source/finalwork/science.rst">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="373">
@@ -84,11 +68,25 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="manga.rst" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/source/finalwork/manga.rst">
+      <file leaf-file-name="julia.jpeg" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/source/finalwork/julia.jpeg">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="haozu.jpg" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/source/finalwork/haozu.jpg">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="fun.rst" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/source/finalwork/fun.rst">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="480">
-              <caret line="15" column="46" lean-forward="false" selection-start-line="15" selection-start-column="46" selection-end-line="15" selection-end-column="46" />
+            <state relative-caret-position="64">
+              <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -421,20 +419,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/source/finalwork/finalwork.rst">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="7" lean-forward="true" selection-start-line="0" selection-start-column="7" selection-end-line="0" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/_static/Megan-final/images/Megan_final.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="82">
-          <caret line="24" column="24" lean-forward="false" selection-start-line="24" selection-start-column="24" selection-end-line="24" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/source/finalwork/elina.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -465,13 +449,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="768">
           <caret line="27" column="79" lean-forward="false" selection-start-line="27" selection-start-column="79" selection-end-line="27" selection-end-column="79" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/finalwork/fun.rst">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="64">
-          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -727,6 +704,24 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="373">
           <caret line="21" column="52" lean-forward="false" selection-start-line="21" selection-start-column="52" selection-end-line="21" selection-end-column="52" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/finalwork/julia.jpeg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/finalwork/haozu.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/finalwork/fun.rst">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
           <folding />
         </state>
       </provider>
