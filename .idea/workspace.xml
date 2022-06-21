@@ -2,25 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4d60759e-34c0-42fc-8bf9-b0b86f2f8cd9" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/finalwork/leo.webp" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_static/William-final/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_static/William-final/scripts/src_changer.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_static/William-final/sub_categories/alicization_war/alo.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_static/William-final/sub_categories/alicization_war/sao.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_static/William-final/sub_categories/fate/fate_zero.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_static/William-final/sub_categories/fate/fgo.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_static/William-final/sub_categories/fate/fsn_06.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_static/William-final/sub_categories/overlord/i.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_static/William-final/sub_categories/overlord/ii.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_static/William-final/sub_categories/overlord/iii.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_static/William-final/sub_categories/toaru_majutsu_no_index/railgun_i.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_static/William-final/sub_categories/toaru_majutsu_no_index/railgun_ii.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_static/William-final/sub_categories/toaru_majutsu_no_index/railgun_iii.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_static/William-final/sub_categories/toaru_majutsu_no_index/tmoi_i.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_static/William-final/sub_categories/toaru_majutsu_no_index/tmoi_ii.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_static/William-final/sub_categories/toaru_majutsu_no_index/tmoi_iii.html" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/finalwork/solomon.jpg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/finalwork/film.rst" afterPath="$PROJECT_DIR$/source/finalwork/film.rst" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/finalwork/science.rst" afterPath="$PROJECT_DIR$/source/finalwork/science.rst" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -32,7 +15,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="film.rst" pinned="false" current-in-tab="true">
+      <file leaf-file-name="film.rst" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/source/finalwork/film.rst">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="320">
@@ -42,11 +25,60 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="science.rst" pinned="false" current-in-tab="false">
+      <file leaf-file-name="download.jpg" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/source/_static/Solomon-final/download.jpg">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="NATO.jpg" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/source/_static/Solomon-final/NATO.jpg">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="NATO2.jpg" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/source/_static/Solomon-final/NATO2.jpg">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RC.JPG" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/source/_static/Solomon-final/RC.JPG">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="rs.jpg" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/source/_static/Solomon-final/rs.jpg">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="孤立.jpg" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/source/_static/Solomon-final/孤立.jpg">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="经济.jpg" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/source/_static/Solomon-final/经济.jpg">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="science.rst" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/source/finalwork/science.rst">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="560">
-              <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+            <state relative-caret-position="565">
+              <caret line="27" column="0" lean-forward="true" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -57,70 +89,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="480">
               <caret line="15" column="46" lean-forward="false" selection-start-line="15" selection-start-column="46" selection-end-line="15" selection-end-column="46" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="music.rst" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/source/finalwork/music.rst">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="896">
-              <caret line="28" column="57" lean-forward="false" selection-start-line="28" selection-start-column="57" selection-end-line="28" selection-end-column="57" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Oscar_final_2.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/source/_static/Oscar_final/Oscar_final_2.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="jenny.png" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/source/finalwork/jenny.png">
-          <provider selected="true" editor-type-id="images">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="lily.png" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/source/finalwork/lily.png">
-          <provider selected="true" editor-type-id="images">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/source/_static/Elina/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="896">
-              <caret line="28" column="36" lean-forward="false" selection-start-line="28" selection-start-column="36" selection-end-line="28" selection-end-column="36" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.rst" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/source/index.rst">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="4256">
-              <caret line="133" column="22" lean-forward="false" selection-start-line="133" selection-start-column="22" selection-end-line="133" selection-end-column="22" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="life.rst" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/source/finalwork/life.rst">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="480">
-              <caret line="15" column="44" lean-forward="false" selection-start-line="15" selection-start-column="44" selection-end-line="15" selection-end-column="44" />
               <folding />
             </state>
           </provider>
@@ -228,8 +196,8 @@
         <option value="$PROJECT_DIR$/source/_static/Elina/index.html" />
         <option value="$PROJECT_DIR$/source/finalwork/music.rst" />
         <option value="$PROJECT_DIR$/source/finalwork/manga.rst" />
-        <option value="$PROJECT_DIR$/source/finalwork/science.rst" />
         <option value="$PROJECT_DIR$/source/finalwork/film.rst" />
+        <option value="$PROJECT_DIR$/source/finalwork/science.rst" />
       </list>
     </option>
   </component>
@@ -326,7 +294,7 @@
               <item name="cs-intro" type="462c0819:PsiDirectoryNode" />
               <item name="source" type="462c0819:PsiDirectoryNode" />
               <item name="_static" type="462c0819:PsiDirectoryNode" />
-              <item name="Leo_final" type="462c0819:PsiDirectoryNode" />
+              <item name="Solomon-final" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="cs-intro" type="b2602c69:ProjectViewProjectNode" />
@@ -446,41 +414,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/source/_static/Haozu-final/新宝岛.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/_static/Haozu-final/鸡.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/_static/Haozu-final/鸡汤来咯.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/_static/Haozu-final/黑人抬棺.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/_static/Haozu-final/黑虎阿福.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/_static/Haozu-final/金坷垃.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/_static/Haozu-final/诸葛亮.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/source/finalwork/finalwork.rst">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -740,18 +673,53 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/source/finalwork/science.rst">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="560">
-          <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/source/finalwork/film.rst">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="320">
           <caret line="10" column="24" lean-forward="false" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_static/Solomon-final/download.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_static/Solomon-final/NATO.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_static/Solomon-final/NATO2.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_static/Solomon-final/RC.JPG">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_static/Solomon-final/rs.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_static/Solomon-final/孤立.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_static/Solomon-final/经济.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/finalwork/science.rst">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="565">
+          <caret line="27" column="0" lean-forward="true" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
           <folding />
         </state>
       </provider>

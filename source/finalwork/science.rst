@@ -20,3 +20,8 @@ Maze(Bruce)
 .. image:: bruce.jpeg
        :scale: 25%
        :target: ../_static/Bruce-final/Bruce_final.html
+
+Conflict(Solomon)
+------------
+.. image:: solomon.jpg
+       :target: ../_static/Solomon-final/俄乌冲突理性分析.html
