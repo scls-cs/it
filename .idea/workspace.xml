@@ -33,13 +33,34 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="film.rst" pinned="false" current-in-tab="true">
+      <file leaf-file-name="film.rst" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/source/finalwork/film.rst">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="480">
               <caret line="15" column="26" lean-forward="true" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
               <folding />
             </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="jojo16.2.JPG" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/source/_static/Julia-final/jojo16.2.JPG">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="jojo16.3.JPG" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/source/_static/Julia-final/jojo16.3.JPG">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="jojo16.jpg" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/source/_static/Julia-final/jojo16.jpg">
+          <provider selected="true" editor-type-id="images">
+            <state />
           </provider>
         </entry>
       </file>
