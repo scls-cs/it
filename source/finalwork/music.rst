@@ -30,7 +30,7 @@ Oscar designed player(Oscar)
 
 周杰伦的音乐播放器
 --------------------------
-.. image:: choloe.jpg
+.. image:: chloe.jpg
        :scale: 50%
        :target: ../_static/Chloe-final/七里香.html
 
