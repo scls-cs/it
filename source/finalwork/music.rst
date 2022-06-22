@@ -28,6 +28,12 @@ Oscar designed player(Oscar)
        :scale: 50%
        :target: ../_static/Oscar_final/Oscar_final_1.html
 
+周杰伦的音乐播放器
+--------------------------
+.. image:: jay.jpg
+       :scale: 50%
+       :target: ../_static/Chloe_final/七里香.html
+
 
 Alicia's favorite 10 songs(Alicia)
 --------------------------
