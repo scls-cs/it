@@ -32,5 +32,5 @@ Oscar designed player(Oscar)
 Alicia's favorite 10 songs(Alicia)
 --------------------------
 .. image:: alicia.jpg
-       :scale: 50%
+       :scale: 10%
        :target: ../_static/Alicia_final/主页.html
