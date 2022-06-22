@@ -28,7 +28,7 @@ Oscar designed player(Oscar)
        :scale: 50%
        :target: ../_static/Oscar_final/Oscar_final_1.html
 
-周杰伦的音乐播放器
+周杰伦的音乐播放器(Chloe)
 --------------------------
 .. image:: chloe.jpg
        :scale: 50%
