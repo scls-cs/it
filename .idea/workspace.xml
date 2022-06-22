@@ -2,11 +2,35 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4d60759e-34c0-42fc-8bf9-b0b86f2f8cd9" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_static/Alicia-final/rap.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_static/Alicia-final/双城之战.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_static/Alicia-final/期末.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_static/Alicia-final/歌剧.html" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/finalwork/alicia.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/source/_static/Alicia final/ARCANE.html" afterPath="$PROJECT_DIR$/source/_static/Alicia_final/ARCANE.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/source/_static/Alicia final/Alexander.jpg" afterPath="$PROJECT_DIR$/source/_static/Alicia_final/Alexander.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/source/_static/Alicia final/Enemy.jpg" afterPath="$PROJECT_DIR$/source/_static/Alicia_final/Enemy.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/source/_static/Alicia final/Me and the Sky.jpg" afterPath="$PROJECT_DIR$/source/_static/Alicia_final/Me and the Sky.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/source/_static/Alicia final/OPERA.html" afterPath="$PROJECT_DIR$/source/_static/Alicia_final/OPERA.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/source/_static/Alicia final/RAP.html" afterPath="$PROJECT_DIR$/source/_static/Alicia_final/RAP.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/source/_static/Alicia final/Waiting Wings.jpg" afterPath="$PROJECT_DIR$/source/_static/Alicia_final/Waiting Wings.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/source/_static/Alicia final/rap.jpeg" afterPath="$PROJECT_DIR$/source/_static/Alicia_final/rap.jpeg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/source/_static/Alicia final/主页.html" afterPath="$PROJECT_DIR$/source/_static/Alicia_final/主页.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/source/_static/Alicia final/初.jpg" afterPath="$PROJECT_DIR$/source/_static/Alicia_final/初.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/source/_static/Alicia final/双城之战.jpg" afterPath="$PROJECT_DIR$/source/_static/Alicia_final/双城之战.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/source/_static/Alicia final/双城之战p.jpeg" afterPath="$PROJECT_DIR$/source/_static/Alicia_final/双城之战p.jpeg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/source/_static/Alicia final/双手合十.jpg" afterPath="$PROJECT_DIR$/source/_static/Alicia_final/双手合十.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/source/_static/Alicia final/孤勇者.jpg" afterPath="$PROJECT_DIR$/source/_static/Alicia_final/孤勇者.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/source/_static/Alicia final/小丑女.jpg" afterPath="$PROJECT_DIR$/source/_static/Alicia_final/小丑女.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/source/_static/Alicia final/小美人鱼.jpg" afterPath="$PROJECT_DIR$/source/_static/Alicia_final/小美人鱼.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/source/_static/Alicia final/平行世界蜘蛛侠.jpg" afterPath="$PROJECT_DIR$/source/_static/Alicia_final/平行世界蜘蛛侠.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/source/_static/Alicia final/歌剧.jpeg" afterPath="$PROJECT_DIR$/source/_static/Alicia_final/歌剧.jpeg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/source/_static/Alicia final/歌剧魅影.jpg" afterPath="$PROJECT_DIR$/source/_static/Alicia_final/歌剧魅影.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/source/_static/Alicia final/毕业典礼.jpg" afterPath="$PROJECT_DIR$/source/_static/Alicia_final/毕业典礼.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/source/_static/Alicia final/海洋奇缘.jpg" afterPath="$PROJECT_DIR$/source/_static/Alicia_final/海洋奇缘.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/source/_static/Alicia final/百变酒精.jpg" afterPath="$PROJECT_DIR$/source/_static/Alicia_final/百变酒精.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/source/_static/Alicia final/红色山河.jpg" afterPath="$PROJECT_DIR$/source/_static/Alicia_final/红色山河.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/source/_static/Alicia final/花太阳彩虹你.jpg" afterPath="$PROJECT_DIR$/source/_static/Alicia_final/花太阳彩虹你.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/source/_static/Alicia final/范进中举.jpg" afterPath="$PROJECT_DIR$/source/_static/Alicia_final/范进中举.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/source/_static/Alicia final/阿拉丁.jpg" afterPath="$PROJECT_DIR$/source/_static/Alicia_final/阿拉丁.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/source/_static/Alicia final/马戏团.jpg" afterPath="$PROJECT_DIR$/source/_static/Alicia_final/马戏团.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/finalwork/music.rst" afterPath="$PROJECT_DIR$/source/finalwork/music.rst" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -17,18 +41,28 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Waiting Wings.jpg" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/source/_static/Alicia final/Waiting Wings.jpg">
+      <file leaf-file-name="OIP-C.jpeg" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/source/finalwork/OIP-C.jpeg">
           <provider selected="true" editor-type-id="images">
             <state />
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="主页.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/source/_static/Alicia final/主页.html">
+      <file leaf-file-name="music.rst" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/source/finalwork/music.rst">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="368">
-              <caret line="51" column="55" lean-forward="false" selection-start-line="51" selection-start-column="55" selection-end-line="51" selection-end-column="55" />
+            <state relative-caret-position="575">
+              <caret line="35" column="41" lean-forward="true" selection-start-line="35" selection-start-column="41" selection-end-line="35" selection-end-column="41" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.rst" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/source/index.rst">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="384">
+              <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -124,7 +158,6 @@
         <option value="$PROJECT_DIR$/source/Emily-final/index.html" />
         <option value="$PROJECT_DIR$/source/_static/Leo_final/top10_张天宇.html" />
         <option value="$PROJECT_DIR$/source/_static/Elina/index.html" />
-        <option value="$PROJECT_DIR$/source/finalwork/music.rst" />
         <option value="$PROJECT_DIR$/source/finalwork/manga.rst" />
         <option value="$PROJECT_DIR$/source/finalwork/science.rst" />
         <option value="$PROJECT_DIR$/source/finalwork/film.rst" />
@@ -138,6 +171,7 @@
         <option value="$PROJECT_DIR$/source/web/work.rst" />
         <option value="$PROJECT_DIR$/source/index.rst" />
         <option value="$PROJECT_DIR$/source/_static/Alicia final/主页.html" />
+        <option value="$PROJECT_DIR$/source/finalwork/music.rst" />
       </list>
     </option>
   </component>
@@ -215,7 +249,13 @@
               <item name="cs-intro" type="462c0819:PsiDirectoryNode" />
               <item name="source" type="462c0819:PsiDirectoryNode" />
               <item name="_static" type="462c0819:PsiDirectoryNode" />
-              <item name="Alicia final" type="462c0819:PsiDirectoryNode" />
+              <item name="Alicia_final" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cs-intro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cs-intro" type="462c0819:PsiDirectoryNode" />
+              <item name="source" type="462c0819:PsiDirectoryNode" />
+              <item name="finalwork" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -287,27 +327,41 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <frame x="0" y="42" width="1440" height="900" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25751072" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32945737" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32945737" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32945737" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2532189" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32945737" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25751072" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32945737" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2532189" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32945737" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32945737" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32945737" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32945737" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25751072" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32945737" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2532189" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -485,7 +539,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="192">
           <caret line="6" column="45" lean-forward="false" selection-start-line="6" selection-start-column="45" selection-end-line="6" selection-end-column="45" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -493,7 +546,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1952">
           <caret line="61" column="127" lean-forward="false" selection-start-line="61" selection-start-column="99" selection-end-line="61" selection-end-column="127" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -501,7 +553,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="192">
           <caret line="6" column="45" lean-forward="false" selection-start-line="6" selection-start-column="45" selection-end-line="6" selection-end-column="45" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -509,7 +560,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="192">
           <caret line="6" column="45" lean-forward="false" selection-start-line="6" selection-start-column="45" selection-end-line="6" selection-end-column="45" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -522,7 +572,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="96">
           <caret line="3" column="8" lean-forward="false" selection-start-line="3" selection-start-column="8" selection-end-line="3" selection-end-column="8" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -530,7 +579,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -546,7 +594,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="9" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -554,80 +601,43 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="128">
           <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/source/_static/Alicia final/.idea/misc.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/_static/Alicia final/.idea/modules.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/_static/Alicia final/.idea/workspace.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/_static/Alicia final/.idea/Alicia final.iml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/_static/Alicia final/.idea/inspectionProfiles/profiles_settings.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/_static/Alicia final/初.jpg">
+    <entry file="file://$PROJECT_DIR$/source/_static/Alicia final/.idea/misc.xml" />
+    <entry file="file://$PROJECT_DIR$/source/_static/Alicia final/.idea/modules.xml" />
+    <entry file="file://$PROJECT_DIR$/source/_static/Alicia final/.idea/workspace.xml" />
+    <entry file="file://$PROJECT_DIR$/source/_static/Alicia final/.idea/Alicia final.iml" />
+    <entry file="file://$PROJECT_DIR$/source/_static/Alicia final/.idea/inspectionProfiles/profiles_settings.xml" />
+    <entry file="file://$PROJECT_DIR$/source/_static/Alicia_final/初.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/source/_static/Alicia final/孤勇者.jpg">
+    <entry file="file://$PROJECT_DIR$/source/_static/Alicia_final/孤勇者.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/source/_static/Alicia final/小丑女.jpg">
+    <entry file="file://$PROJECT_DIR$/source/_static/Alicia_final/小丑女.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/source/_static/Alicia final/歌剧.jpeg">
+    <entry file="file://$PROJECT_DIR$/source/_static/Alicia_final/歌剧.jpeg">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/source/_static/Alicia final/Waiting Wings.jpg">
+    <entry file="file://$PROJECT_DIR$/source/_static/Alicia_final/Waiting Wings.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/source/_static/Alicia final/主页.html">
+    <entry file="file://$PROJECT_DIR$/source/_static/Alicia_final/主页.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="368">
           <caret line="51" column="55" lean-forward="false" selection-start-line="51" selection-start-column="55" selection-end-line="51" selection-end-column="55" />
-          <folding />
         </state>
       </provider>
     </entry>

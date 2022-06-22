@@ -27,3 +27,10 @@ Oscar designed player(Oscar)
 .. image:: oscar.jpeg
        :scale: 50%
        :target: ../_static/Oscar_final/Oscar_final_1.html
+
+
+Alicia's favorite 10 songs(Alicia)
+--------------------------
+.. image:: alicia.jpg
+       :scale: 50%
+       :target: ../_static/Alicia_final/主页.html
