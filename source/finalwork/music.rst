@@ -30,9 +30,9 @@ Oscar designed player(Oscar)
 
 周杰伦的音乐播放器
 --------------------------
-.. image:: jay.jpg
+.. image:: choloe.jpg
        :scale: 50%
-       :target: ../_static/Chloe_final/七里香.html
+       :target: ../_static/Chloe-final/七里香.html
 
 
 Alicia's favorite 10 songs(Alicia)
