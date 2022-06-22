@@ -2,35 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4d60759e-34c0-42fc-8bf9-b0b86f2f8cd9" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/finalwork/alicia.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/source/_static/Alicia final/ARCANE.html" afterPath="$PROJECT_DIR$/source/_static/Alicia_final/ARCANE.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/source/_static/Alicia final/Alexander.jpg" afterPath="$PROJECT_DIR$/source/_static/Alicia_final/Alexander.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/source/_static/Alicia final/Enemy.jpg" afterPath="$PROJECT_DIR$/source/_static/Alicia_final/Enemy.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/source/_static/Alicia final/Me and the Sky.jpg" afterPath="$PROJECT_DIR$/source/_static/Alicia_final/Me and the Sky.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/source/_static/Alicia final/OPERA.html" afterPath="$PROJECT_DIR$/source/_static/Alicia_final/OPERA.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/source/_static/Alicia final/RAP.html" afterPath="$PROJECT_DIR$/source/_static/Alicia_final/RAP.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/source/_static/Alicia final/Waiting Wings.jpg" afterPath="$PROJECT_DIR$/source/_static/Alicia_final/Waiting Wings.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/source/_static/Alicia final/rap.jpeg" afterPath="$PROJECT_DIR$/source/_static/Alicia_final/rap.jpeg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/source/_static/Alicia final/主页.html" afterPath="$PROJECT_DIR$/source/_static/Alicia_final/主页.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/source/_static/Alicia final/初.jpg" afterPath="$PROJECT_DIR$/source/_static/Alicia_final/初.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/source/_static/Alicia final/双城之战.jpg" afterPath="$PROJECT_DIR$/source/_static/Alicia_final/双城之战.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/source/_static/Alicia final/双城之战p.jpeg" afterPath="$PROJECT_DIR$/source/_static/Alicia_final/双城之战p.jpeg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/source/_static/Alicia final/双手合十.jpg" afterPath="$PROJECT_DIR$/source/_static/Alicia_final/双手合十.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/source/_static/Alicia final/孤勇者.jpg" afterPath="$PROJECT_DIR$/source/_static/Alicia_final/孤勇者.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/source/_static/Alicia final/小丑女.jpg" afterPath="$PROJECT_DIR$/source/_static/Alicia_final/小丑女.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/source/_static/Alicia final/小美人鱼.jpg" afterPath="$PROJECT_DIR$/source/_static/Alicia_final/小美人鱼.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/source/_static/Alicia final/平行世界蜘蛛侠.jpg" afterPath="$PROJECT_DIR$/source/_static/Alicia_final/平行世界蜘蛛侠.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/source/_static/Alicia final/歌剧.jpeg" afterPath="$PROJECT_DIR$/source/_static/Alicia_final/歌剧.jpeg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/source/_static/Alicia final/歌剧魅影.jpg" afterPath="$PROJECT_DIR$/source/_static/Alicia_final/歌剧魅影.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/source/_static/Alicia final/毕业典礼.jpg" afterPath="$PROJECT_DIR$/source/_static/Alicia_final/毕业典礼.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/source/_static/Alicia final/海洋奇缘.jpg" afterPath="$PROJECT_DIR$/source/_static/Alicia_final/海洋奇缘.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/source/_static/Alicia final/百变酒精.jpg" afterPath="$PROJECT_DIR$/source/_static/Alicia_final/百变酒精.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/source/_static/Alicia final/红色山河.jpg" afterPath="$PROJECT_DIR$/source/_static/Alicia_final/红色山河.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/source/_static/Alicia final/花太阳彩虹你.jpg" afterPath="$PROJECT_DIR$/source/_static/Alicia_final/花太阳彩虹你.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/source/_static/Alicia final/范进中举.jpg" afterPath="$PROJECT_DIR$/source/_static/Alicia_final/范进中举.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/source/_static/Alicia final/阿拉丁.jpg" afterPath="$PROJECT_DIR$/source/_static/Alicia_final/阿拉丁.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/source/_static/Alicia final/马戏团.jpg" afterPath="$PROJECT_DIR$/source/_static/Alicia_final/马戏团.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/finalwork/music.rst" afterPath="$PROJECT_DIR$/source/finalwork/music.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/_static/Chloe-final/jay.mp4" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -248,13 +221,6 @@
               <item name="cs-intro" type="b2602c69:ProjectViewProjectNode" />
               <item name="cs-intro" type="462c0819:PsiDirectoryNode" />
               <item name="source" type="462c0819:PsiDirectoryNode" />
-              <item name="_static" type="462c0819:PsiDirectoryNode" />
-              <item name="Alicia_final" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="cs-intro" type="b2602c69:ProjectViewProjectNode" />
-              <item name="cs-intro" type="462c0819:PsiDirectoryNode" />
-              <item name="source" type="462c0819:PsiDirectoryNode" />
               <item name="finalwork" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -284,11 +250,11 @@
       <recent name="$PROJECT_DIR$/source/final" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/source/_static/Chloe-final" />
       <recent name="$PROJECT_DIR$/source/_static" />
       <recent name="$PROJECT_DIR$/source/_static/Julia-final" />
       <recent name="$PROJECT_DIR$/source/finalwork" />
       <recent name="$PROJECT_DIR$/source" />
-      <recent name="$PROJECT_DIR$/source/Emily-final" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -328,7 +294,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="42" width="1440" height="900" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32945737" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -336,7 +301,7 @@
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32945737" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32945737" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25751072" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25751072" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32945737" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2532189" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
